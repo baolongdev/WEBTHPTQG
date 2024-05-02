@@ -1,0 +1,1239 @@
+[
+    {
+        "question": "Câu 1. Quan điểm nào dưới đây sai khi nói về quyền học tập của công dân? ",
+        "answer": [
+            {
+                "value": "Quyền học bất cứ ngành, nghề nào. "
+            },
+            {
+                "value": "Quyền học thường xuyên, học suốt đời.  "
+            },
+            {
+                "value": "Quyền học tập khi có sự đồng ý của các cơ quan có thẩm quyền. "
+            },
+            {
+                "value": "Quyền học tập không hạn chế. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Quyền học bất cứ ngành, nghề nào. "
+            },
+            {
+                "value": "Quyền học thường xuyên, học suốt đời.  "
+            },
+            {
+                "value": "Quyền học tập khi có sự đồng ý của các cơ quan có thẩm quyền. "
+            },
+            {
+                "value": "Quyền học tập không hạn chế. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Chính sách miễn giảm học phí của Nhà nước ta đã tạo điều kiện giúp đỡ nhiều học sinh có  hoàn cảnh khó khăn được học tập. Điều này thể hiện ",
+        "answer": [
+            {
+                "value": "A. bất bình đẳng trong giáo dục."
+            },
+            {
+                "value": "công bằng xã hội trong giáo dục "
+            },
+            {
+                "value": "định hướng đổi mới giáo dục. "
+            },
+            {
+                "value": "chủ trương phát triển giáo dục."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. bất bình đẳng trong giáo dục."
+            },
+            {
+                "value": "công bằng xã hội trong giáo dục "
+            },
+            {
+                "value": "định hướng đổi mới giáo dục. "
+            },
+            {
+                "value": "chủ trương phát triển giáo dục."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Tác phẩm văn học do công dân tạo ra được pháp luật bảo hộ thuộc quyền nào dưới đây của công dân? ",
+        "answer": [
+            {
+                "value": "Quyền tác giả. "
+            },
+            {
+                "value": "Quyền sở hữu công nghiệp. "
+            },
+            {
+                "value": "Quyền phát minh sáng chế. "
+            },
+            {
+                "value": "Quyền được phát triển. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Quyền tác giả. "
+            },
+            {
+                "value": "Quyền sở hữu công nghiệp. "
+            },
+            {
+                "value": "Quyền phát minh sáng chế. "
+            },
+            {
+                "value": "Quyền được phát triển. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Nhà trường phát động cuộc thi vẽ tranh với chủ đề “Bảo vệ biển đảo quê hương”. M đã tự ý sao chép bức tranh của chị gái và gửi dự thi với tên mình. M đã vi phạm quyền nào dưới đây của công  dân?  ",
+        "answer": [
+            {
+                "value": "Ứng dụng. "
+            },
+            {
+                "value": "Sáng tạo. "
+            },
+            {
+                "value": "Ủy nhiệm. "
+            },
+            {
+                "value": "Chuyển nhượng.  "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Ứng dụng. "
+            },
+            {
+                "value": "Sáng tạo. "
+            },
+            {
+                "value": "Ủy nhiệm. "
+            },
+            {
+                "value": "Chuyển nhượng.  "
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Nhà nước cho người nghèo vay vốn ưu đãi để kinh doanh là thực hiện nội dung cơ bản của  pháp luật về phát triển các lĩnh vực ",
+        "answer": [
+            {
+                "value": "văn hóa. "
+            },
+            {
+                "value": "hành chính. "
+            },
+            {
+                "value": "xã hội. "
+            },
+            {
+                "value": "công vụ. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "văn hóa. "
+            },
+            {
+                "value": "hành chính. "
+            },
+            {
+                "value": "xã hội. "
+            },
+            {
+                "value": "công vụ. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Công dân được tự do khám phá khoa học để tạo ra sản phẩm trong các lĩnh vực của đời sống xã hội là thực hiện quyền ",
+        "answer": [
+            {
+                "value": "sáng tạo. "
+            },
+            {
+                "value": "sáng chế. "
+            },
+            {
+                "value": "sáng tác. "
+            },
+            {
+                "value": "phát minh. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "sáng tạo. "
+            },
+            {
+                "value": "sáng chế. "
+            },
+            {
+                "value": "sáng tác. "
+            },
+            {
+                "value": "phát minh. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Những người phát triển sớm về trí tuệ được học trước tuổi, học vượt lớp là thề hiện nội dung  quyền được ",
+        "answer": [
+            {
+                "value": "phát triển. "
+            },
+            {
+                "value": "bình chọn. "
+            },
+            {
+                "value": "khuyến khích tài năng. "
+            },
+            {
+                "value": "phán quyết. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "phát triển. "
+            },
+            {
+                "value": "bình chọn. "
+            },
+            {
+                "value": "khuyến khích tài năng. "
+            },
+            {
+                "value": "phán quyết. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Học thường xuyên, học suốt đời nghĩa là mọi công dân được học bằng  ",
+        "answer": [
+            {
+                "value": "tất cả giáo hình nâng cao. "
+            },
+            {
+                "value": "những cách thức thống nhất. "
+            },
+            {
+                "value": "các phương tiện hiện đại. "
+            },
+            {
+                "value": "nhiều hình thức khác nhau. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "tất cả giáo hình nâng cao. "
+            },
+            {
+                "value": "những cách thức thống nhất. "
+            },
+            {
+                "value": "các phương tiện hiện đại. "
+            },
+            {
+                "value": "nhiều hình thức khác nhau. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Học sinh tham gia phòng, chống bạo lực học đường là thực hiện nội dung cơ bản của pháp  luật về phát triển các lĩnh vực ",
+        "answer": [
+            {
+                "value": "kinh tế. "
+            },
+            {
+                "value": "xã hội. "
+            },
+            {
+                "value": "chính trị. "
+            },
+            {
+                "value": "văn hóa, du lịch. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "kinh tế. "
+            },
+            {
+                "value": "xã hội. "
+            },
+            {
+                "value": "chính trị. "
+            },
+            {
+                "value": "văn hóa, du lịch. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 10. Nội dung nào dưới đây không thuộc quyền được phát triển của công dân? ",
+        "answer": [
+            {
+                "value": "Xử lí thông tin liên ngành. "
+            },
+            {
+                "value": "Nghỉ ngơi, vui chơi, giải trí. "
+            },
+            {
+                "value": "Khuyến khích bồi dưỡng tài năng. "
+            },
+            {
+                "value": "Tham gia các hoạt động văn hóa. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Xử lí thông tin liên ngành. "
+            },
+            {
+                "value": "Nghỉ ngơi, vui chơi, giải trí. "
+            },
+            {
+                "value": "Khuyến khích bồi dưỡng tài năng. "
+            },
+            {
+                "value": "Tham gia các hoạt động văn hóa. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 11. Mọi công dân khi đủ điều kiện theo quy định của pháp luật đều được đăng kí và cấp giấy  phép kinh doanh là thể hiện binh đẳng về ",
+        "answer": [
+            {
+                "value": "quyền. "
+            },
+            {
+                "value": "nghĩa vụ. "
+            },
+            {
+                "value": "trách nhiệm. "
+            },
+            {
+                "value": "trách nhiệm pháp lí. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "quyền. "
+            },
+            {
+                "value": "nghĩa vụ. "
+            },
+            {
+                "value": "trách nhiệm. "
+            },
+            {
+                "value": "trách nhiệm pháp lí. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 12. Mặc dù bố mẹ A muốn con trở thành bác sĩ nhưng A lại đăng kí vào trường sư phạm. A đã vận dụng quyền học tập ở nội dung nào dưới đây? ",
+        "answer": [
+            {
+                "value": "Học theo chỉ định. "
+            },
+            {
+                "value": "Học vượt cấp, vượt lớp. "
+            },
+            {
+                "value": "Học thường xuyên, liên tục. "
+            },
+            {
+                "value": "Học bất cứ ngành, nghề nào. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Học theo chỉ định. "
+            },
+            {
+                "value": "Học vượt cấp, vượt lớp. "
+            },
+            {
+                "value": "Học thường xuyên, liên tục. "
+            },
+            {
+                "value": "Học bất cứ ngành, nghề nào. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 13. Công dân được tự do nghiên cứu, chế tạo ra các sản phẩm khoa học là nội dung quyền  ",
+        "answer": [
+            {
+                "value": "sáng chế. "
+            },
+            {
+                "value": "sáng tác. "
+            },
+            {
+                "value": "sáng tạo. "
+            },
+            {
+                "value": "tác giả. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "sáng chế. "
+            },
+            {
+                "value": "sáng tác. "
+            },
+            {
+                "value": "sáng tạo. "
+            },
+            {
+                "value": "tác giả. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 14. Theo quy định của pháp luật, mức độ sử dụng quyền và thực hiện nghĩa vụ của mọi công dân phụ thuộc vào ",
+        "answer": [
+            {
+                "value": "sở thích riêng biệt. "
+            },
+            {
+                "value": "nhu cầu cụ thể. "
+            },
+            {
+                "value": "khả năng của mỗi người. "
+            },
+            {
+                "value": "nguyện vọng của cá nhân. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "sở thích riêng biệt. "
+            },
+            {
+                "value": "nhu cầu cụ thể. "
+            },
+            {
+                "value": "khả năng của mỗi người. "
+            },
+            {
+                "value": "nguyện vọng của cá nhân. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 15. Mọi công dân có thể học tập bằng nhiều hình thức và ở các loại hình trường, lớp khác nhau  là thực hiện nội dung quyền ",
+        "answer": [
+            {
+                "value": "dự thi lấy chứng chi nghề. "
+            },
+            {
+                "value": "đổi mới giáo trình nâng cao. "
+            },
+            {
+                "value": "lựa chọn chương trình song ngữ. "
+            },
+            {
+                "value": "học thường xuyên, học suốt đời. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "dự thi lấy chứng chi nghề. "
+            },
+            {
+                "value": "đổi mới giáo trình nâng cao. "
+            },
+            {
+                "value": "lựa chọn chương trình song ngữ. "
+            },
+            {
+                "value": "học thường xuyên, học suốt đời. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 16. Nội dung nào dưới đây thể hiện quyền học không hạn chế của công dân? ",
+        "answer": [
+            {
+                "value": "Học thay người đại diện. "
+            },
+            {
+                "value": "Học theo sự ủy quyền."
+            },
+            {
+                "value": "Học khi được chỉ định. "
+            },
+            {
+                "value": "Học từ thấp đến cao. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Học thay người đại diện. "
+            },
+            {
+                "value": "Học theo sự ủy quyền."
+            },
+            {
+                "value": "Học khi được chỉ định. "
+            },
+            {
+                "value": "Học từ thấp đến cao. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 17. Học sinh A giành Huy chương vàng Olympic quốc tế nên được một số trường đại học xét  tuyển thẳng. Học sinh A đã hưởng quyền được phát triển ở nội dung nào dưới đây? ",
+        "answer": [
+            {
+                "value": "Thay đổi thông tin. "
+            },
+            {
+                "value": "Phát minh sáng chế. "
+            },
+            {
+                "value": "Ứng dụng kĩ thuật tiên tiến."
+            },
+            {
+                "value": "Bồi dưỡng phát triển tài năng.  "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Thay đổi thông tin. "
+            },
+            {
+                "value": "Phát minh sáng chế. "
+            },
+            {
+                "value": "Ứng dụng kĩ thuật tiên tiến."
+            },
+            {
+                "value": "Bồi dưỡng phát triển tài năng.  "
+            }
+        ]
+    },
+    {
+        "question": "Câu 18. Những người có tài năng được tạo mọi điều kiện để làm việc và cống hiến cho đất nước là  nội dung quyền được ",
+        "answer": [
+            {
+                "value": "phát huy. "
+            },
+            {
+                "value": "phát triển. "
+            },
+            {
+                "value": "giám sát. "
+            },
+            {
+                "value": "phán quyết. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "phát huy. "
+            },
+            {
+                "value": "phát triển. "
+            },
+            {
+                "value": "giám sát. "
+            },
+            {
+                "value": "phán quyết. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 19. Mọi công dân đều được học ở các trường cao đẳng, đại học thông qua tuyển sinh là thể hiện nội dung quyền học ",
+        "answer": [
+            {
+                "value": "theo chỉ định. "
+            },
+            {
+                "value": "trực tuyến. "
+            },
+            {
+                "value": "liên thông. "
+            },
+            {
+                "value": "không hạn chế. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "theo chỉ định. "
+            },
+            {
+                "value": "trực tuyến. "
+            },
+            {
+                "value": "liên thông. "
+            },
+            {
+                "value": "không hạn chế. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 20. Những tác phẩm, công trình khoa học của công dân đã đăng kí bản quyền được Nhà nước và  pháp luật ",
+        "answer": [
+            {
+                "value": "chuyển nhượng. "
+            },
+            {
+                "value": "bảo vệ. "
+            },
+            {
+                "value": "chuyển giao. "
+            },
+            {
+                "value": "bảo mật. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "chuyển nhượng. "
+            },
+            {
+                "value": "bảo vệ. "
+            },
+            {
+                "value": "chuyển giao. "
+            },
+            {
+                "value": "bảo mật. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 21. Nội dung nào dưới đây không thuộc quyền học tập của công dân? ",
+        "answer": [
+            {
+                "value": "Học bất cứ ngành, nghề nào phù hợp. "
+            },
+            {
+                "value": "Học từ thấp đến cao. "
+            },
+            {
+                "value": "Học theo sự ủy quyền. "
+            },
+            {
+                "value": "Học bằng nhiều hình thức khác nhau. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Học bất cứ ngành, nghề nào phù hợp. "
+            },
+            {
+                "value": "Học từ thấp đến cao. "
+            },
+            {
+                "value": "Học theo sự ủy quyền. "
+            },
+            {
+                "value": "Học bằng nhiều hình thức khác nhau. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 22. Sau khi tập thơ của anh A được nhà xuất bản X phát hành, cho rằng anh A có hành vi vi  phạm bản quyền nên chị B đã làm đơn tố cáo. Khi cơ quan chức năng chưa đưa ra quyết định chính  thức, anh A vẫn được hưởng quyền nào dưới đây của công dân? ",
+        "answer": [
+            {
+                "value": "sáng tác. "
+            },
+            {
+                "value": "tác giả. "
+            },
+            {
+                "value": "Sáng chế. "
+            },
+            {
+                "value": "Sở hữu công nghiệp. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "sáng tác. "
+            },
+            {
+                "value": "tác giả. "
+            },
+            {
+                "value": "Sáng chế. "
+            },
+            {
+                "value": "Sở hữu công nghiệp. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 23. Công dân được tự do tim tòi, suy nghĩ để đưa ra các phát minh, sáng chế là thực hiện nội  dung quyền ",
+        "answer": [
+            {
+                "value": "sáng kiến. "
+            },
+            {
+                "value": "sáng tác. "
+            },
+            {
+                "value": "sáng tạo. "
+            },
+            {
+                "value": "phát minh. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "sáng kiến. "
+            },
+            {
+                "value": "sáng tác. "
+            },
+            {
+                "value": "sáng tạo. "
+            },
+            {
+                "value": "phát minh. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 24. Công dân được hưởng mức sống đầy đủ về vật chất và tinh thần là thể hiện nội dung quyền  được ",
+        "answer": [
+            {
+                "value": "học tập. "
+            },
+            {
+                "value": "sáng tạo. "
+            },
+            {
+                "value": "sáng chế. "
+            },
+            {
+                "value": "phát triển. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "học tập. "
+            },
+            {
+                "value": "sáng tạo. "
+            },
+            {
+                "value": "sáng chế. "
+            },
+            {
+                "value": "phát triển. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 25. Hành vi nào dưới đây vi phạm quyền sáng tạo của công dân? ",
+        "answer": [
+            {
+                "value": "Chuyển giao quy trình quản lí. "
+            },
+            {
+                "value": "Làm giả nhãn hiệu hàng hóa. "
+            },
+            {
+                "value": "Chủ động đăng kí bản quyền. "
+            },
+            {
+                "value": "Ứng dụng công nghệ tiên tiến. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Chuyển giao quy trình quản lí. "
+            },
+            {
+                "value": "Làm giả nhãn hiệu hàng hóa. "
+            },
+            {
+                "value": "Chủ động đăng kí bản quyền. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 26. Quyền được khuyến khích, bồi dưỡng để phát triển tài năng của công dân thuộc nhóm quyền  nào dưới đây? ",
+        "answer": [
+            {
+                "value": "Quyền được phát triển. "
+            },
+            {
+                "value": "Quyền được tham gia.  "
+            },
+            {
+                "value": "Quyền được sáng tạo. "
+            },
+            {
+                "value": "Quyền tác giả. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Quyền được phát triển. "
+            },
+            {
+                "value": "Quyền được tham gia.  "
+            },
+            {
+                "value": "Quyền được sáng tạo. "
+            },
+            {
+                "value": "Quyền tác giả. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 27. Công dân được cung cấp thông tin và chăm sóc sức khỏe là nội dung quyền được ",
+        "answer": [
+            {
+                "value": "bảo vệ. "
+            },
+            {
+                "value": "sáng tạo. "
+            },
+            {
+                "value": "học tập. "
+            },
+            {
+                "value": "phát triển.  "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "bảo vệ. "
+            },
+            {
+                "value": "sáng tạo. "
+            },
+            {
+                "value": "học tập. "
+            },
+            {
+                "value": "phát triển.  "
+            }
+        ]
+    },
+    {
+        "question": "Câu 28. Nhà nước yêu cầu các cơ quan chức năng dùng nhiều hình thức khác nhau để bổ sung kiến  thức cho học sinh thông qua phát sóng truyền hình; dạy học thông qua trang E-Learning, dạy học bằng  những ứng dụng Zoom, Meet, Classroom, Facebook, Zalo,…trong thời gian học sinh nghỉ học ở nhà  phòng chống dịch Covid – 19. Việc làm này thể hiện nội dung nào của quyền học tập? ",
+        "answer": [
+            {
+                "value": "Học thường xuyên, suốt đời. "
+            },
+            {
+                "value": "Học không hạn chế. "
+            },
+            {
+                "value": "Học từ thấp đến cao. "
+            },
+            {
+                "value": "Bình đẳng trong học tập. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Học thường xuyên, suốt đời. "
+            },
+            {
+                "value": "Học không hạn chế. "
+            },
+            {
+                "value": "Học từ thấp đến cao. "
+            },
+            {
+                "value": "Bình đẳng trong học tập. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 29. Cha mẹ được khuyến cáo chủng ngừa đầy đủ cho trẻ về các bệnh đã có vắc-xin phòng ngừa để có được sự bảo vệ tốt tránh khỏi một số bệnh nguy hiểm. Các vắc xin khuyến cáo chủng ngừa  thường qui cho trẻ nhỏ được miễn phí trong Chương trình Tiêm chủng Quốc gia. Điều này thể hiện quyền gì của trẻ em? ",
+        "answer": [
+            {
+                "value": "Quyền phát triển. "
+            },
+            {
+                "value": "Quyền chăm sóc sức khỏe. "
+            },
+            {
+                "value": "Quyền trẻ em. "
+            },
+            {
+                "value": "Quyền được bảo vệ. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Quyền phát triển. "
+            },
+            {
+                "value": "Quyền chăm sóc sức khỏe. "
+            },
+            {
+                "value": "Quyền trẻ em. "
+            },
+            {
+                "value": "Quyền được bảo vệ. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 30. Mọi công dân đều có quyền học từ thấp tới cao. Nội dung này thể hiện quyền?",
+        "answer": [
+            {
+                "value": "Quyền được phát triển của công dân. "
+            },
+            {
+                "value": "Quyền dân chủ của công dân. "
+            },
+            {
+                "value": "Quyền học tập của công dân. "
+            },
+            {
+                "value": "Quyền sáng tạo của công dân. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Quyền được phát triển của công dân. "
+            },
+            {
+                "value": "Quyền dân chủ của công dân. "
+            },
+            {
+                "value": "Quyền học tập của công dân. "
+            },
+            {
+                "value": "Quyền sáng tạo của công dân. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 31. Nội dung nào dưới đây không thể hiện quyền học tập của công dân? ",
+        "answer": [
+            {
+                "value": "Học từ thấp đến cao. "
+            },
+            {
+                "value": "Tự do nghiên cứu khoa học. "
+            },
+            {
+                "value": "Học từ thường xuyên, suốt đời. "
+            },
+            {
+                "value": "“Học, học nữa, học mãi”. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Học từ thấp đến cao. "
+            },
+            {
+                "value": "Tự do nghiên cứu khoa học. "
+            },
+            {
+                "value": "Học từ thường xuyên, suốt đời. "
+            },
+            {
+                "value": "“Học, học nữa, học mãi”. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 32. Pháp luật thực hiện công bằng xã hội trong giáo dục nhằm ",
+        "answer": [
+            {
+                "value": "tạo điều kiện để ai cũng được học hành. "
+            },
+            {
+                "value": "tạo điều kiện để ai cũng được phát triển. "
+            },
+            {
+                "value": "tạo điều kiện để ai cũng được sáng tạo. "
+            },
+            {
+                "value": "tạo điều kiện để ai cũng được nghiên cứu khoa học. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "tạo điều kiện để ai cũng được học hành. "
+            },
+            {
+                "value": "tạo điều kiện để ai cũng được phát triển. "
+            },
+            {
+                "value": "tạo điều kiện để ai cũng được sáng tạo. "
+            },
+            {
+                "value": "tạo điều kiện để ai cũng được nghiên cứu khoa học. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 33. Phát hiện, tìm tòi các hiện tương, sự vật trong tự nhiên và xã hội của con người là hoạt động ",
+        "answer": [
+            {
+                "value": "học tập thường xuyên. "
+            },
+            {
+                "value": "phát triển năng khiếu. "
+            },
+            {
+                "value": "nghiên cứu khoa học. "
+            },
+            {
+                "value": "hưởng thụ đời sống. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "học tập thường xuyên. "
+            },
+            {
+                "value": "phát triển năng khiếu. "
+            },
+            {
+                "value": "nghiên cứu khoa học. "
+            },
+            {
+                "value": "hưởng thụ đời sống. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 34. Quyền tác giả, quyền sở hữu công nghiệp, quyền hoạt động khoa học công nghệ là nội dung của ",
+        "answer": [
+            {
+                "value": "quyền học tập của công dân. "
+            },
+            {
+                "value": "quyền sáng tạo của công dân. "
+            },
+            {
+                "value": "quyền phát triển của công dân. "
+            },
+            {
+                "value": "quyền tự do của công dân. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "quyền học tập của công dân. "
+            },
+            {
+                "value": "quyền sáng tạo của công dân. "
+            },
+            {
+                "value": "quyền phát triển của công dân. "
+            },
+            {
+                "value": "quyền tự do của công dân. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 35. Công dân học từ tiểu học đến trung học đến đại học và sau đại học. Điều này thể hiện nội  dung nào về quyền học tập của công dân? ",
+        "answer": [
+            {
+                "value": "Học thường xuyên. "
+            },
+            {
+                "value": "Học không hạn chế. "
+            },
+            {
+                "value": "Học bất cứ ngành nghề nào."
+            },
+            {
+                "value": "Học bằng nhiều hình thức. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Học thường xuyên. "
+            },
+            {
+                "value": "Học không hạn chế. "
+            },
+            {
+                "value": "Học bất cứ ngành nghề nào."
+            },
+            {
+                "value": "Học bằng nhiều hình thức. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 36. Quyền sáng tạo của công dân bao gồm ",
+        "answer": [
+            {
+                "value": "quyền phát triển cá nhân, quyền tác giả, quyền sở hữu. "
+            },
+            {
+                "value": "quyền tìm hiểu khoa học, quyền sở hữu, khám phá cái mới. "
+            },
+            {
+                "value": "quyền tự do sáng tác, quyền phát triển cá nhân. "
+            },
+            {
+                "value": "quyền tác giả, quyền sở hữu công nghiệp, hoạt động khoa học công nghệ. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "quyền phát triển cá nhân, quyền tác giả, quyền sở hữu. "
+            },
+            {
+                "value": "quyền tìm hiểu khoa học, quyền sở hữu, khám phá cái mới. "
+            },
+            {
+                "value": "quyền tự do sáng tác, quyền phát triển cá nhân. "
+            },
+            {
+                "value": "quyền tác giả, quyền sở hữu công nghiệp, hoạt động khoa học công nghệ. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 37. Nội dung nào sau đây thuộc quyền sáng tạo của công dân? ",
+        "answer": [
+            {
+                "value": "Công dân được quyền thưởng thức các tác phẩm văn học, nghệ thuật. "
+            },
+            {
+                "value": "Công dân được quyền phát triển tài năng của mình. "
+            },
+            {
+                "value": "Công dân được học tập, tìm hiểu công trình khoa học. "
+            },
+            {
+                "value": "Công dân được quyền sáng tạo các sáng chế, kiểu dáng công nghiệp. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Công dân được quyền thưởng thức các tác phẩm văn học, nghệ thuật. "
+            },
+            {
+                "value": "Công dân được quyền phát triển tài năng của mình. "
+            },
+            {
+                "value": "Công dân được học tập, tìm hiểu công trình khoa học. "
+            },
+            {
+                "value": "Công dân được quyền sáng tạo các sáng chế, kiểu dáng công nghiệp. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 38. Khẳng định: “Công dân được khuyến khích, bồi dưỡng để phát triển tài năng” thuộc quyền  nào sau đây? ",
+        "answer": [
+            {
+                "value": "Quyền được phát triển."
+            },
+            {
+                "value": "Quyền học tập. "
+            },
+            {
+                "value": "Quyền sáng tạo. "
+            },
+            {
+                "value": "Quyền bình đẳng. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Quyền được phát triển."
+            },
+            {
+                "value": "Quyền học tập. "
+            },
+            {
+                "value": "Quyền sáng tạo. "
+            },
+            {
+                "value": "Quyền bình đẳng. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 39. Quyền được phát triển của công dân thể hiện ở nội dung nào sau đây? ",
+        "answer": [
+            {
+                "value": "Tất cả công dân đều được bồi dưỡng để phát triển tài năng. "
+            },
+            {
+                "value": "Công dân được khuyến khích, bồi dưỡng để phát triển tài năng. "
+            },
+            {
+                "value": "Mọi công dân có quyền học tập suốt đời để phát triển tài năng.  "
+            },
+            {
+                "value": "Công dân được hưởng đời sống vật chất đầy đủ nhất theo mong muốn của mình. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tất cả công dân đều được bồi dưỡng để phát triển tài năng. "
+            },
+            {
+                "value": "Công dân được khuyến khích, bồi dưỡng để phát triển tài năng. "
+            },
+            {
+                "value": "Mọi công dân có quyền học tập suốt đời để phát triển tài năng.  "
+            },
+            {
+                "value": "Công dân được hưởng đời sống vật chất đầy đủ nhất theo mong muốn của mình. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 40. Việc Nhà nước áp dụng hình thức điều trị y tế miễn phí cho toàn bộ người dân Việt Nam bị nhiễm Covid - 19 là thể hiện nội dung quyền nào sau đây của công dân?. ",
+        "answer": [
+            {
+                "value": "Quyền được phát triển. "
+            },
+            {
+                "value": "Quyền tự do cơ bản. "
+            },
+            {
+                "value": "Quyền sáng tạo. "
+            },
+            {
+                "value": "Quyền dân chủ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Quyền được phát triển. "
+            },
+            {
+                "value": "Quyền tự do cơ bản. "
+            },
+            {
+                "value": "Quyền sáng tạo. "
+            },
+            {
+                "value": "Quyền dân chủ."
+            }
+        ]
+    }
+]

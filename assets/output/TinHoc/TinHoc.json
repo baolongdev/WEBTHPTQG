@@ -1,0 +1,882 @@
+[
+    {
+        "question": "1. Quần thể là tập hợp:",
+        "answer": [
+            {
+                "value": "A. Những cá thể cùng loài, cùng sinh sống trong một khoảng không gian nhất định, ở một thời điểm nhất định."
+            },
+            {
+                "value": "B. Những cá thể khác lòài, sinh sống trong một khoảng không gian nhất định, ở một thời điểm nhất định."
+            },
+            {
+                "value": "C. Những cá thể khác lòài, sinh sống trong một khoảng không gian không xác định, ở một thời điểm nhất định."
+            },
+            {
+                "value": "D. Những c thể khác loại, sinh sống trong một khoảng không gian không xác định, ở một thời điêm nhất định."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Những cá thể cùng loài, cùng sinh sống trong một khoảng không gian nhất định, ở một thời điểm nhất định."
+            }
+        ]
+    },
+    {
+        "question": "2. Quần thể có..... đặc trưng",
+        "answer": [
+            {
+                "value": "A. Kiếu hình"
+            },
+            {
+                "value": "B. Vốn gen"
+            },
+            {
+                "value": "C. Môi trường."
+            },
+            {
+                "value": "D. Sinh lí hóa"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Vốn gen"
+            }
+        ]
+    },
+    {
+        "question": "3. Tập hợp tất cả các alen có trong quần thể ở một thời điểm xác định gọi là:",
+        "answer": [
+            {
+                "value": "A. Kiêu hình"
+            },
+            {
+                "value": "B. Vốn gen"
+            },
+            {
+                "value": "C. Môi trường"
+            },
+            {
+                "value": "D. Sinh lí hóa"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Vốn gen"
+            }
+        ]
+    },
+    {
+        "question": "4. Đặc điêm của vốn gen thể hiện qua:",
+        "answer": [
+            {
+                "value": "A. Tần số alen và tân sô kiêu gen"
+            },
+            {
+                "value": "B. Tần số alen và tần số kiểu hình"
+            },
+            {
+                "value": "C. Tân số kiểu hình và tần số kiểu gen"
+            },
+            {
+                "value": "D. Tần số alen, tần số kiểu gen và tần số kiểu hình"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Tần số alen và tân sô kiêu gen"
+            }
+        ]
+    },
+    {
+        "question": "5. Tần số alen của một gen được tính bằng:",
+        "answer": [
+            {
+                "value": "A. Số lượng alen đó trong tổng số các loại alen khác nhau của gen đó trong quần thể, , tại nhiều thời điểm khác nhau."
+            },
+            {
+                "value": "B. Số lượng kiểu hình trong tổng số các loại alen khác nhau của gen đó trong quần thể, tại nhiều thời điểm khác nhau."
+            },
+            {
+                "value": "C. Số lượng kiểu gen trong tổng số các loại alen khác nhau của gen đó trong quần thể, tại một thời điểm xác định."
+            },
+            {
+                "value": "D. Số lượng alen đó trong tổng số các loại alen khác nhau của gen đó trong quần thể, tại một thời điểm xác định."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Số lượng alen đó trong tổng số các loại alen khác nhau của gen đó trong quần thể, tại một thời điểm xác định."
+            }
+        ]
+    },
+    {
+        "question": "6. Tần sô của một loại kiêu gen nào đó trong quân thế được tính bằng:",
+        "answer": [
+            {
+                "value": "A.Tỉ lệ giữa số cá thế có kiểu hình đó trong tông sô cá thế có trong quần thế."
+            },
+            {
+                "value": "B. Tỉ lệ giữa số cá thể có kiểu gen đó trong tổng số cá thể có trong quần thể."
+            },
+            {
+                "value": "C.Tỉ lệ giữa số cá thể có kiểu hình đó trong tổng số kiểu gen có trong quần thể."
+            },
+            {
+                "value": "D. Cả A, B và C sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Tỉ lệ giữa số cá thể có kiểu gen đó trong tổng số cá thể có trong quần thể."
+            }
+        ]
+    },
+    {
+        "question": "7. Thành phần kiểu gen của quần thể tự thụ phấn qua các thế hệ sẽ thay đổi, theo hướng tăng dần tần số kiểu gen....(1)...... và giảm dần tần số kiểu gen...(2)…..(1), (2) lần lượt là:",
+        "answer": [
+            {
+                "value": "A. Dị hợp tử - đồng hợp tử"
+            },
+            {
+                "value": "C. Dị hợp tử - dị hợp tử"
+            },
+            {
+                "value": "B. Đồng hợp tử - dị hợp tử"
+            },
+            {
+                "value": "D. Đồng hợp tử - đồng hợp tử"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Đồng hợp tử - dị hợp tử"
+            }
+        ]
+    },
+    {
+        "question": "8. Một quần thể thực vật có thành phần kiêu gen là: 0,0144 AA : 0,9856 aa. Sau 10 thế hệ tự thụ phấn bắt buộc thì tần số kiêu gen của quân thế trên là:",
+        "answer": [
+            {
+                "value": "A. 0,25 AA : 0,50 Aa : 0,25 aa."
+            },
+            {
+                "value": "B. 0,0002 AA : 0,0142 Aa : 0,9714 aa."
+            },
+            {
+                "value": "C. 0,0144 AA : 0,9856 aa."
+            },
+            {
+                "value": "D. 0,144 AA : 0,142 Aa : 0,714 aa."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. 0,0144 AA : 0,9856 aa."
+            }
+        ]
+    },
+    {
+        "question": "9. Một quần thể thực vật có 200 cây cho quả tròn, 350 cây cho quả bầu dục và 450 cây cho quả dài. Cấu trúc di truyền của quần thể này khi tự thụ phấn qua 3 thế hệ là: (Cho biết quả tròn là trội không hoàn toàn so với quả dài, quả bầu dục do kiểu gen Aa quy định)",
+        "answer": [
+            {
+                "value": "A. 0,2025 AA : 0,4950 Aa : 0,3025 aa."
+            },
+            {
+                "value": "B. 0,140625 AA : 0,469750 Aa : 0,389625 aa ."
+            },
+            {
+                "value": "C. 0,353125 AA : 0,043750 Aa : 0,603125 aa."
+            },
+            {
+                "value": "D. 0,2 AA : 0,35 Aa : 0,45 aa."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. 0,353125 AA : 0,043750 Aa : 0,603125 aa."
+            }
+        ]
+    },
+    {
+        "question": "10. Điều nào sau đây khi nói về quần thể tự phối là không đúng?",
+        "answer": [
+            {
+                "value": "A. Quần thể tự phối bị phân hóa thành những dòng thuần có nhiều kiểu gen khác nhau."
+            },
+            {
+                "value": "B. Quần thể tự phối luôn đa dạng cả về kiểu gen lẫn kiểu hình."
+            },
+            {
+                "value": "C. Cấu trúc di truyền của quần thể tự phối không đạt trạng thái cân bằng."
+            },
+            {
+                "value": "D. Số cá thể đồng hợp tăng, số cá thể dị hợp giảm trong quá trình tự thụ phấn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Quần thể tự phối luôn đa dạng cả về kiểu gen lẫn kiểu hình."
+            }
+        ]
+    },
+    {
+        "question": "11. Số thể dị hợp ngày càng giảm, thể đồng hợp ngày càng tăng được thấy trong quần thể:",
+        "answer": [
+            {
+                "value": "A. sinh sản sinh dưỡng."
+            },
+            {
+                "value": "B. sinh sản hữu tính."
+            },
+            {
+                "value": "C. tự phối."
+            },
+            {
+                "value": "D. ngẫu phôi."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. tự phối."
+            }
+        ]
+    },
+    {
+        "question": "12. Một quần thế có 100% cá thể mang kiểu gen Aa tự thụ phấn liên tiếp qua 3 thế hệ. Tỉ lệ các kiểu gen ở thế hệ thứ ba theo lí thuyết sẽ là:",
+        "answer": [
+            {
+                "value": "A. 0,2AA : 0,4Aa : 0,4aa ."
+            },
+            {
+                "value": "B. 0,25AA : 0,5 Aa : 0,25aa"
+            },
+            {
+                "value": "C. 0,4375AA : 0,125Aa : 0,437Saa"
+            },
+            {
+                "value": "D. 0, 375AA : 0,25 Aa : 0,375aa"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. 0,4375AA : 0,125Aa : 0,437Saa"
+            }
+        ]
+    },
+    {
+        "question": "13. Ơ cây bông giây, alen A quy định màu đỏ, alen a quy định hoa trăng. Quân thê bông giấy có 1000 cây trong đó có : 500 cây hoa đỏ có kiêu gen AA, 300 cây hoa đỏ có kiếu gen Aa và 200 cây hoa trắng có kiểu gen aa. Tần sô tương đối của alen A và a trong quần thế:",
+        "answer": [
+            {
+                "value": "A. A=0,65; a=0,35."
+            },
+            {
+                "value": "B. A=0,5; a=0,5."
+            },
+            {
+                "value": "C. A=0,45; a=0,55."
+            },
+            {
+                "value": "D. A=0,35; a=0,65."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. A=0,65; a=0,35."
+            }
+        ]
+    },
+    {
+        "question": "14. Cho một quần thể có cấu trúc di truyền: 0,6AA + 0,2Aa + 0,2aa. Hãy xác định tần số tương đối của từng alen.",
+        "answer": [
+            {
+                "value": "A. A= 0,6; a= 0,4"
+            },
+            {
+                "value": "B. A= 0,7; a= 0,3"
+            },
+            {
+                "value": "C. A= 0,8; a=0,2"
+            },
+            {
+                "value": "D. A = 0,9; a = 0,1"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. A= 0,7; a= 0,3"
+            }
+        ]
+    },
+    {
+        "question": "15. Trong một quân thể động vật giao phối ngẫu nhiên, cân bằng di truyền, sô cá thê lông đen (kiều gen BB và Bb) là 75%. Tần số tương đối của alen B và b là:",
+        "answer": [
+            {
+                "value": "A. B = 0,8660 ; b = 0,5."
+            },
+            {
+                "value": "C. B = 0,5 ; b = 0,5."
+            },
+            {
+                "value": "B. B = 0,75 ; b = 0,25."
+            },
+            {
+                "value": "D. B=0,8660;b= 0,1340."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. B = 0,5 ; b = 0,5."
+            }
+        ]
+    },
+    {
+        "question": "16. Trong 3 quần thể sau đây thì quần thể nào có cấu trúc di truyền đạt trạng thái cân bằng?",
+        "answer": [
+            {
+                "value": "A. Cả 3 quần thế đều đạt trạng thái cân băng."
+            },
+            {
+                "value": "B. Chỉ có quần thế 2 đạt trạng thái cân bằng."
+            },
+            {
+                "value": "C. Cả 3 quân thê đêu không đạt trạng thái cân băng."
+            },
+            {
+                "value": "D. Chỉ có quần thể 3 đạt trạng thái cân bằng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Chỉ có quần thể 3 đạt trạng thái cân bằng."
+            }
+        ]
+    },
+    {
+        "question": "17. Một quần thể được gọi là ở trạng thái cân bằng di truyền khi tỉ lệ các kiểu gen của quần thể tuân theo công thức sau (Gen A chỉ có hai alen A và a với tần số ale A và a tương ứng là p và q)",
+        "answer": [
+            {
+                "value": "A. p^2 (AA) : 2pq (Aa) : q^2 (aa)"
+            },
+            {
+                "value": "B. p^2 (Aa) : 2pq (AA) : q^2 (aa)"
+            },
+            {
+                "value": "C. q^2 (AA) : 2pq (Aa) : p^2 (aa)."
+            },
+            {
+                "value": "D. q^2 (As) : 2pq (AA) : p^2 (aa)."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. p^2 (AA) : 2pq (Aa) : q^2 (aa)"
+            }
+        ]
+    },
+    {
+        "question": "18. Cho biet mọt quân thê gôm hai alen A và a có tần số tương đối các alen như sau: A = 0,8. Hãy xác định cấu trúc di truyền của quần thể cân bằng:",
+        "answer": [
+            {
+                "value": "A. 0,64AA + 0,32Aa + 0,04aa = 1"
+            },
+            {
+                "value": "B. 0,04AA + 0,32Aa + 0,64aa = 1"
+            },
+            {
+                "value": "C. 0,32AA + 0,64 Aa + 0,04aa = 1"
+            },
+            {
+                "value": "D. 0,34AA + 0,16Aa + 0,5aa = 1"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. 0,64AA + 0,32Aa + 0,04aa = 1"
+            }
+        ]
+    },
+    {
+        "question": "19. Cho một quân thê bò ở trạng thái cân băng di truyên, gen A quy định lông đen trội hòàn tòàn so với gen a quy định lông vàng. Biêt bò lông đen chiêm 51%. Tìm tần số tương đối alen A và a:",
+        "answer": [
+            {
+                "value": "A. A= 0,1; a= 0,9"
+            },
+            {
+                "value": "B. A= 0,2; a= 0,8."
+            },
+            {
+                "value": "C. A= 0,3; a= 0,7"
+            },
+            {
+                "value": "D. A= 0,4; a= 0,6"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. A= 0,3; a= 0,7"
+            }
+        ]
+    },
+    {
+        "question": "20. Ở một loài thực vật giao phấn, alen A quy định hoa đỏ là trội hoàn toàn so với alen a quy định hoa trắng. Khi ở trạng thái cân bằng, một quần thể có 10000 cá thể, tần số các alen p(A) = 0,4; q(a) = 0,6. Số cây cho hoa đỏ thuần chủng là:",
+        "answer": [
+            {
+                "value": "A. 1600."
+            },
+            {
+                "value": "B. 4800."
+            },
+            {
+                "value": "C. 4000."
+            },
+            {
+                "value": "D. 3600."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. 1600."
+            }
+        ]
+    },
+    {
+        "question": "21. Về mặt lý luận, định luật Hardy - Weinberg có ý nghĩa:",
+        "answer": [
+            {
+                "value": "A. giúp giải thích quá trình hình thành loài mới từ một loài ban đầu."
+            },
+            {
+                "value": "B. tạo cơ sở để giải thích vì sao có sự gia tăng số cá thể đồng hợp trong quần thể."
+            },
+            {
+                "value": "C. giúp giải thích quá trình cạnh tranh giữa các cá thể cùng loài trong quần thể."
+            },
+            {
+                "value": "D. giúp giải thích vì sao trong tự nhiên có những quần thể ôn định trong một thời gian rất lâu dài."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. giúp giải thích vì sao trong tự nhiên có những quần thể ôn định trong một thời gian rất lâu dài."
+            }
+        ]
+    },
+    {
+        "question": "22. Ở người bệnh bạch tạng do gen lặn b chi phối, gen lành B, gen năm trên nhiêm sắc thế thường. Trong một quân thê có tỷ lệ người măc bệnh bạch tạng (bb) là 1/10000. Tần số các alen B và b trong quần thể người này là:",
+        "answer": [
+            {
+                "value": "A. B = 0,9; b = 0,1"
+            },
+            {
+                "value": "B. B = 0,99; b = 0,01."
+            },
+            {
+                "value": "C. B = 0,97; b = 0,03."
+            },
+            {
+                "value": "D. B=0,9999; b = 0,0001."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. B = 0,99; b = 0,01."
+            }
+        ]
+    },
+    {
+        "question": "23. O người bệnh bạch tạng do gen lặn b chi phôi, gen lành B, gen năm trên nhiễm sắc thể thường. Trong một quần thể có tỷ lệ người mắc bệnh bạch tạng (bb) là 1/10000. Xác suất để 2 người bình thường trong quần thể này kết hôn với nhau sinh con đầu lòng bị bệnh bạch tạng là:",
+        "answer": [
+            {
+                "value": "A. 0,000098."
+            },
+            {
+                "value": "B. 0,00495"
+            },
+            {
+                "value": "C. 0,9998."
+            },
+            {
+                "value": "D. 0,0198."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. 0,000098."
+            }
+        ]
+    },
+    {
+        "question": "24. Mot quan the co can trúc di truyen la: P: 0,45 AA : 0,25 Aa : 0,30 aa. Cho cac ca the trong quan the nay giao phoi ngau nhien thi cau truc di truyen của quần thể này ở thế hệ F4 sẽ là:",
+        "answer": [
+            {
+                "value": "A. 0,330625 AA : 0,488750 Aa : 0,180625 aa"
+            },
+            {
+                "value": "B. 0,45 AA : 0,25 Aa : 0,30 aa"
+            },
+            {
+                "value": "C. 0,5672 AA : 0,0156 Aa : 0,4172 aa"
+            },
+            {
+                "value": "D. 0,4489 AA : 0,2595 Aa : 0,2916 aa"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. 0,330625 AA : 0,488750 Aa : 0,180625 aa"
+            }
+        ]
+    },
+    {
+        "question": "25. Một quân thê thực vật đang ở trạng thái cân bằng di truyền, số cá thế có kiêu hình thân thâp chiêm tỉ lệ 1%. Cho biết gen A qui định thần cao trội hoàn tòàn so với alen a qui định thân thấp. Tần số của alen a trong quần thể này là:",
+        "answer": [
+            {
+                "value": "A. 0,01."
+            },
+            {
+                "value": "B. 0,1."
+            },
+            {
+                "value": "C. 0,5."
+            },
+            {
+                "value": "D. 0.001."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. 0,1."
+            }
+        ]
+    },
+    {
+        "question": "26. Định luật Hacđi - Vanbec phản ảnh:",
+        "answer": [
+            {
+                "value": "A. trạng thi động của quần thể."
+            },
+            {
+                "value": "B. sự ổn định của tần số tương đối các alen trong quần thể."
+            },
+            {
+                "value": "C. sự cân bằng di truyền trong quần thể"
+            },
+            {
+                "value": "D. cả B và C."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. cả B và C."
+            }
+        ]
+    },
+    {
+        "question": "27. Trong một quần thể giao phối, nếu một gen có 3 alen a, a2, a3 thì sự giao phối tự do sẽ tạo ra",
+        "answer": [
+            {
+                "value": "A. 8 tổ hợp kiểu gen"
+            },
+            {
+                "value": "B. 4 tố hợp kiểu gen"
+            },
+            {
+                "value": "C. 3 tổ hợp kiểu gen."
+            },
+            {
+                "value": "D. 6 tổ hợp kiểu gen"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. 6 tổ hợp kiểu gen"
+            }
+        ]
+    },
+    {
+        "question": "28. Một quần thể động vật, xét một gen có 3 alen trên nhiễm sắc thể thường và một gen có 2 alen trên nhiễm sắc thể giới tính X, không có alen tương ứng trên Y. Quần thể này có số loại kiểu gen tối đa về hai gen trên là",
+        "answer": [
+            {
+                "value": "A. 18."
+            },
+            {
+                "value": "B. 60."
+            },
+            {
+                "value": "C. 30."
+            },
+            {
+                "value": "D. 32."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. 30."
+            }
+        ]
+    },
+    {
+        "question": "29. Giả sử trong điều kiện của định luật Hacđi - Vanbec, quần thể ban đầu có tỉ lệ các kiểu gen là 0,2AA : 0,4Aa : 0,4aa, sau một thế hệ ngẫu phối thì quần thể",
+        "answer": [
+            {
+                "value": "A. phân li thành 2 dòng thuần."
+            },
+            {
+                "value": "B. đạt trạng thái cân bằng di truyền."
+            },
+            {
+                "value": "C. giữ nguyên tỉ lệ các kiểu gen."
+            },
+            {
+                "value": "D. tâng thêm tính đa hình về kiếu hình."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. đạt trạng thái cân bằng di truyền."
+            }
+        ]
+    },
+    {
+        "question": "30. Một quần thể giao phối có tỉ lệ các kiểu gen là 0,3AA : 0,6Aa : 0,1aa. Tần số tương đối của alen A và alen a lần lượt là",
+        "answer": [
+            {
+                "value": "A. 0,4 và 0,6."
+            },
+            {
+                "value": "B. 0,3 và 0,7."
+            },
+            {
+                "value": "C. 0,5 và 0,5"
+            },
+            {
+                "value": "D. 0,6 và 0,4."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. 0,6 và 0,4."
+            }
+        ]
+    },
+    {
+        "question": "31. Một quân thế ngầu phối có câu trúc di truyền ở thê hệ P là 0,3AA : 0,6Aa : 0,1 Laa. Tính theo lí thuyết, câu trúc di truyền của quần thể này ở thế hệ F1 là",
+        "answer": [
+            {
+                "value": "A. 0,6AA + 0,2Aa + 0,2aa = 1."
+            },
+            {
+                "value": "B. 0,36AA + 0,48Aa + 0,16aa = 1."
+            },
+            {
+                "value": "C. 0,5 AA + 0,4Aa + 0,1aa = 1."
+            },
+            {
+                "value": "D. 0,42AA + 0,49Aa + 0,09aa = 1."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. 0,36AA + 0,48Aa + 0,16aa = 1."
+            }
+        ]
+    },
+    {
+        "question": "32. Quần thể nào sau đây không cân bằng di truyền?",
+        "answer": [
+            {
+                "value": "A. 0,36DD : 0,48Dd : 0,16dd."
+            },
+            {
+                "value": "B. 0,25DD : 0,5Dd : 0,25dd."
+            },
+            {
+                "value": "C. 0,04DD: 0,32Dd : 0,64dd."
+            },
+            {
+                "value": "D. 0,04DD : 0,64Dd : 0,32dd."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. 0,04DD : 0,64Dd : 0,32dd."
+            }
+        ]
+    },
+    {
+        "question": "33. Quần thể nào trong các quần thể nêu dưới đây ở trạng thái cân bằng di truyền. Tổ hợp các câu đúng là?",
+        "answer": [
+            {
+                "value": "A. quần thể I và 2."
+            },
+            {
+                "value": "B. quần thể 3 và 4."
+            },
+            {
+                "value": "C. quần thể 2 và 4."
+            },
+            {
+                "value": "D. quần thể l và 3."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. quần thể l và 3."
+            }
+        ]
+    },
+    {
+        "question": "34. Trong một quần thể ngô đã đạt trạng thái cân bằng di truyền có số cây bạch tạng (aa) chiểm 25% tổng số cá thể thì tần số alen a trong quần thể là",
+        "answer": [
+            {
+                "value": "A. 0,50."
+            },
+            {
+                "value": "B. 0,40."
+            },
+            {
+                "value": "C. 0,25."
+            },
+            {
+                "value": "D. 0,20."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. 0,50."
+            }
+        ]
+    },
+    {
+        "question": "35. Một quần thể ngẫu phối ở trạng thái cân bằng di truyền, xét một quần thể có hai alen A và a, người ta thấy số cá thể có kiểu gen đồng hợp lặn chiếm tỉ lệ 25%. Ti lệ % số cá thể có kiểu gen dị hợp trong quần thể này là",
+        "answer": [
+            {
+                "value": "А. 36%."
+            },
+            {
+                "value": "В. 24%."
+            },
+            {
+                "value": "C. 50%"
+            },
+            {
+                "value": "D. 48%."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. 50%"
+            }
+        ]
+    },
+    {
+        "question": "36. Một quần thế người có tân sô người bị bạch tạng là 1/ 10000 . Giả sử, quần thể này cân bằng di truyền. Biết răng, bệnh bạch tạng là do một gen lặn nằm trên NST thường quy định. Thành phân kiêu gen lân lượt của quần thể là",
+        "answer": [
+            {
+                "value": "A. 0,9 AA : 0,18 Aa : 0,1 aa."
+            },
+            {
+                "value": "B. 0,9801 AA : 0,0198 Aa : 0,0001 aa."
+            },
+            {
+                "value": "C. 0,01 AA : 0,18 Aa : 0,9 aa."
+            },
+            {
+                "value": "D. 0,99 AA : 0,198 Aa : 0,1 aa."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. 0,9801 AA : 0,0198 Aa : 0,0001 aa."
+            }
+        ]
+    },
+    {
+        "question": "37. Một quân thê bò có 400 con lông vàng, 400 con lông lang trăng đen, 200 con lông đen. Biết kiểu gen BB qui định lông vàng, Bb qui định lông lang trắng đen, bb qui định lông đen. Tần số của các alen trong quần thể là",
+        "answer": [
+            {
+                "value": "A. B = 0,4; b = 0,6."
+            },
+            {
+                "value": "B. B = 0,8; b = 0,2."
+            },
+            {
+                "value": "C. B = 0,2; b = 0,8."
+            },
+            {
+                "value": "D. B = 0,6; b = 0,4."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. B = 0,6; b = 0,4."
+            }
+        ]
+    },
+    {
+        "question": "38. Một quần thể giao phối ở trạng thái cân bằng di truyền, xét một gen có hai alen (A và a), người ta thấy số cá thể đồng hợp trội nhiều gấp 9 lần số cá thể đồng hợp lặn. Tỉ lệ phần trăm số cá thể dị hợp trong quần thể này là",
+        "answer": [
+            {
+                "value": "A. 37,5%."
+            },
+            {
+                "value": "B. 18,75%."
+            },
+            {
+                "value": "C. 3,75%."
+            },
+            {
+                "value": "D. 56,25%."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. 37,5%."
+            }
+        ]
+    },
+    {
+        "question": "39: Xét một quần thể sinh vật ở trạng thái cân bằng di truyền có tỉ lệ giao tử mang alen A bằng 2/3 tỉ lệ giao tử mang alen a, thành phần kiểu gen của quần thê",
+        "answer": [
+            {
+                "value": "A. 0,25 AA : 0,5 Aa; 0,25 aa."
+            },
+            {
+                "value": "B. 0,16 AA : 0,48 Aa : 0,36 aa."
+            },
+            {
+                "value": "C. 0,4 AA ; 0,51 Aa : 0,09 aa."
+            },
+            {
+                "value": "D. 0,04 AA : 0,87 Aa : 0,09 aa."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. 0,16 AA : 0,48 Aa : 0,36 aa."
+            }
+        ]
+    },
+    {
+        "question": "40: Cho biết các quần thể đều ở trạng thái cân bằng di truyền. Quần thê nào dươi đây có tỉ lệ kiểu gen dị hợp (Aa) lớn nhất?",
+        "answer": [
+            {
+                "value": "A. Quần thể 1: A = 0,8; a = 0,2."
+            },
+            {
+                "value": "B. Quần thể 2: A = 0,7; a = 0,3."
+            },
+            {
+                "value": "C. Quần thể 3: A = 0,6; a = 0,4."
+            },
+            {
+                "value": "D. Quần thể 4: A = 0,5; a = 0,5."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Quần thể 4: A = 0,5; a = 0,5."
+            }
+        ]
+    }
+]

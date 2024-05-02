@@ -1,0 +1,2478 @@
+[
+    {
+        "question": "Câu 1. Khái niệm môi trường nào sau đây là đúng?",
+        "answer": [
+            {
+                "value": "A. Môi trường là nơi sinh sống của sinh vật bao gồm tất cả các nhân tố hữu sinh ở xung quanh sinh vật."
+            },
+            {
+                "value": "B. Môi trường là nơi sinh sống của sinh vật bao gồm tất cả các nhân tố vô sinh và hữu sinh ở xung quanh sinh vật, trừ nhân tố con người."
+            },
+            {
+                "value": "C. Môi trường là nơi sinh sống của sinh vật bao gồm tất cả các nhân tố vô sinh ở xung quanh sinh vật."
+            },
+            {
+                "value": "D. Môi trường gồm tất cả các nhân tố ở xung quanh sinh vật, có tác động trực tiếp, gián tiếp tới sinh vật, làm ảnh hưởng tới sự tồn tại, sinh trưởng, phát triển và những hoạt động khác của sinh vật."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Môi trường gồm tất cả các nhân tố ở xung quanh sinh vật, có tác động trực tiếp, gián tiếp tới sinh vật, làm ảnh hưởng tới sự tồn tại, sinh trưởng, phát triển và những hoạt động khác của sinh vật."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Ổ sinh thái của 1 loài là",
+        "answer": [
+            {
+                "value": "A. một vùng địa lí mà ở đó tất cả các nhân tố sinh thái quy định sự tồn tại và phát triển lâu dài của loài."
+            },
+            {
+                "value": "B. một không gian sinh thái được hình thành bởi giới hạn sinh thái mà ở đó nhân tố sinh thái quy định sự tồn tại và phát triển lâu dài của loài."
+            },
+            {
+                "value": "C. một không gian sinh thái mà ở đó tất cả các nhân tố sinh thái của môi trường nằm trong giới hạn sinh thái cho phép loài đó tồn tại và phát triển."
+            },
+            {
+                "value": "D. một không gian sinh thái được hình thành bởi tổ hợp các khoảng thuận lợi của các nhân tố sinh thái giúp loài tồn tại và phát triển lâu dài."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. một không gian sinh thái được hình thành bởi giới hạn sinh thái mà ở đó nhân tố sinh thái quy định sự tồn tại và phát triển lâu dài của loài."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Nơi ở của các loài là",
+        "answer": [
+            {
+                "value": "A. địa điểm sinh sản của chúng."
+            },
+            {
+                "value": "B. địa điểm thích nghi của chúng."
+            },
+            {
+                "value": "C. địa điểm cư trú của chúng."
+            },
+            {
+                "value": "D. địa điểm dinh dưỡng của chúng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. địa điểm cư trú của chúng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Các nhân tố sinh thái là",
+        "answer": [
+            {
+                "value": "A. tất cả các nhân tố vật lí, hóa học của môi trường xung quanh sinh vật."
+            },
+            {
+                "value": "B. những tác động của con người đến môi trường."
+            },
+            {
+                "value": "C. Những mối quan hệ giữ một sinh vật ( hoặc một nhóm sinh vật) này với một sinh vật (hoặc nhóm sinh vật ) khác sống xung quanh."
+            },
+            {
+                "value": "D. tất cả các nhân tố ảnh hưởng trực tiếp hoặc gián tiếp tới đời sống của sinh vật."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. tất cả các nhân tố ảnh hưởng trực tiếp hoặc gián tiếp tới đời sống của sinh vật."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Giới hạn về nhiệt độ của cá rô phi nuôi ở nước ta là:",
+        "answer": [
+            {
+                "value": "A. từ 5,6°C đến 42°C"
+            },
+            {
+                "value": "B. từ 2°C đến 42°C"
+            },
+            {
+                "value": "C. từ 5°C đến 42°C"
+            },
+            {
+                "value": "D. từ 20°C đến 35°C"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. từ 5,6°C đến 42°C"
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Khoảng giá trị xác định của một nhân tố sinh thái mà trong khoảng đó sinh vật có thể tồn tại và phát triển ổn định theo thời gian được gọi là",
+        "answer": [
+            {
+                "value": "A. môi trường"
+            },
+            {
+                "value": "B. giới hạn sinh thái"
+            },
+            {
+                "value": "C. ổ sinh thái"
+            },
+            {
+                "value": "D. sinh cảnh"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. giới hạn sinh thái"
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Trong các loại môi trường sống chủ yếu của sinh vật, môi trường sống nào là nơi sống của phần lớn các sinh vật trên Trái Đất?",
+        "answer": [
+            {
+                "value": "A. Môi trường trên cạn "
+            },
+            {
+                "value": "B. Môi trường đất"
+            },
+            {
+                "value": "C. Môi trường nước"
+            },
+            {
+                "value": "D. Môi trường sinh vật"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Môi trường trên cạn "
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Trên một cây to, có nhiều loài chim sinh sống, có loài sống trên cao, loài sống dưới thấp hình thành nên các .... khác nhau.",
+        "answer": [
+            {
+                "value": "A. quần thể"
+            },
+            {
+                "value": "B. ổ sinh thái"
+            },
+            {
+                "value": "C. quần xã"
+            },
+            {
+                "value": "D. sinh cảnh"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. ổ sinh thái"
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Trong giới hạn sinh thái, khoảng chống chịu là khoảng :",
+        "answer": [
+            {
+                "value": "A. Làm cho sinh vật sống tốt nhất."
+            },
+            {
+                "value": "B. Gây ức chế hoạt động sinh lý của sinh vật."
+            },
+            {
+                "value": "C. Làm cho sinh vật sống bình thường."
+            },
+            {
+                "value": "D Không ảnh hưởng gì đến sinh vật."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Gây ức chế hoạt động sinh lý của sinh vật."
+            }
+        ]
+    },
+    {
+        "question": "Câu 10. Khoảng thuận lợi là",
+        "answer": [
+            {
+                "value": "A. Khoảng nhân tố sinh thái ở mức độ phù hợp cho khả năng sinh sản của sinh vật"
+            },
+            {
+                "value": "B. Khoảng nhân tố sinh thái đảm bảo tốt nhất cho một loài, ngoài khoảng này sinh vật sẽ không chịu đựng được"
+            },
+            {
+                "value": "C. Khoảng nhân tố sinh thái ở mức độ phù hợp, đảm bảo cho loài sinh vật nào đó thực hiện các chức năng sống tốt nhất"
+            },
+            {
+                "value": "D. Khoảng nhân tố sinh thái ở mức độ phù hợp cho khả năng tự vệ của sinh vật"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Khoảng nhân tố sinh thái ở mức độ phù hợp, đảm bảo cho loài sinh vật nào đó thực hiện các chức năng sống tốt nhất"
+            }
+        ]
+    },
+    {
+        "question": "Câu 11. Môi trường đất bao gồm:",
+        "answer": [
+            {
+                "value": "A. Các lớp đất đá có độ sâu khác nhau có các sinh vật đất sinh sống"
+            },
+            {
+                "value": "B. các lớp đất có độ sâu khác nhau có các sinh vật đất sinh sống"
+            },
+            {
+                "value": "C. các lớp cát có độ sâu khác nhau có các sinh vật đất sinh sống"
+            },
+            {
+                "value": "D. các lớp mùn có độ sâu khác nhau có các sinh vật đất sinh sống"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. các lớp đất có độ sâu khác nhau có các sinh vật đất sinh sống"
+            }
+        ]
+    },
+    {
+        "question": "Câu 12. Môi trường sinh vật là :",
+        "answer": [
+            {
+                "value": "A. nơi sinh sống của động vật"
+            },
+            {
+                "value": "B. nơi sinh sống của thực vật"
+            },
+            {
+                "value": "C. nơi sinh sống của các sinh vật ký sinh ,cộng sinh,..."
+            },
+            {
+                "value": "D. nơi sống của động vật thực vật ,sinh vật ký sinh ,cộng sinh"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. nơi sinh sống của các sinh vật ký sinh ,cộng sinh,..."
+            }
+        ]
+    },
+    {
+        "question": "Câu 13. Khi nói về giới hạn sinh thái, phát biểu nào sau đây sai?",
+        "answer": [
+            {
+                "value": "A. Ngoài giới hạn sinh thái, sinh vật sẽ không thể tồn tại được."
+            },
+            {
+                "value": "B. Trong khoảng thuận lợi, sinh vật thực hiện các chức năng sống tốt nhất."
+            },
+            {
+                "value": "C. Giới hạn sinh thái về nhiệt độ của các loài đều giống nhau."
+            },
+            {
+                "value": "D. Khoảng chống chịu là khoảng của các nhân tố sinh thái gây ức chế cho các hoạt động sinh lí của sinh vật."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Giới hạn sinh thái về nhiệt độ của các loài đều giống nhau."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1. Nhóm cá thể nào dưới đây là một quần thể?",
+        "answer": [
+            {
+                "value": "A. Cây cỏ ven bờ hồ."
+            },
+            {
+                "value": "B. Cá chép và cá vàng trong bể cá cảnh."
+            },
+            {
+                "value": "C. Đàn cá rô trong ao."
+            },
+            {
+                "value": "D. Cây trong vườn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Đàn cá rô trong ao."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Sự khác nhau giữa cây thông nhựa liền rễ với cây không liền rễ như thế nào?",
+        "answer": [
+            {
+                "value": "A. Các cây liền rễ tuy sinh trưởng chậm hơn nhưng có khả năng chịu hạn tốt hơn và khi bị chặt ngọn sẽ nẩy chồi mới sớm và tốt hơn cây không liền rễ."
+            },
+            {
+                "value": "B. Các cây liền rễ tuy sinh trưởng nhanh hơn nhưng có khả năng chịu hạn kém hơn và khi bị chặt ngọn sẽ nẩy chồi mới sớm và tốt hơn cây không liền rễ."
+            },
+            {
+                "value": "C. Các cây liền rễ sinh trưởng nhanh hơn và có khả năng chịu hạn tốt hơn và khi bị chặt ngọn sẽ nẩy chồi mới sớm và tốt hơn cây không liền rễ."
+            },
+            {
+                "value": "D. Các cây liền rễ sinh trưởng nhanh hơn và có khả năng chịu hạn tốt hơn nhưng khi bị chặt ngọn sẽ nẩy chồi mới muộn hơn cây không liền rễ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Các cây liền rễ sinh trưởng nhanh hơn và có khả năng chịu hạn tốt hơn và khi bị chặt ngọn sẽ nẩy chồi mới sớm và tốt hơn cây không liền rễ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Điều nào sau đây không đúng với vai trò của quan hệ hỗ trợ",
+        "answer": [
+            {
+                "value": "A. Đảm bảo cho quần thể tồn tại ổn định."
+            },
+            {
+                "value": "B. Khai thác tối ưu nguồn sống của môi trường."
+            },
+            {
+                "value": "C. Tạo nguồn dinh dưỡng cho quần thể."
+            },
+            {
+                "value": "D. Làm tăng khả năng sống sót và sinh sản của các cá thể."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Tạo nguồn dinh dưỡng cho quần thể."
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Quần thể sinh vật là gì?",
+        "answer": [
+            {
+                "value": "A. Quần thể là nhóm cá thể của một loài, tồn tại trong một thời gian nhất định, có khả năng sinh ra các thế hệ mới hữu thụ."
+            },
+            {
+                "value": "B. Quần thể là nhóm cá thể của một loài, tồn tại trong một thời gian nhất định, phân bố trong vùng phân bố của loài."
+            },
+            {
+                "value": "C. Quần thể là nhóm cá thể của các loài khác nhau, phân bố trong vùng phân bố nhất định, có khả năng sinh ra các thế hệ mới hữu thụ."
+            },
+            {
+                "value": "D. Quần thể là tập hợp các cá thể cùng một loài, cùng sinh sống trong một không gian nhất định, vào một thời gian nhất định, có khả năng sinh sản tạo ra các thế hệ mới hữu thụ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Quần thể là tập hợp các cá thể cùng một loài, cùng sinh sống trong một không gian nhất định, vào một thời gian nhất định, có khả năng sinh sản tạo ra các thế hệ mới hữu thụ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Điều nào sau đây không đúng với vai trò của quan hệ cạnh tranh?",
+        "answer": [
+            {
+                "value": "A. Đảm bảo sự tăng khối lượng không ngừng của quần thể."
+            },
+            {
+                "value": "B. Đảm bảo số lượng của các cá thể trong quần thể duy trì ở mức độ phù hợp"
+            },
+            {
+                "value": "C. Đảm bảo sự tồn tại và phát triển của quần thể."
+            },
+            {
+                "value": "D. Đảm bảo sự phân bố của các cá thể trong quần thể duy trì ở mức độ phù hợp."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Đảm bảo sự tăng khối lượng không ngừng của quần thể."
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Ví dụ nào sau đây là quần thể?",
+        "answer": [
+            {
+                "value": "A. Tập hợp các cá thể rắn hổ mang, cú mèo và lợn rừng sống trong một khu rừng nhiệt đới."
+            },
+            {
+                "value": "B. Rừng cây thông nhựa phân bố tại vùng núi Đông Bắc Việt Nam."
+            },
+            {
+                "value": "C. Tập hợp các cá thể cá chép, cá mè, cá rô phi sống chung trong một ao."
+            },
+            {
+                "value": "D. Các cá thể rắn hổ mang sống ở 3 hòn đảo cách xa nhau"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Rừng cây thông nhựa phân bố tại vùng núi Đông Bắc Việt Nam."
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Thực vật sống thành nhóm có lợi gì so với sống riêng lẻ trong việc duy trì nòi giống?",
+        "answer": [
+            {
+                "value": "A. Thuận lợi cho sự thụ phấn."
+            },
+            {
+                "value": "B. Giữ được độ ẩm của đất,"
+            },
+            {
+                "value": "C. làm giảm nhiệt độ không khí cho cây."
+            },
+            {
+                "value": "D. Giảm bớt sức thổi của gió, làm cây không bị đổ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Thuận lợi cho sự thụ phấn."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Hiện tượng cá thể tách ra khỏi nhóm",
+        "answer": [
+            {
+                "value": "A. làm tăng khả năng cạnh tranh giữa các cá thể."
+            },
+            {
+                "value": "B. làm giảm mức độ sinh sản."
+            },
+            {
+                "value": "C. làm giảm nhẹ cạnh tranh giữa các cá thể, hạn chế sự cạn kiệt nguồn thức ăn trong vùng."
+            },
+            {
+                "value": "D. làm cho thức ăn cạn kiệt nhanh chóng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. làm giảm nhẹ cạnh tranh giữa các cá thể, hạn chế sự cạn kiệt nguồn thức ăn trong vùng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Vai trò của quan hệ cạnh tranh trong quần thể là",
+        "answer": [
+            {
+                "value": "A. tạo cho số lượng và sự phân bố của các cá thể trong quần thể duy trì ở mức độ phù hợp, đảm bảo sự tồn tại và phát triển của quần thể."
+            },
+            {
+                "value": "B. tạo cho số lượng và sự phân bố của các cá thể trong quần thể duy trì ở mức độ tối đa, đảm bảo sự tồn tại và phát triển của quần thê."
+            },
+            {
+                "value": "C. tạo cho số lượng giảm hợp lí và sự phân bố của các cá thể trong quần thể đồng đều trong khu phân bố, đảm bảo sự tồn tại và phát triển của quần thể."
+            },
+            {
+                "value": "D. tạo cho số lượng tăng hợp lí và sự phân bố của các cá thể trong quần thể theo nhóm trong khu phân bố, đảm bảo sự tồn tại và phát triển của quần thể."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. tạo cho số lượng và sự phân bố của các cá thể trong quần thể duy trì ở mức độ phù hợp, đảm bảo sự tồn tại và phát triển của quần thể."
+            }
+        ]
+    },
+    {
+        "question": "Câu 10. Thực vật sống thành nhóm có lợi gì so với sống riêng lẻ khi gặp điều kiện bất lợi của môi trường?",
+        "answer": [
+            {
+                "value": "A. Thuận lợi cho sự thụ phấn."
+            },
+            {
+                "value": "B. Giữ được độ ẩm của đất."
+            },
+            {
+                "value": "C. làm giảm nhiệt độ không khí cho cây."
+            },
+            {
+                "value": "D. Giảm bớt sức thổi của gió, làm cây không bị đổ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Thuận lợi cho sự thụ phấn."
+            }
+        ]
+    },
+    {
+        "question": "Câu 11. Cho biết : (1)một số cá thể cùng loài phát tán tới một môi trường sống mới (2) giữa các cá thể cùng loài gắn bó chặt chẽ với nhau thông qua các mối quan hệ sinh thái và dần dần hình thành quần thể ổn định, thích nghi với điều kiện ngoại cảnh (3)những cá thể không thích nghi với điều kiện môi trường sống sẽ bị tiêu diệt hoặc phải di cư đi nơi khác những cá thể còn lại thích nghi dần với điều kiện sống Quá trình hình thành loài (quần thể ) trải qua các giai đoạn có trình tự như sau :",
+        "answer": [
+            {
+                "value": "A. (1)-(2)-(3) \t\t"
+            },
+            {
+                "value": "B. (2)-3)- (1) \t\t"
+            },
+            {
+                "value": "C. (3)-(1)-(2)\t\t"
+            },
+            {
+                "value": "D. (1)-(3)-(2)"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. (1)-(3)-(2)"
+            }
+        ]
+    },
+    {
+        "question": "Câu 12. Trong quần thể các cá thể luôn gắn bó chặt chẽ với nhau thông qua các mối quan hệ ",
+        "answer": [
+            {
+                "value": "A. hỗ trợ"
+            },
+            {
+                "value": "B. cạnh tranh"
+            },
+            {
+                "value": "C. hỗ trợ và cạnh tranh"
+            },
+            {
+                "value": "D. hỗ trợ,cạnh tranh và kí sinh"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. hỗ trợ và cạnh tranh"
+            }
+        ]
+    },
+    {
+        "question": "Câu 13. Hỗ trợ giữa các cá thể cùng loài thể hiện qua",
+        "answer": [
+            {
+                "value": "A. hiệu quả hấp thụ của từng cá thể"
+            },
+            {
+                "value": "B. hiệu quả nhóm"
+            },
+            {
+                "value": "C. hiệu quả quần thể"
+            },
+            {
+                "value": "D. hiệu quả quần xã"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. hiệu quả nhóm"
+            }
+        ]
+    },
+    {
+        "question": "Câu 14. Thí dụ nào sau đây là quần thể:",
+        "answer": [
+            {
+                "value": "A. Tôm cá sống ở cửa sông. trong ao."
+            },
+            {
+                "value": "B. Đàn cá chép nuôi"
+            },
+            {
+                "value": "C. Một bể cá cảnh."
+            },
+            {
+                "value": "D. Cây mọc trong vườn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Đàn cá chép nuôi"
+            }
+        ]
+    },
+    {
+        "question": "Câu 15. Tập hợp sinh vật nào sau đây là quần thể sinh vật?",
+        "answer": [
+            {
+                "value": "A. Tập hợp cá trong Hồ Tây."
+            },
+            {
+                "value": "B. Tập hợp cây cỏ trong một ruộng lúa."
+            },
+            {
+                "value": "C. Tập hợp cây cọ trên một quả đồi ở Phú Thọ."
+            },
+            {
+                "value": "D. Tập hợp côn trùng trong rừng Cúc Phương."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Tập hợp cây cọ trên một quả đồi ở Phú Thọ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 16. Tập hợp sinh vật nào sau đây không phải là quần thể sinh vật?",
+        "answer": [
+            {
+                "value": "A. Tập hợp cây tràm ở rừng U Minh Thượng."
+            },
+            {
+                "value": "B. Tập hợp chim hải âu trên đảo Trường Sa."
+            },
+            {
+                "value": "C. Tập hợp cây cọ trên một quả đồi ở Phú Thọ."
+            },
+            {
+                "value": "D. Tập hợp cá trong Hồ Tây."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Tập hợp cá trong Hồ Tây."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1. Tỉ lệ giới tính thay đổi và không chịu ảnh hưởng của yếu tố nào?",
+        "answer": [
+            {
+                "value": "A. Điều kiện dinh dưỡng."
+            },
+            {
+                "value": "B. Điều kiện sống của môi trường."
+            },
+            {
+                "value": "C. Mùa sinh sản, đặc điểm sinh sản, sinh lí và tập tính của sinh vật."
+            },
+            {
+                "value": "D. Mật độ cá thể trong quần thể"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Mật độ cá thể trong quần thể"
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Mật độ cá thể của quần thể là",
+        "answer": [
+            {
+                "value": "A. số lượng cá thể trên một đơn vị diện tích của quần thể."
+            },
+            {
+                "value": "B. số lượng cá thể trên một đơn vị thể tích của quần thể."
+            },
+            {
+                "value": "C. số lượng cá thể trên một đơn vị diện tích hay thể tích của quần thể."
+            },
+            {
+                "value": "D. khối lượng cá thể trên một đơn vị diện tích hay thể tích của quần thể."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. số lượng cá thể trên một đơn vị diện tích hay thể tích của quần thể."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Ý nghĩa sinh thái của phân bố theo nhóm là",
+        "answer": [
+            {
+                "value": "A. các cá thể hỗ trợ lẫn nhau chống lại điều kiện bất lợi của môi trường"
+            },
+            {
+                "value": "B. làm giảm mức độ cạnh tranh giữa các cá thể trong quần thể."
+            },
+            {
+                "value": "C. sinh vật tận dụng được nguồn sống tiềm tàng trong môi trường"
+            },
+            {
+                "value": "D. làm tăng mức độ cạnh tranh giữa các cá thể trong quần thể."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. các cá thể hỗ trợ lẫn nhau chống lại điều kiện bất lợi của môi trường"
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Những loài có sự phân bố ngẫu nhiên là",
+        "answer": [
+            {
+                "value": "A. nhóm cây bụi mọc hoang dại, đàn trâu rừng."
+            },
+            {
+                "value": "B. các cây gỗ trong rừng nhiệt đới, các loài sâu sống trên tán lá cây."
+            },
+            {
+                "value": "C. đàn trâu rừng, chim cánh cụt."
+            },
+            {
+                "value": "D. chim cánh cụt, dã tràng cùng nhóm tuổi, cây thông trong rừng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. các cây gỗ trong rừng nhiệt đới, các loài sâu sống trên tán lá cây."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Đặc trưng nào sau đây chi phối các đặc trưng khác của quần thể?",
+        "answer": [
+            {
+                "value": "A. Khả năng sinh sản"
+            },
+            {
+                "value": "B. Mật độ cá thể."
+            },
+            {
+                "value": "C. Mức tử vong của cá thể. "
+            },
+            {
+                "value": "D. Tỉ lệ đực, cái."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Mật độ cá thể."
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Ý nghĩa sinh thái của phân bố ngẫu nhiên là",
+        "answer": [
+            {
+                "value": "A. làm tăng mức độ cạnh tranh giữa các cá thể trong quần thể."
+            },
+            {
+                "value": "B. sinh vật tận dụng được nguồn sống tiềm tàng trong môi trường."
+            },
+            {
+                "value": "C. làm giảm mức độ cạnh tranh giữa các cá thể trong quần thể."
+            },
+            {
+                "value": "D. các cá thể hỗ trợ lẫn nhau chống lại điều kiện bất lợi của môi trường."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. sinh vật tận dụng được nguồn sống tiềm tàng trong môi trường."
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Không có khái niệm tuổi nào sau đây?",
+        "answer": [
+            {
+                "value": "A. Tuổi loài là tuổi trung bình của các cá thể trong loài."
+            },
+            {
+                "value": "B. Tuổi thọ sinh thái là khoảng thời gian sống thực tế của cá thể."
+            },
+            {
+                "value": "C. Tuổi quần thể là tuổi trung bình của các cá thể trong quần thể."
+            },
+            {
+                "value": "D. Tuổi sinh lí là khoảng thời gian sống có thể đạt tới của một cá thể trong quần thể."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Tuổi loài là tuổi trung bình của các cá thể trong loài."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Ý nghĩa sinh thái của phân bố đều là",
+        "answer": [
+            {
+                "value": "A. làm giảm mức độ cạnh tranh giữa các cá thể trong quần thể."
+            },
+            {
+                "value": "B. làm tăng mức độ cạnh tranh giữa các cá thể trong quần thể."
+            },
+            {
+                "value": "C. sinh vật tận dụng được nguồn sống tiềm tàng trong môi trường."
+            },
+            {
+                "value": "D. các cá thể hỗ trợ lẫn nhau chống lại điều kiện bất lợi của môi trường."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. làm giảm mức độ cạnh tranh giữa các cá thể trong quần thể."
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Những loài có sự phân bố đều là",
+        "answer": [
+            {
+                "value": "A. nhóm cây bụi mọc hoang dại, đàn trâu rừng."
+            },
+            {
+                "value": "B. các cây gỗ trong rừng nhiệt đới, các loài sâu sống trên tán lá cây."
+            },
+            {
+                "value": "C. đàn trâu rừng, chim cánh cụt."
+            },
+            {
+                "value": "D. chim cánh cụt, dã tràng cùng nhóm tuổi, cây thông trong rừng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. chim cánh cụt, dã tràng cùng nhóm tuổi, cây thông trong rừng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 10. Đặc trưng nào đảm bảo hiệu quả sinh sản của quần thể trong điều kiện môi trường thay đổi?",
+        "answer": [
+            {
+                "value": "A. Tỉ lệ giới tính"
+            },
+            {
+                "value": "C. Tỉ lệ tử vong"
+            },
+            {
+                "value": "B. Sự phân bố cá thể của quần thể"
+            },
+            {
+                "value": "D. Mật độ cá thể"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Tỉ lệ giới tính"
+            }
+        ]
+    },
+    {
+        "question": "Câu 11. Trước mùa sinh sản ,nhiều loài thằn lằn ,rắn có số lượng cá thể",
+        "answer": [
+            {
+                "value": "cái nhiều hơn cá thể đực ,sau mùa sinh sản ,số lượng cá thể đực và"
+            },
+            {
+                "value": "cá thể cái gần bằng nhau .Nhân tố ảnh hưởng đến tỉ lệ giới tính của"
+            },
+            {
+                "value": "thằn lằn ,rắn là"
+            },
+            {
+                "value": "A. sự chiếu sáng"
+            },
+            {
+                "value": "B. nhiệt độ"
+            },
+            {
+                "value": "C. tỉ lệ tử vong giữa đực và cái"
+            },
+            {
+                "value": "D.cách tham gia sinh sản"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "cái nhiều hơn cá thể đực ,sau mùa sinh sản ,số lượng cá thể đực và"
+            },
+            {
+                "value": "cá thể cái gần bằng nhau .Nhân tố ảnh hưởng đến tỉ lệ giới tính của"
+            },
+            {
+                "value": "thằn lằn ,rắn là"
+            },
+            {
+                "value": "C. tỉ lệ tử vong giữa đực và cái"
+            }
+        ]
+    },
+    {
+        "question": "Câu 12. Với loài kiến nâu, nếu đẻ trứng ở nhiệt độ thấp hơn 20°C thì trứng nở toàn là cá thể cái và ngược lại. Nhân tố ảnh hưởng đến tỉ lệ giới tính ở kiến nâu là :",
+        "answer": [
+            {
+                "value": "A. sự chiếu sáng"
+            },
+            {
+                "value": "B. nhiệt độ"
+            },
+            {
+                "value": "C. tỉ lệ tử vong giữa đực và cái"
+            },
+            {
+                "value": "D. cách tham gia sinh sản"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. nhiệt độ"
+            }
+        ]
+    },
+    {
+        "question": "Câu 13. Tuổi sinh lí là :",
+        "answer": [
+            {
+                "value": "A. thời gian sống có thể đạt tới của một cá thể trong quần thể"
+            },
+            {
+                "value": "B. thời điểm cá thể chết khi sống trong quần thể"
+            },
+            {
+                "value": "C. thời gian sống thực tế của cá thể"
+            },
+            {
+                "value": "D. tuổi bình quân của cá thể trong quần thể"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. thời gian sống có thể đạt tới của một cá thể trong quần thể"
+            }
+        ]
+    },
+    {
+        "question": "Câu 14. Tuổi quần thể là :",
+        "answer": [
+            {
+                "value": "A. thời gian sống có thể đạt tới của một cá thể trong quần thể"
+            },
+            {
+                "value": "B. thời điểm cá thể chết khi sống trong quần thể"
+            },
+            {
+                "value": "C. thời gian sống thực tế của cá thể"
+            },
+            {
+                "value": "D. tuổi bình quân của cá thể trong quần thể"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. tuổi bình quân của cá thể trong quần thể"
+            }
+        ]
+    },
+    {
+        "question": "Câu 15. Tuổi sinh thái là",
+        "answer": [
+            {
+                "value": "A, thời gian sống có thể đạt tới của một cá thể trong quần thể"
+            },
+            {
+                "value": "B. thời điểm cá thể chết khi sống trong quần thể"
+            },
+            {
+                "value": "C. thời gian sống thực tế của cá thể"
+            },
+            {
+                "value": "D. tuổi bình quân của cá thể trong quần thể"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. thời gian sống thực tế của cá thể"
+            }
+        ]
+    },
+    {
+        "question": "Câu 16. Khi nói về tuổi cá thể và tuổi quần thể, phát biểu nào sau đây sai?",
+        "answer": [
+            {
+                "value": "A. Tuổi sinh lí là thời gian sống có thể đạt tới của một cá thể trong quần thể."
+            },
+            {
+                "value": "B. Mỗi quần thể có cấu trúc tuổi đặc trưng và không thay đổi."
+            },
+            {
+                "value": "C. Tuổi quần thể là tuổi bình quân của các cá thể trong quần thể."
+            },
+            {
+                "value": "D. Tuổi sinh thái là thời gian sống thực tế của cá thể."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Mỗi quần thể có cấu trúc tuổi đặc trưng và không thay đổi."
+            }
+        ]
+    },
+    {
+        "question": "Câu 17.Khi nói về các đặc trưng cơ bản của quần thể sinh vật, phát biểu nào sau đây đúng?",
+        "answer": [
+            {
+                "value": "A. Khi kích thước quần thể đạt tối đa thì tốc độ tăng trưởng của quần thể là lớn nhất."
+            },
+            {
+                "value": "B. Tỉ lệ giới tính của quần thể là đặc trưng quan trọng đảm bảo hiệu quả sinh sản của quần thể."
+            },
+            {
+                "value": "C. Mật độ cá thể của mỗi quần thể luôn ổn định, không thay đổi theo mùa, theo năm."
+            },
+            {
+                "value": "D. Mỗi quần thể sinh vật có kích thước đặc trưng và ổn định, không phụ thuộc vào điều kiện sống."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Tỉ lệ giới tính của quần thể là đặc trưng quan trọng đảm bảo hiệu quả sinh sản của quần thể."
+            }
+        ]
+    },
+    {
+        "question": "Câu 18. Khi nói về kích thước quần thể sinh vật, phát biểu nào sau đây sai?",
+        "answer": [
+            {
+                "value": "A. Kích thước quần thể (tính theo số lượng cá thể) luôn tỉ lệ thuận với kích thước của cá thể trong quần thể."
+            },
+            {
+                "value": "B. Nếu kích thước quần thể xuống dưới mức tối thiểu, quần thể dễ rơi vào trạng thái suy giảm dẫn tới diệt vong."
+            },
+            {
+                "value": "C. Nếu kích thước quần thể vượt quá mức tối đa thì cạnh tranh giữa các cá thể trong quần thể tăng cao. đa và sự dao động này là khác nhau giữa các loài."
+            },
+            {
+                "value": "D. Kích thước quần thể dao động từ giá trị tối thiểu tới giá trị tối"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Kích thước quần thể (tính theo số lượng cá thể) luôn tỉ lệ thuận với kích thước của cá thể trong quần thể."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1.Ví dụ nào sau đây phản ánh kiều biến động số lượng cá thể của quần thể sinh vật không theo chu kỳ?",
+        "answer": [
+            {
+                "value": "A. Số lượng cây tràm ở rừng U Minh Thượng giảm mạnh sau khi bị cháy vào tháng 3 năm 2002."
+            },
+            {
+                "value": "B. Số lượng muỗi tăng vào mùa hè, giảm vào mùa đông."
+            },
+            {
+                "value": "C. Số lượng ếch đồng tăng vào mùa mưa, giảm vào mùa khô."
+            },
+            {
+                "value": "D. Số lượng sâu hại cây trồng tăng vào mùa xuân và mùa hè, giảm vào mùa thu và mùa đông."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Số lượng cây tràm ở rừng U Minh Thượng giảm mạnh sau khi bị cháy vào tháng 3 năm 2002."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Điều nào không đúng đối với sự biến động số lượng có tính chu kỳ của các loài ở Việt Nam?",
+        "answer": [
+            {
+                "value": "A. Sâu hại xuất hiện nhiều vào các mùa xuân, hè"
+            },
+            {
+                "value": "B. Chim cu gáy thường xuất hiện nhiều vào thời gian thu hoạch lúa, ngô... hàng năm."
+            },
+            {
+                "value": "C. Bò sát và ếch nhái giảm nhiều vào những năm có mùa đông gió rét."
+            },
+            {
+                "value": "D. Muỗi thường có nhiều khi thời tiết ấm áp và độ ẩm cao"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Bò sát và ếch nhái giảm nhiều vào những năm có mùa đông gió rét."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Các nhân tố không phụ thuộc mật độ cá thể trong quần thể là",
+        "answer": [
+            {
+                "value": "A. sức sinh sản và mức độ tử vọng."
+            },
+            {
+                "value": "B. sự cạnh tranh giữa các cá thể trong cùng một đàn, số lượng kẻ thù ăn thịt."
+            },
+            {
+                "value": "C. sự xuất, nhập cư các cá thể trong quần thể."
+            },
+            {
+                "value": "D. ánh sáng, nhiệt độ, độ ẩm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. ánh sáng, nhiệt độ, độ ẩm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Sự điều chỉnh số lượng cá thể trong quần thể theo xu hướng nào?",
+        "answer": [
+            {
+                "value": "A. Quần thể luôn có xu hướng tăng số lượng cá thể ở mức tối đa tạo thuận lợi cho sự tồn tại và phát triển trước những tai biến của tự nhiên."
+            },
+            {
+                "value": "B. Quần thể luôn có xu hướng giảm số lượng các cá thể tạo thuận lợi cho sự cân bằng với khả năng cung cấp nguồn sống của môi"
+            },
+            {
+                "value": "C. Quần thể luôn có xu hướng tự điều chỉnh tăng hay giảm số lượng các cá thể tùy thuộc vào khả năng cung cấp nguồn sống"
+            },
+            {
+                "value": "của môi trường."
+            },
+            {
+                "value": "D. Quần thể luôn có xu hướng tự điều chỉnh về trạng thái cân bằng: số lượng các cá thể ổn định và cân bằng với khả năng cung cấp nguồn sống của môi trường."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Quần thể luôn có xu hướng tự điều chỉnh về trạng thái cân bằng: số lượng các cá thể ổn định và cân bằng với khả năng cung cấp nguồn sống của môi trường."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Vì sao có sự biến động số lượng cá thể trong quần thể theo chu kì?",
+        "answer": [
+            {
+                "value": "A. Do những thay đổi có chu kì của điều kiện môi trường."
+            },
+            {
+                "value": "B. Do sự sinh sản có tính chu kì."
+            },
+            {
+                "value": "C. Do sự thay đổi thời tiết có tính chu kì."
+            },
+            {
+                "value": "D. Do sự tăng giảm nguồn dinh dưỡng có tính chu kì."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Do những thay đổi có chu kì của điều kiện môi trường."
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Sự biến động của thỏ rừng Bắc Mỹ và linh miêu diễn ra theo chu kì nào?",
+        "answer": [
+            {
+                "value": "A. chu kì nhiều năm"
+            },
+            {
+                "value": "B. chu kì mùa"
+            },
+            {
+                "value": "C. chu kì tuần trăng"
+            },
+            {
+                "value": "D. chu kì ngày đêm"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. chu kì nhiều năm"
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Ở Việt Nam, chim cu gáy xuất hiện nhiều vào thời gian nào trong năm?",
+        "answer": [
+            {
+                "value": "A. Mùa xuân và mùa hè do khí hậu ẩm áp, thức ăn dồi dào."
+            },
+            {
+                "value": "B. Thời gian thu hoạch lúa, ngô vì chim cu gáy là loài chim ăn hạt."
+            },
+            {
+                "value": "C. Mùa khô do chim cu gáy thích nghi với khí hậu khô nóng nên sinh san mạnh."
+            },
+            {
+                "value": "D. Thời gian thu hoạch đậu vì đậu là thức ăn chủ yếu của chim cu gáy"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Thời gian thu hoạch lúa, ngô vì chim cu gáy là loài chim ăn hạt."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Ở Việt Nam, sâu hại xuất hiện nhiều vào mùa nào? Vì sao?",
+        "answer": [
+            {
+                "value": "A. Mùa mưa do cây cối xanh tốt, sâu hại có nhiều thức ăn."
+            },
+            {
+                "value": "B. Mùa xuân và mùa hè do khí hậu ấm áp, thức ăn dồi dào."
+            },
+            {
+                "value": "C. Mùa khô do sầu hại thích nghi với khí hậu khô nóng nên sinh sản mạnh."
+            },
+            {
+                "value": "D. Mùa xuân do nhiệt độ thích hợp, thức ăn phong phú."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Mùa xuân và mùa hè do khí hậu ấm áp, thức ăn dồi dào."
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Trạng thái cân bằng của quần thể là:",
+        "answer": [
+            {
+                "value": "A. trạng thái số lượng cá thể các loài bằng nhau."
+            },
+            {
+                "value": "B. trạng thái số lượng cá thể loài dao động ở mức ổn định."
+            },
+            {
+                "value": "C. mức cân bằng giữa số nhập cư và di trú."
+            },
+            {
+                "value": "D. khi quần thể không có sự sinh sản, tư vong."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. trạng thái số lượng cá thể loài dao động ở mức ổn định."
+            }
+        ]
+    },
+    {
+        "question": "Câu 10. Cơ chế duy trì trạng thái cân bằng của quần thể là",
+        "answer": [
+            {
+                "value": "A. Nguồn thức ăn."
+            },
+            {
+                "value": "B. tỉ lệ hài hòa giữa các nhóm tuổi trong quần thể."
+            },
+            {
+                "value": "C. sự điều chỉnh mối tương quan giữa tỉ lệ sinh sản và tỉ lệ tứ"
+            },
+            {
+                "value": "D. mối tương tác giữa các nhân tố vô sinh và hữu sinh lên quần thể sinh vật."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. sự điều chỉnh mối tương quan giữa tỉ lệ sinh sản và tỉ lệ tứ"
+            }
+        ]
+    },
+    {
+        "question": "Câu 11. Yếu tố quan trọng nhất chi phối cơ chế tự điều chỉnh số lượng cá thể của quần thể là",
+        "answer": [
+            {
+                "value": "A. sức sinh sản"
+            },
+            {
+                "value": "B. nguồn thức ăn từ môi trường"
+            },
+            {
+                "value": "C. các yếu tố không phụ thuộc mật độ."
+            },
+            {
+                "value": "D. sức tăng trưởng của quần thể"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. nguồn thức ăn từ môi trường"
+            }
+        ]
+    },
+    {
+        "question": "Câu 12. Sự biến động số lượng cá thể của quần thể sinh vật nào sau đây thuộc kiểu biến động theo chu kì?",
+        "answer": [
+            {
+                "value": "A. Quần thể ếch đồng ở miền Bắc tăng số lượng cá thể vào mùa hè."
+            },
+            {
+                "value": "B. Quần thể tràm ở rừng U Minh bị giảm số lượng cá thể sau cháy rừng"
+            },
+            {
+                "value": "C. Quần thể cá chép ở Hồ Tây bị giảm số lượng cá thể sau thu hoạch."
+            },
+            {
+                "value": "D. Quần thể thông ở Đà Lạt bị giảm số lượng cá thể do khai thác."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Quần thể ếch đồng ở miền Bắc tăng số lượng cá thể vào mùa hè."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1. Quần xã sinh vật là",
+        "answer": [
+            {
+                "value": "A. Tập hợp nhiều quần thể sinh vật thuộc cùng loài, cùng sống trong một không gian xác định và chúng có mối quan hệ mật thiết, gắn bó với nhau."
+            },
+            {
+                "value": "B. Tập hợp nhiều quần thể sinh vật thuộc hai loài khác nhau, cùng sống trong một không gian xác định và chúng có mối quan hệ mật thiết, gắn bó với nhau."
+            },
+            {
+                "value": "C. Tập hợp nhiều quần thể sinh vật thuộc các loài khác nhau, cung song trong một không gian xác định và chúng ít quan hệ với nhau"
+            },
+            {
+                "value": "D. Một tập hợp các quần thể sinh vật thuộc các loài khác nhau, cùng sống trong một không gian và thời gian nhất định, có mối quan hệ gắn bó với nhau như một thể thống nhất."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Một tập hợp các quần thể sinh vật thuộc các loài khác nhau, cùng sống trong một không gian và thời gian nhất định, có mối quan hệ gắn bó với nhau như một thể thống nhất."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Các loài trong quần xã có quan hệ mật thiết với nhau, trong đó",
+        "answer": [
+            {
+                "value": "A. Các mối quan hệ hỗ trợ, các loài đều hưởng lợi, còn trong các mối quan hệ đối kháng ít nhất có một loài bị hại."
+            },
+            {
+                "value": "B. Các mối quan hệ hỗ trợ, ít nhất có một loài hưởng lợi, còn trong các mối quan hệ đối kháng các loài đều bị hại."
+            },
+            {
+                "value": "C. Các mối quan hệ hỗ trợ, ít nhất có hai loài hưởng lợi, còn trong các mối quan hệ đối kháng ít nhất có một loài bị hại."
+            },
+            {
+                "value": "D. Các mối quan hệ hỗ trợ, ít nhất có một loài hưởng lợi, còn trong các mối quan hệ đối kháng ít nhất có một loài bị hại."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Các mối quan hệ hỗ trợ, ít nhất có một loài hưởng lợi, còn trong các mối quan hệ đối kháng ít nhất có một loài bị hại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Quan hệ giữa hai (hay nhiều) loài sinh vật, trong đó tất cả các loài đều có lợi, song mỗi bên chỉ có thể tồn tại được dựa vào sự hợp tác của bên kia là mối quan hệ nào?",
+        "answer": [
+            {
+                "value": "A. Quan hệ hãm sinh "
+            },
+            {
+                "value": "B. Quan hệ hợp sinh (hợp tác)."
+            },
+            {
+                "value": "C. Quan hệ cộng sinh "
+            },
+            {
+                "value": "D. Quan hệ hội sinh"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quan hệ cộng sinh "
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Quan hệ giữa hai loài sinh vật, trong đó một loài này sống bình thường, nhưng gây hại cho nhiều loài khác là mối quan hệ nào?",
+        "answer": [
+            {
+                "value": "A. Quan hệ hợp sinh (hợp tác)."
+            },
+            {
+                "value": "B. Quan hệ hội sinh."
+            },
+            {
+                "value": "C. Quan hệ ức chế - cảm nhiễm. "
+            },
+            {
+                "value": "D. Quan hệ cộng sinh."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quan hệ ức chế - cảm nhiễm. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Quan hệ giữa hai loài sinh vật, trong đó một loài dùng loài còn lại làm thức ăn là mối quan hệ nào?",
+        "answer": [
+            {
+                "value": "A. Quan hệ hội sinh."
+            },
+            {
+                "value": "B. Quan hệ ức chế - cảm nhiễm."
+            },
+            {
+                "value": "C. Quan hệ con mồi - vật ăn thịt. "
+            },
+            {
+                "value": "D. Quan hệ cạnh tranh."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quan hệ con mồi - vật ăn thịt. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Loài ưu thế trong quần xã là",
+        "answer": [
+            {
+                "value": "A. Loài đóng vai trò quan trong trong quần xã."
+            },
+            {
+                "value": "B. Loài phân bố ở trung tâm quần xã."
+            },
+            {
+                "value": "C. Loài chỉ có ở một quần xã."
+            },
+            {
+                "value": "D. Loài có nhiều hơn hẳn các loài khác."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Loài đóng vai trò quan trong trong quần xã."
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Hiện tượng khống chế sinh học trong quần xã biểu hiện ở",
+        "answer": [
+            {
+                "value": "A. Số lượng cá thể trong quần xã luôn được khống chế ở mức độ cao phù hợp với khả năng cung cấp nguồn sống của môi trường."
+            },
+            {
+                "value": "B. Số lượng cá thể trong quần xã luôn được khống chế ở mức độ tối thiểu phù hợp với khả năng cung cấp nguồn sống của môi trường."
+            },
+            {
+                "value": "C. Số lượng cá thể trong quần xã luôn được khống chế ở mức độ nhất định (dao động quanh vị trí cân bằng) do sự tác động của các mối quan hệ hoặc hỗ trợ hoặc đối kháng giữa các loài trong quần xã."
+            },
+            {
+                "value": "D. Số lượng cá thể trong quần xã luôn được khống chế ở mức độ nhất định gần phù hợp với khả năng cung cấp nguồn sống của môi trường."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Số lượng cá thể trong quần xã luôn được khống chế ở mức độ tối thiểu phù hợp với khả năng cung cấp nguồn sống của môi trường."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Đặc điểm nào sau đây không phải của quần xã?",
+        "answer": [
+            {
+                "value": "A. Quần xã là một tập hợp các quần thể sinh vật thuộc cùng loài, cùng sống trong một không gian nhất định (gọi là sinh cảnh)."
+            },
+            {
+                "value": "B. Quần xã là một tập hợp các quần thể sinh vật thuộc nhiều loài khác nhau, cùng sống trong một không gian nhất định (gọi là sinh cảnh)."
+            },
+            {
+                "value": "C. Các sinh vật trong quần xã thích nghi với môi trường sống của chúng"
+            },
+            {
+                "value": "D. Các sinh vật trong quần xã có mối quan hệ gắn bó với nhau như một thể thống nhất và do vậy quần xã có cấu trúc tương đối ổn định."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Quần xã là một tập hợp các quần thể sinh vật thuộc cùng loài, cùng sống trong một không gian nhất định (gọi là sinh cảnh)."
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Tại sao các loài thường phân bố khác nhau trong không gian, tạo nên theo chiều thẳng đứng hoặc theo chiều ngang?",
+        "answer": [
+            {
+                "value": "A. Do môi quan hệ cạnh tranh giữa các loài."
+            },
+            {
+                "value": "B. Do nhu cầu sống khác nhau."
+            },
+            {
+                "value": "C. Do hạn chế về nguồn dinh dưỡng."
+            },
+            {
+                "value": "D. Do mối quan hệ hỗ trợ giữa các loài."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Do nhu cầu sống khác nhau."
+            }
+        ]
+    },
+    {
+        "question": "Câu 10. Quan hệ giữa hai loài sinh vật, trong đó một loài có lợi, còn một loài không có lợi hoặc không có hại là mối quan hệ nào?",
+        "answer": [
+            {
+                "value": "A. Quan hệ hãm sinh. "
+            },
+            {
+                "value": "B. Quan hệ hội sinh."
+            },
+            {
+                "value": "C. Quan hệ cộng sinh. "
+            },
+            {
+                "value": "D. Quan hệ hợp sinh (hợp tác)."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Quan hệ hội sinh."
+            }
+        ]
+    },
+    {
+        "question": "Câu 11. Quan hệ giữa hai loài sống chung với nhau và cả hai loài cùng có lợi, khi sông tách riêng chúng vẫn tồn tại được là mối quan hệ nào?",
+        "answer": [
+            {
+                "value": "A. Quan hệ hội sinh. "
+            },
+            {
+                "value": "B. Quan hệ hãm sinh."
+            },
+            {
+                "value": "C. Quan hệ cộng sinh. "
+            },
+            {
+                "value": "D. Quan hệ hợp sinh (hợp tác)."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Quan hệ hợp sinh (hợp tác)."
+            }
+        ]
+    },
+    {
+        "question": "Câu 12. Loài đặc trưng trong quần xã là",
+        "answer": [
+            {
+                "value": "A. Loài có nhiều ảnh hướng đến các loài khác."
+            },
+            {
+                "value": "B. Loài đóng vai trò quan trọng trong quần xã."
+            },
+            {
+                "value": "C. Loài chi có ở một quần xã hoặc có nhiều hơn hẳn các loài khác."
+            },
+            {
+                "value": "D. Loài phân bố ở trung tâm quần xã."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Loài chi có ở một quần xã hoặc có nhiều hơn hẳn các loài khác."
+            }
+        ]
+    },
+    {
+        "question": "Câu 13. Quan hệ giữa hai loài sinh vật, trong đó một loài sống nhờ trên cơ thể của loài còn lại là mối quan hệ nào?",
+        "answer": [
+            {
+                "value": "A. Quan hệ cạnh tranh."
+            },
+            {
+                "value": "B. Quan hệ ức chế - cảm nhiễm."
+            },
+            {
+                "value": "C. Quan hệ vật chủ - vật kí sinh. "
+            },
+            {
+                "value": "D. Quan hệ con mồi - vật ăn thịt."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quan hệ vật chủ - vật kí sinh. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 14. Ví dụ nào sau đây phản ánh quan hệ hợp tác giữa các loài?",
+        "answer": [
+            {
+                "value": "A. Cây tầm gửi sống trên thân cây gỗ."
+            },
+            {
+                "value": "B. Vi khuẩn lam sống trong nốt sần rễ đậu."
+            },
+            {
+                "value": "C. Chim sáo đậu trên lưng trâu rừng."
+            },
+            {
+                "value": "D. Cây phong lan bám trên thân cây gỗ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Chim sáo đậu trên lưng trâu rừng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 15. Vì sao loài ưu thế đóng vai trò quan trọng trong quần xã?",
+        "answer": [
+            {
+                "value": "A. Vi có số lượng cá thể nhiều, sinh khối lớn, có sức cạnh tranh mạnh."
+            },
+            {
+                "value": "B. Vì có số lượng cá thể nhiều, sinh khối lớn, hoạt động mạnh."
+            },
+            {
+                "value": "C. Vì tuy có số lượng cá thể nhỏ, nhưng hoạt động mạnh."
+            },
+            {
+                "value": "D. Vì tuy có sinh khối nhỏ nhưng hoạt động mạnh."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Vì có số lượng cá thể nhiều, sinh khối lớn, hoạt động mạnh."
+            }
+        ]
+    },
+    {
+        "question": "Câu 16. Tập hợp các dầu hiệu để phân biệt các quần xã được gọi là:",
+        "answer": [
+            {
+                "value": "A. Đặc điểm của quần xã"
+            },
+            {
+                "value": "B. Cấu trúc của quần xã"
+            },
+            {
+                "value": "C. Đặc trưng của quần xã"
+            },
+            {
+                "value": "D.Thành phần quần xã"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Đặc trưng của quần xã"
+            }
+        ]
+    },
+    {
+        "question": "Câu 17. Quan hệ giữa hai loài sinh vật diễn ra sự cạnh tranh nguồn sông là mối quan hệ nào?",
+        "answer": [
+            {
+                "value": "A. Quan hệ hội sinh."
+            },
+            {
+                "value": "B. Quan hệ ức chế - cảm nhiễm."
+            },
+            {
+                "value": "C. Quan hệ cạnh tranh. "
+            },
+            {
+                "value": "D. Quan hệ hợp sinh (hợp tác)."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quan hệ cạnh tranh. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 18. Loài ưu thế là loài có vai trò quan trọng trong quần xã đo",
+        "answer": [
+            {
+                "value": "A. số lượng cá thể nhiều."
+            },
+            {
+                "value": "B. sức sống mạnh, sinh khối lớn, hoạt động mạnh."
+            },
+            {
+                "value": "C. có khả năng tiêu diệt các loài khác."
+            },
+            {
+                "value": "D. số lượng cá thể nhiều, sinh khối lớn, hoạt động mạnh."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. số lượng cá thể nhiều, sinh khối lớn, hoạt động mạnh."
+            }
+        ]
+    },
+    {
+        "question": "Câu 19. Tập hợp cá thể nào thuộc một trong các  nhóm sau đây phân bố trong một sinh cảnh xác định được gọi là quần xã sinh vật",
+        "answer": [
+            {
+                "value": "A. Lim xanh "
+            },
+            {
+                "value": "B. lan "
+            },
+            {
+                "value": "C. bạch đàn trắng "
+            },
+            {
+                "value": "D. thông đuôi ngựa"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. lan "
+            }
+        ]
+    },
+    {
+        "question": "bài 41",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 1. Điều nào sau đây không đúng với diễn thế nguyên sinh?",
+        "answer": [
+            {
+                "value": "A. Khởi đầu từ môi trường trống trơn."
+            },
+            {
+                "value": "B. Các quần xã sinh vật biến đổi tuần tự, thay thế lẫn nhau và ngày càng phát triển đa dạng."
+            },
+            {
+                "value": "C. Hình thành quần xã tương đối ổn định."
+            },
+            {
+                "value": "D. Có thể hình thành nên quần xã tương đối ổn định, tuy nhiên cũng có thể hình thành quần xã bị suy thoái."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Có thể hình thành nên quần xã tương đối ổn định, tuy nhiên cũng có thể hình thành quần xã bị suy thoái."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Giai đoạn nào dưới đây không có trong diễn thế nguyên sinh?",
+        "answer": [
+            {
+                "value": "A. Giai đoạn giữa là giai đoạn hỗn hợp gồm các quần xã sinh vật biến đổi tuần tự, thay thế lẫn nhau."
+            },
+            {
+                "value": "B. Giai đoạn tiên phong là giai đoạn các sinh vật phát tán đầu tiên tới hình thành nên quần xã tiên phong."
+            },
+            {
+                "value": "C. Giai đoạn cuối hình thành quần xã tương đối ổn định."
+            },
+            {
+                "value": "D. Giai đoạn khởi đầu từ môi trường chỉ có rêu."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Giai đoạn khởi đầu từ môi trường chỉ có rêu."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Diễn thế sinh thái là",
+        "answer": [
+            {
+                "value": "A. Qua trinh bien doi tuan tur cia quan xa qua cac giai doan, tir"
+            },
+            {
+                "value": "lúc khởi đầu cho đến khi kết thúc."
+            },
+            {
+                "value": "B. Quá trình biến đổi tuần tự của quần xã qua các giai đoạn, tương ứng với sự biến đổi của môi trường."
+            },
+            {
+                "value": "C. Quá trình biến đổi của quần xã tương ứng với sự biến đổi của môi trường."
+            },
+            {
+                "value": "D. Quá trình biến đổi của quần xã qua các giai đoạn, tương ứng với sự biến đổi của môi trường."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Quá trình biến đổi tuần tự của quần xã qua các giai đoạn, tương ứng với sự biến đổi của môi trường."
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Điều nào sau đây không phải là nguyên nhân dẫn đến diễn thế sinh thái",
+        "answer": [
+            {
+                "value": "A. Do thay đổi các điều kiện tự nhiên, khí hậu."
+            },
+            {
+                "value": "B. Do cạnh tranh gay gắt giữa các loài trong quần xã."
+            },
+            {
+                "value": "C. Do cạnh tranh và hợp tác giữa các loài trong quần xã."
+            },
+            {
+                "value": "D. Do chính hoạt động khai thác tài nguyên của con người."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Do cạnh tranh và hợp tác giữa các loài trong quần xã."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Xu hướng chung của diễn thế nguyên sinh là già.",
+        "answer": [
+            {
+                "value": "A. từ quần xã già đến quần xã trẻ. "
+            },
+            {
+                "value": "B. từ quần xã trẻ đến quần xã"
+            },
+            {
+                "value": "C. từ chưa có quần xã đến có quần xã đỉnh cực."
+            },
+            {
+                "value": "D. tùy giai đoạn mà A hay B."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. từ chưa có quần xã đến có quần xã đỉnh cực."
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Cho các giai đoạn chính trong quá trình diễn thế sinh thái ở một đầm nước nông như sau: (1) Đầm nước nông có nhiều loài sinh vật thủy sinh ở các tầng nước khác nhau: một số loài tảo, thực vật có hoa sống trên mặt nước; tôm, cá, cua, ốc,... (2) Hình thành rừng cây bụi và cây gỗ. (3) Các chất lắng đọng tích tụ ở đáy làm cho đầm bị nông dần. Thành phần sinh vật thay đổi: các sinh vật thủy sinh ít dần, đặc biệt là các loài động vật có kích thước lớn. (4) Đầm nước nông biển đồi thành vùng đất trũng, xuất hiện cỏ và cây bụi. Trật tự đúng của các giai đoạn trong quá trình diễn thế trên là",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 7. Quá trình diễn thế thứ sinh tại rừng lim Hữu Lũng, tĩnh Lạng Sơn như thế nào?",
+        "answer": [
+            {
+                "value": "A. Rừng lim nguyên sinh bị chặt hết -> Rừng thưa cây gỗ nhỏ --> Cây gỗ nhỏ và cây bụi -> Cây bụi và cỏ chiếm ưu thể -> Tràng cỏ."
+            },
+            {
+                "value": "Tràng cỏ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Rừng lim nguyên sinh bị chặt hết -> Rừng thưa cây gỗ nhỏ --> Cây gỗ nhỏ và cây bụi -> Cây bụi và cỏ chiếm ưu thể -> Tràng cỏ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Khi nói về diễn thế sinh thái, phát biểu nào sau đây sai?",
+        "answer": [
+            {
+                "value": "A. Diễn thế sinh thái thứ sinh luôn khởi đầu từ môi trường chưa có sinh vật."
+            },
+            {
+                "value": "B. Diễn thế sinh thái là quá trình biến đổi tuần tự của quần xã qua các giai đoạn tương ứng với sự biến đổi của môi trường."
+            },
+            {
+                "value": "C. Trong diễn thế sinh thái, song song với quá trình biến đổi của quần xã là quá trình biến đổi về các điều kiện tự nhiên của môi trường."
+            },
+            {
+                "value": "D. Sự cạnh tranh giữa các loài trong quần xã là một trong những nguyên nhân gây ra diễn thế sinh thái."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Diễn thế sinh thái thứ sinh luôn khởi đầu từ môi trường chưa có sinh vật."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1. Hệ sinh thái bao gồm?",
+        "answer": [
+            {
+                "value": "A. Các loài quần tụ với nhau tại một không gian xác định."
+            },
+            {
+                "value": "B. Các tác động của các nhân tố vô sinh lên các loài."
+            },
+            {
+                "value": "C. Quần xã sinh vật và sinh cảnh."
+            },
+            {
+                "value": "D. Các sinh vật luôn luôn tác động lẫn nhau."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Các loài quần tụ với nhau tại một không gian xác định."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Các hệ sinh thái trên cạn nào có tính đa dạng sinh học nghèo nàn nhất?",
+        "answer": [
+            {
+                "value": "A. Các hệ sinh thái thảo nguyên."
+            },
+            {
+                "value": "B. Các hệ sinh thái nông nghiệp vùng đồng bằng."
+            },
+            {
+                "value": "C. Các hệ sinh thái hoang mạc."
+            },
+            {
+                "value": "D. Các hệ sinh thái rừng (rừng mưa nhiệt đới, rừng lá rộng rụng lá theo mùa vùng ôn đới, rừng lá kim)."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Các hệ sinh thái hoang mạc."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Về nguồn gốc hệ sinh thái được phân thành các kiểu",
+        "answer": [
+            {
+                "value": "A. Các hệ sinh thái tự nhiên và nhân tạo."
+            },
+            {
+                "value": "B. Các hệ sinh thái rừng và biển."
+            },
+            {
+                "value": "C. Các hệ sinh thái lục địa và đại dương."
+            },
+            {
+                "value": "D. Các hệ sinh thái trên cạn và dưới nước."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Các hệ sinh thái tự nhiên và nhân tạo."
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Các hệ sinh thái trên cạn nào có tính đa dạng sinh học phong phú nhất?",
+        "answer": [
+            {
+                "value": "A. Các hệ sinh thái hoang mạc."
+            },
+            {
+                "value": "B. Các hệ sinh thái nông nghiệp vùng đồng bằng."
+            },
+            {
+                "value": "C. Các hệ sinh thái rừng."
+            },
+            {
+                "value": "D. Các hệ sinh thái thảo nguyên."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Các hệ sinh thái rừng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Tại sao hệ sinh thái là một hệ thống sinh học hoàn chỉnh và tương đối ổn định?",
+        "answer": [
+            {
+                "value": "A. Vì các sinh vật trong quần xã luôn cạnh tranh với nhau và đồng thời tác động với các thành phần vô sinh của sinh cảnh."
+            },
+            {
+                "value": "B. Vì các sinh vật trong quần xã luôn tác động với các thành phần vô sinh của sinh vật."
+            },
+            {
+                "value": "C. Vì các sinh vật trong quần xã luôn tác động lẫn nhau."
+            },
+            {
+                "value": "D. Vì các sinh vật trong quần xã luôn tác động lẫn nhau và đồng thời tác động với các thành phần vô sinh của sinh cảnh."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Vì các sinh vật trong quần xã luôn tác động lẫn nhau và đồng thời tác động với các thành phần vô sinh của sinh cảnh."
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Các hệ sinh thái trên cạn nào có vai trò quan trọng đối với sự cân bằng sinh thái của trái đất?",
+        "answer": [
+            {
+                "value": "A. Các hệ sinh thái nông nghiệp vùng đồng bằng."
+            },
+            {
+                "value": "B. Các hệ sinh thái thảo nguyên."
+            },
+            {
+                "value": "C. Các hệ sinh thái hoang mạc."
+            },
+            {
+                "value": "D. Các hệ sinh thái rừng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Các hệ sinh thái rừng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Các hệ sinh thái trên cạn nào có vai trò quan trọng cần bảo vệ trước tiên?",
+        "answer": [
+            {
+                "value": "A. Các hệ sinh thái thảo nguyên. "
+            },
+            {
+                "value": "B. Các hệ sinh thái núi đá vôi."
+            },
+            {
+                "value": "C. Các hệ sinh thái hoang mạc."
+            },
+            {
+                "value": "D. Các hệ sinh thái rừng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Các hệ sinh thái rừng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Hệ sinh thái biểu hiện chức năng của một tổ chức sống như thế nào?",
+        "answer": [
+            {
+                "value": "A. Biểu hiện sự trao đổi vật chất và năng lượng giữa các sinh vật trong nội bộ quân xã và giữa quần xã với sinh cảnh của chúng"
+            },
+            {
+                "value": "B. Biểu hiện sự trao đổi vật chất và năng lượng giữa các sinh vật trong nội bộ quân xã."
+            },
+            {
+                "value": "C. Biểu hiện sự trao đổi vật chất và năng lượng giữa quần xã với sinh cảnh của chúng."
+            },
+            {
+                "value": "D. Biểu hiện sự trao đổi vật chất và năng lượng giữa các sinh vật trong nội bộ quần thể và giữa quần xã với sinh cảnh của chúng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Biểu hiện sự trao đổi vật chất và năng lượng giữa các sinh vật trong nội bộ quân xã và giữa quần xã với sinh cảnh của chúng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Trong hệ sinh thái, thành phần hữu sinh bao gồm các yếu tố nào?",
+        "answer": [
+            {
+                "value": "A. Sinh vật sản xuất, sinh vật tiêu thụ, các chất hữu cơ."
+            },
+            {
+                "value": "B. Sinh vật sản xuất, sinh vật tiêu thụ, sinh vật phân giải."
+            },
+            {
+                "value": "C. Sinh vật sản xuất, sinh vật phân giải, các chất hữu cơ."
+            },
+            {
+                "value": "D. Sinh vật tiêu thụ, sinh vật phân giải, các chất hữu cơ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Sinh vật sản xuất, sinh vật tiêu thụ, sinh vật phân giải."
+            }
+        ]
+    },
+    {
+        "question": "Câu 10. Kiểu hệ sinh thái nào sau đây có đặc điểm: năng lượng mặt trời là năng lượng đầu vào chủ yếu, được cung cấp thêm 1 phần vật chất và có số lượng loài hạn chế?",
+        "answer": [
+            {
+                "value": "A. Hệ sinh thái biến."
+            },
+            {
+                "value": "B. Hệ sinh thái thành phố."
+            },
+            {
+                "value": "C. Hệ sinh thái rừng mưa nhiệt đới."
+            },
+            {
+                "value": "D. Hệ sinh thái nông nghiệp"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Hệ sinh thái rừng mưa nhiệt đới."
+            }
+        ]
+    },
+    {
+        "question": "Câu 11. Các hệ sinh thái trên cạn nào có vai trò quan trọng đối với đời sống con người?",
+        "answer": [
+            {
+                "value": "A. Các hệ sinh thái nông nghiệp vùng đồng bằng."
+            },
+            {
+                "value": "B. Các hệ sinh thái thảo nguyên. "
+            },
+            {
+                "value": "C. Các hệ sinh thái hoang mạc."
+            },
+            {
+                "value": "D. Các hệ sinh thái rừng (rừng mưa nhiệt đới, rừng lá rộng rụng lá theo mùa vùng ôn đới, rừng lá kim)."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Các hệ sinh thái nông nghiệp vùng đồng bằng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 12. Sự tồn tại của hệ sinh thái nhân tạo theo thời gian như thế nào ?",
+        "answer": [
+            {
+                "value": "A. Duy trì trạng thái ổn định với sự tác động thường xuyên của con người."
+            },
+            {
+                "value": "B. Tự duy trì trạng thái ổn định của nó."
+            },
+            {
+                "value": "C. Dần dần chuyển sang hệ sinh thái tự nhiên."
+            },
+            {
+                "value": "D. Không có trạng thái ổn định."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Duy trì trạng thái ổn định với sự tác động thường xuyên của con người."
+            }
+        ]
+    },
+    {
+        "question": "Câu 13. Nhóm sinh vật nào sau đây nếu không có mặt trong quần xã, thì dòng năng lượng và chu trình trao đổi các chất trong tự nhiên vẫn diễn ra bình thường:",
+        "answer": [
+            {
+                "value": "A. SV sản xuất, SV ăn động vật."
+            },
+            {
+                "value": "B. Động vật ăn động vật, SV sản xuất."
+            },
+            {
+                "value": "C. Động vật ăn thực vật, động vật ăn động vật."
+            },
+            {
+                "value": "D. SV phân giải, SV sản xuất."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Động vật ăn thực vật, động vật ăn động vật."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1. Tháp sinh khối được xây dựng dựa trên",
+        "answer": [
+            {
+                "value": "A. khối lượng tổng số của tất cả các sinh vật trên một đơn vị thời gian ở mỗi bậc dinh dưỡng."
+            },
+            {
+                "value": "B. khối lượng tổng số của tất cả các sinh vật trên một đơn vị diện tích hay thể tích, ở mỗi bậc dinh dưỡng."
+            },
+            {
+                "value": "C. khối lượng tổng số của tất cả các sinh vật trên một đơn vị diện tích ở mỗi bậc dinh dưỡng."
+            },
+            {
+                "value": "D. khối lượng tổng số của tất cả các sinh vật trên một đơn vị thể tích, ở mỗi bậc dinh dưỡng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. khối lượng tổng số của tất cả các sinh vật trên một đơn vị diện tích hay thể tích, ở mỗi bậc dinh dưỡng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Tháp năng lượng được xây dựng dựa trên",
+        "answer": [
+            {
+                "value": "A. số năng lượng được tích lũy trên một đơn vị diện tích hay thể tích, trong một đơn vị thời gian, ở mỗi bậc dinh dưỡng."
+            },
+            {
+                "value": "B. số năng lượng được tích lũy trên một đơn vị diện tích trong một đơn vị thời gian, ở mỗi bậc dinh dưỡng."
+            },
+            {
+                "value": "C. số năng lượng được tích lũy trên một đơn vị thể tích, trong một đơn vị thời gian, ở mỗi bậc dinh dưỡng."
+            },
+            {
+                "value": "D. số năng lượng được tích lũy trong một đơn vị thời gian, ở mỗi bậc dinh dưỡng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. số năng lượng được tích lũy trên một đơn vị diện tích hay thể tích, trong một đơn vị thời gian, ở mỗi bậc dinh dưỡng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Một chuỗi thức ăn gồm",
+        "answer": [
+            {
+                "value": "A. nhiều loài sinh vật có quan hệ dinh dưỡng với nhau và mỗi loài là một mắt xích của chuỗi. Trong một chuỗi, mỗi mắt xích là nguồn thức ăn của mắc xích sau."
+            },
+            {
+                "value": "B. nhiều loài sinh vật có quan hệ cạnh tranh về dinh dưỡng với nhau và mỗi loài là một mắt xích của chuỗi. Trong một chuỗi, mỗi mắt xích vừa có nguồn thức ăn là mắc xích phía trước, vừa là nguồn thức ăn của mắc xích phía sau."
+            },
+            {
+                "value": "C. nhiều loài sinh vật có quan hệ dinh dưỡng với nhau và mỗi loài là một mắt xích của chuỗi. Trong một chuỗi, mỗi mắt xích vừa có nguồn thức ăn là mắc xích phía trước, vừa là nguồn thức ăn của mặc xích phía sau."
+            },
+            {
+                "value": "D. nhiều loài sinh vật có quan hệ dinh dưỡng với nhau và mỗi loài là một mắt xích của chuỗi. Trong một chuỗi, mỗi mắt xích có nguồn thức ăn là mắc xích phía trước."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. nhiều loài sinh vật có quan hệ dinh dưỡng với nhau và mỗi loài là một mắt xích của chuỗi. Trong một chuỗi, mỗi mắt xích vừa có nguồn thức ăn là mắc xích phía trước, vừa là nguồn thức ăn của mặc xích phía sau."
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Tháp số lượng được xây dựng dựa trên",
+        "answer": [
+            {
+                "value": "A. số lượng cá thể ở mỗi bậc dinh dưỡng."
+            },
+            {
+                "value": "B. số lượng cá thể ở mỗi đơn vị diện tích."
+            },
+            {
+                "value": "C. số lượng cá thể ở mỗi đơn vị thể tích."
+            },
+            {
+                "value": "D. số lượng cá thể ở mỗi đơn vị thời gian."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. số lượng cá thể ở mỗi bậc dinh dưỡng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Tháp sinh thái hoàn thiện nhất là",
+        "answer": [
+            {
+                "value": "A. Tháp năng lượng."
+            },
+            {
+                "value": "B. Tháp sinh khối"
+            },
+            {
+                "value": "C. Tháp số lượng."
+            },
+            {
+                "value": "D. Tháp số lượng và tháp sinh khối"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Tháp năng lượng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Nội dung nào sau đây không đúng về độ lớn của bậc dinh dưỡng?",
+        "answer": [
+            {
+                "value": "A. Độ lớn của bậc dinh dưỡng có thể được xác định bằng năng lượng của bậc dinh dưỡng."
+            },
+            {
+                "value": "B. Độ lớn của bậc dinh dưỡng có thể được xác định bằng số lượng loài của bậc dinh dưỡng."
+            },
+            {
+                "value": "C. Độ lớn của bậc dinh dưỡng có thể được xác định băng sinh khối của bậc dinh dưỡng."
+            },
+            {
+                "value": "D. Độ lớn của bậc dinh dưỡng có thể được xác định bằng số lượng cá thể của bậc dinh dưỡng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Độ lớn của bậc dinh dưỡng có thể được xác định bằng số lượng cá thể của bậc dinh dưỡng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Lưới thức ăn là",
+        "answer": [
+            {
+                "value": "A. nhiều chuỗi thức ăn."
+            },
+            {
+                "value": "B. gồm nhiều loài sinh vật có quan hệ dinh dưỡng với nhau."
+            },
+            {
+                "value": "C. gồm nhiều chuỗi thức ăn có nhiều mắt xích chung."
+            },
+            {
+                "value": "D. gồm nhiều loài sinh vật trong đó có sinh vật sản xuất, sinh vật tiêu thụ và sinh vật phân giải."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. gồm nhiều chuỗi thức ăn có nhiều mắt xích chung."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Chuỗi và lưới thức ăn biểu thị mối quan hệ",
+        "answer": [
+            {
+                "value": "A. giữa thực vật với động vật."
+            },
+            {
+                "value": "B. dinh dưỡng."
+            },
+            {
+                "value": "C. động vật ăn thịt và con mồi."
+            },
+            {
+                "value": "D. giữa sinh vật sản xuất với sinh vật tiêu thụ và sinh vật phân giải."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. dinh dưỡng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Trong hệ sinh thái lưới thức ăn thể hiện mối quan hệ",
+        "answer": [
+            {
+                "value": "A. động vật ăn thịt và con mỗi."
+            },
+            {
+                "value": "B. giữa sinh vật sản xuất với sinh vật tiêu thụ và sinh vật phân giải."
+            },
+            {
+                "value": "C. giữa thực vật với động vật."
+            },
+            {
+                "value": "D. dinh dưỡng và sự chuyển hóa năng lượng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. dinh dưỡng và sự chuyển hóa năng lượng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 10. Trong chuỗi thức ăn: cỏ ∀ cá ∀ vịt ∀ người thì một loài có thể được xem là:",
+        "answer": [
+            {
+                "value": "A. sinh vật tiêu thụ."
+            },
+            {
+                "value": "B. sinh vật phân hủy."
+            },
+            {
+                "value": "C. sinh vật dị dưỡng. "
+            },
+            {
+                "value": "D. bậc dinh dưỡng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. bậc dinh dưỡng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 11. Trong lưới thức ăn của một quần xã sinh vật trên cạn, bậc dinh dưỡng nào sau đây có sinh khối lớn nhất?",
+        "answer": [
+            {
+                "value": "A. Bậc dinh dưỡng cấp 3. "
+            },
+            {
+                "value": "B. Bậc dinh dưỡng cấp 2."
+            },
+            {
+                "value": "C. Bậc dinh dưỡng cấp 1. "
+            },
+            {
+                "value": "D. Bậc dinh dưỡng cấp cao nhất."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Bậc dinh dưỡng cấp 1. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 12. Cho chuỗi thức ăn: Tảo lục đơn bào → Tôm → Cá rô → Chim bói cá. Trong chuỗi thức ăn này, cá rô là",
+        "answer": [
+            {
+                "value": "A. sinh vật tiêu thụ bậc 1 và thuộc bậc dinh dưỡng cấp 3."
+            },
+            {
+                "value": "B. sinh vật tiêu thụ bậc 2 và thuộc bậc dinh dưỡng cấp 3."
+            },
+            {
+                "value": "C. sinh vật tiêu thụ bậc 3 và thuộc bậc dinh dưỡng cấp 3."
+            },
+            {
+                "value": "D. sinh vật tiêu thụ bậc 3 và thuộc bậc dinh dưỡng cấp 2."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. sinh vật tiêu thụ bậc 2 và thuộc bậc dinh dưỡng cấp 3."
+            }
+        ]
+    },
+    {
+        "question": "Câu 13. Một quần xã có các sinh vật sau: (1) Tao lục đơn bào (2) Cá rô (3) Bèo hoa dâu (4) Tôm (5) Bèo Nhật Bản (6) Cá mè trăng (7) Rau muống",
+        "answer": [
+            {
+                "value": "Trong các sinh vật trên, những sinh vật thuộc bậc dinh dưỡng cấp 1 là"
+            },
+            {
+                "value": "A. (1), (2), (6), (8)"
+            },
+            {
+                "value": "B. (2), (4), (5), (6)"
+            },
+            {
+                "value": "C. (3), (4), (7), (8)"
+            },
+            {
+                "value": "D. (1), (3), (5), (7)"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Trong các sinh vật trên, những sinh vật thuộc bậc dinh dưỡng cấp 1 là"
+            },
+            {
+                "value": "D. (1), (3), (5), (7)"
+            }
+        ]
+    }
+]

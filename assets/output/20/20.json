@@ -1,0 +1,442 @@
+[
+    {
+        "question": "1. Trong kĩ thuật chuyên gen, plasmit là:",
+        "answer": [
+            {
+                "value": "A. tế bào cho"
+            },
+            {
+                "value": "B. tê bào nhận"
+            },
+            {
+                "value": "C. thể truyên"
+            },
+            {
+                "value": "D. enzim cắt nối"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. thể truyên"
+            }
+        ]
+    },
+    {
+        "question": "2. Trong kĩ thuật chuyển gen, người ta thường sử dụng loại vi khuẩn E.coli làm tế bào nhận. Lí do chính là:",
+        "answer": [
+            {
+                "value": "A. E.coli sản sinh nhanh, dễ nuôi."
+            },
+            {
+                "value": "C. E.coli có cấu trúc đơn giản."
+            },
+            {
+                "value": "B. E.coli có nhiều trong tự nhiên."
+            },
+            {
+                "value": "D. Trong tê bào E.coli có nhiêu plasmit"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. E.coli sản sinh nhanh, dễ nuôi."
+            }
+        ]
+    },
+    {
+        "question": "3. Trong kĩ thuật chuyên gen, những đôi tượng nào sau đây được dùng làm thể truyền?",
+        "answer": [
+            {
+                "value": "A. Plasmit và vi khuẩn E.coli"
+            },
+            {
+                "value": "B. Plasmit và thể thực khuẩn"
+            },
+            {
+                "value": "C. Vi khuẩn E.coli và thể thực khuẩn"
+            },
+            {
+                "value": "D. Plasmit, thể thực khuẩn và vi khuẩn E.coli"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Plasmit và thể thực khuẩn"
+            }
+        ]
+    },
+    {
+        "question": "4. Restrictara và ligaza tham gia vào công đoạn nào sau đây trong kĩ thuật chuyển gen?",
+        "answer": [
+            {
+                "value": "A. Tách ADN NST của tế bào cho và tách ADN plasmit ra khỏi tế bào."
+            },
+            {
+                "value": "B. Cắt, nối ADN của tế bào cho và ADN plasmit ở những điểm xác định tạo nên ADN tái tổ hợp."
+            },
+            {
+                "value": "C. Chuyển ADN tái tổ hợp vào tế bào nhận"
+            },
+            {
+                "value": "D. Tạo điều kiện cho gen đã ghép được biểu hiện"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Cắt, nối ADN của tế bào cho và ADN plasmit ở những điểm xác định tạo nên ADN tái tổ hợp."
+            }
+        ]
+    },
+    {
+        "question": "5. Trong kĩ thuật chuyển gen, vectơ là:",
+        "answer": [
+            {
+                "value": "A. enzim cắt AND thành các đoạn ngắn"
+            },
+            {
+                "value": "B. vi khuấn E.coli"
+            },
+            {
+                "value": "C. plasmit, thể thực khuẩn được dùng để đưa gen vào tế bào sống"
+            },
+            {
+                "value": "D. đoạn AND cần chuyển."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. plasmit, thể thực khuẩn được dùng để đưa gen vào tế bào sống"
+            }
+        ]
+    },
+    {
+        "question": "6. Thành tựu trong việc tạo giống động vật biến đổi gen :",
+        "answer": [
+            {
+                "value": "A. tạo được những giống mới sản xuất ra thuốc chữa bệnh cho con người dưới dạng thực phẩm."
+            },
+            {
+                "value": "B. tạo được những giống mới có năng suất và chất lượng cao hơn về sản phẩm."
+            },
+            {
+                "value": "C, tạo được các chủng vi khuẩn cho sản phẩm mong muốn không có trong tự nhiên."
+            },
+            {
+                "value": "D. A và B đúng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. A và B đúng."
+            }
+        ]
+    },
+    {
+        "question": "7. Thành tựu trong việc tạo giống cây trồng biến đổi gen :",
+        "answer": [
+            {
+                "value": "A. sản xuất các chất bột, đường với năng suất cao."
+            },
+            {
+                "value": "B. sản xuất các prôtêin trị liệu, các kháng thể, chất dẻo."
+            },
+            {
+                "value": "C. rút ngắn thời gian tạo giống mới."
+            },
+            {
+                "value": "D. cả ba ý trên đều đúng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. cả ba ý trên đều đúng."
+            }
+        ]
+    },
+    {
+        "question": "8. Enzim cắt (restrictaza) được dùng trong kỹ thuật tạo ADN tái tổ hợp vì :",
+        "answer": [
+            {
+                "value": "A. đó là một loại gen đánh dấu."
+            },
+            {
+                "value": "B. có khả năng nhận biết và cắt đứt ADN tại những điểm xác định."
+            },
+            {
+                "value": "C. có khả năng hoạt động trong mọi điều kiện nhiệt độ thực nghiệm."
+            },
+            {
+                "value": "D. có khả năng nhận biết đoạn gen cần chuyển."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. có khả năng nhận biết và cắt đứt ADN tại những điểm xác định."
+            }
+        ]
+    },
+    {
+        "question": "9. Thành tựu của việc tạo dòng vi sinh vật biến đổi gen là :",
+        "answer": [
+            {
+                "value": "A. tạo được các chủng vi khuấn cho các sản phẩm mong muốn không có trong tự nhiên."
+            },
+            {
+                "value": "B. tạo được các chủng vi khuẩn có khả năng sinh sản cực nhanh."
+            },
+            {
+                "value": "C. tạo được các chủng vi khuẩn thích nghi với các điều kiện khắc nghiệt nhất."
+            },
+            {
+                "value": "D. tạo được các chủng vi khuẩn có thể nuôi cấy ở nhiều môi trường dinh dưỡng khác nhau."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. tạo được các chủng vi khuấn cho các sản phẩm mong muốn không có trong tự nhiên."
+            }
+        ]
+    },
+    {
+        "question": "10. Trong kỹ thuật chuyển gen, người ta thường sử dụng virus làm thể truyền vì:",
+        "answer": [
+            {
+                "value": "A. phương thức sông của virus là ký sinh nội bào bắt buộc."
+            },
+            {
+                "value": "B. virus dê nuôi cây."
+            },
+            {
+                "value": "C. virus có thể sống ở cả tế bào thực vật, tế bào động vật và cả trế bảo người."
+            },
+            {
+                "value": "D. virus có bộ gen phù hợp với bât kỳ gen cần chuyên nao."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. phương thức sông của virus là ký sinh nội bào bắt buộc."
+            }
+        ]
+    },
+    {
+        "question": "11. Công nghệ gen là quy trình:",
+        "answer": [
+            {
+                "value": "A. sản xuất trên quy mô công nghiệp, một sản phẩm sinh học nào đó"
+            },
+            {
+                "value": "B. chuyển gen từ tế bào này sang tế bào khác."
+            },
+            {
+                "value": "C. gây đột biến gen ở tế bào sinh dưỡng."
+            },
+            {
+                "value": "D, tạo ra những tế bảo, sinh vật cốó gen biến đổi hoặc có thêm gen nới."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D, tạo ra những tế bảo, sinh vật cốó gen biến đổi hoặc có thêm gen nới."
+            }
+        ]
+    },
+    {
+        "question": "12. Các bước cần tiến hành trong kỹ thuật chuyển gen là:",
+        "answer": [
+            {
+                "value": "A. Tách chiết được thể truyền và gen cần chuyển ra khỏi tế bào -> Xử lý chúng bằng enzim restrictaza -> Dùng enzim ligaza để gắn chúng lại thành ADN tái tổ hợp."
+            },
+            {
+                "value": "B. Phân lập dòng tế bào có chứa ADN tái tổ hợp -> Chuyển ADN tái tổ hợp vào tế bào nhận."
+            },
+            {
+                "value": "C. Tạo ADN tái tổ hợp -> Chuyền ADN tái tổ hợp vào tế bào nhận -> Phân lập dòng tế bào có chứa ADN tái tổ hợp."
+            },
+            {
+                "value": "D. Tạo ADN tái tổ hợp -> Phân lập dòng tế bào có chứa ADN tái tổ hợp."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Tạo ADN tái tổ hợp -> Chuyền ADN tái tổ hợp vào tế bào nhận -> Phân lập dòng tế bào có chứa ADN tái tổ hợp."
+            }
+        ]
+    },
+    {
+        "question": "13. Người ta phân lập dòng tế bào có chứa ADN tái tổ hợp bằng cách :",
+        "answer": [
+            {
+                "value": "A. sư dụng gen phat sáng."
+            },
+            {
+                "value": "B. sử dụng gen kháng chất kháng sinh."
+            },
+            {
+                "value": "C. nuôi cầy tê bào chứa ADN tái tô hợp trong môi trường khuyết dưỡng đối với sản phẩm mong muốn."
+            },
+            {
+                "value": "D. cả ba phương pháp trên."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. cả ba phương pháp trên."
+            }
+        ]
+    },
+    {
+        "question": "14. Tế bào nhận ADN tái tổ hợp thường là tế bào:",
+        "answer": [
+            {
+                "value": "A. Động vật."
+            },
+            {
+                "value": "B. Thực vật."
+            },
+            {
+                "value": "C. người."
+            },
+            {
+                "value": "D. Vi khuân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Vi khuân."
+            }
+        ]
+    },
+    {
+        "question": "15. Người ta có thê làm biên đôi hệ gen của một sinh vật băng cách :",
+        "answer": [
+            {
+                "value": "A. đưa thêm một gen lạ (khác loài) vào hệ gen -> SV chuyên gen."
+            },
+            {
+                "value": "B. làm biến đổi một gen có sẵn trong hệ gen."
+            },
+            {
+                "value": "C. loại bỏ hoặc làm bất hoạt một gen không mong muốn nào đó trong hệ gen."
+            },
+            {
+                "value": "D. cả ba cách trên."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. cả ba cách trên."
+            }
+        ]
+    },
+    {
+        "question": "16. Ưu thế nổi bật của kĩ thuật chuyển gen so với các phương pháp khác là",
+        "answer": [
+            {
+                "value": "A. dễ thực hiện, thao tác nhanh, ít tôn thời gian."
+            },
+            {
+                "value": "B. tạo được phân tử ADN lai từ những loài rất xa nhau trong hệ thống phân loại."
+            },
+            {
+                "value": "C. sản xuất các sản phâm sinh học trên quy mô công nghiệp."
+            },
+            {
+                "value": "D. lai giữa các loài xa nhau trong hệ thống phân loại không giao phối được."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. tạo được phân tử ADN lai từ những loài rất xa nhau trong hệ thống phân loại."
+            }
+        ]
+    },
+    {
+        "question": "17. Điều nào không đúng với việc làm biến đổi hệ gen của một sinh vật?",
+        "answer": [
+            {
+                "value": "A. Đưa thêm một gen lạ vào hệ gen."
+            },
+            {
+                "value": "B. Làm biến đổi gen đã có sẵn trong hệ gen."
+            },
+            {
+                "value": "C. Loại bỏ hay làm bất hoạt một gen nào đó."
+            },
+            {
+                "value": "D. Tạo môi trường cho gen nào đó biểu hiện khác thường."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Tạo môi trường cho gen nào đó biểu hiện khác thường."
+            }
+        ]
+    },
+    {
+        "question": "18. Đê tạo ra động vật chuyên gen, người ta đã tiến hành",
+        "answer": [
+            {
+                "value": "A. đưa gen cần chuyến vào cơ thế con vật mới được sinh ra và tạo điều kiện cho gen đó được biểu hiện."
+            },
+            {
+                "value": "B. đưa gen cần chuyển vào phôi ở giai đoạn phát triển muộn để tạo ra con mang gen cần chuyển và tạo điều kiện cho gen đó được biểu hiện."
+            },
+            {
+                "value": "C. đưa gen cần chuyển vào cá thể cái bằng phương pháp vi tiêm (tiêm gen) và tạo điều kiện cho gen được biểu hiện."
+            },
+            {
+                "value": "D. lấy trứng của con cái rồi cho thụ tinh trong ống nghiệm, sau đó đưa gen vào hợp tử, cho hợp tử phát triển thành phôi rồi cấy phối đã chuyển gen vào tử cung con cái."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. lấy trứng của con cái rồi cho thụ tinh trong ống nghiệm, sau đó đưa gen vào hợp tử, cho hợp tử phát triển thành phôi rồi cấy phối đã chuyển gen vào tử cung con cái."
+            }
+        ]
+    },
+    {
+        "question": "19. Ứng dụng công nghệ gen không tạo ra sản phẩm nào?",
+        "answer": [
+            {
+                "value": "A. Tạo cừu sản sinh prôtêin người, chuột nhắt chứa gen hoocmôn sinh trưởng của chuột công..."
+            },
+            {
+                "value": "B. Tạo bông kháng sâu hại, lúa có khả năng tổng hợp Beta - carôten..."
+            },
+            {
+                "value": "C. Tạo dòng vi khuẩn có khả năng sản suất insulin của người, sản suât HIGH..."
+            },
+            {
+                "value": "D. Tạo ra giống dưa hấu tam bội không có hạt, hàm lượng đường cao."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Tạo ra giống dưa hấu tam bội không có hạt, hàm lượng đường cao."
+            }
+        ]
+    },
+    {
+        "question": "20. Ở cà chua biến đổi gen, quá trình chín của cây bị chậm lại nên có thể vận chuyển đi xa hoặc để lâu mà không bị hỏng. Nguyên nhân của hiện tượng này là",
+        "answer": [
+            {
+                "value": "A. Gen sản sinh êtilen đã bị bất hoạt."
+            },
+            {
+                "value": "B. Gen sản sinh êtilen đã được hoạt hóa."
+            },
+            {
+                "value": "C. Cà chua này là thể đột biến."
+            },
+            {
+                "value": "D. Cà chua đã được chuyến gen"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Gen sản sinh êtilen đã bị bất hoạt."
+            }
+        ]
+    }
+]

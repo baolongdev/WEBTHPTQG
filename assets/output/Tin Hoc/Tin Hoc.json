@@ -1,0 +1,2642 @@
+[
+    {
+        "question": "Câu 1: Access là hệ quản trị cơ sở dữ liệu dành cho?",
+        "answer": [
+            {
+                "value": "Các máy tính trong mạng cục bộ"
+            },
+            {
+                "value": "Các máy tính trong mạng toàn cầu"
+            },
+            {
+                "value": "Các máy tính trong mạng diện rộng"
+            },
+            {
+                "value": "Tất cả đều đúng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Các máy tính trong mạng cục bộ"
+            }
+        ]
+    },
+    {
+        "question": "Câu 2: Access là gì?",
+        "answer": [
+            {
+                "value": "Là phần mềm ứng dụng"
+            },
+            {
+                "value": "Là hệ QTCSDL do hãng Microsoft sản xuất"
+            },
+            {
+                "value": "Là phần cứng"
+            },
+            {
+                "value": "Cả A và B"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cả A và B"
+            }
+        ]
+    },
+    {
+        "question": "Câu 3: Các chức năng chính của Access?",
+        "answer": [
+            {
+                "value": "Lập bảng"
+            },
+            {
+                "value": "Tính toán và khai thác dữ liệu"
+            },
+            {
+                "value": "Lưu trữ dữ liệu"
+            },
+            {
+                "value": "Cả ba phương án trên"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cả ba phương án trên"
+            }
+        ]
+    },
+    {
+        "question": "Câu 4: Cập nhật dữ liệu là:",
+        "answer": [
+            {
+                "value": "Thay đổi dữ liệu trong các bảng"
+            },
+            {
+                "value": "Thay đổi cấu trúc của bảng"
+            },
+            {
+                "value": "Thay đổi cách hiển thị dữ liệu trong bảng"
+            },
+            {
+                "value": "Cả ba phương án trên"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Thay đổi dữ liệu trong các bảng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 5: Trong các phát biểu sau, phát biểu nào sai?",
+        "answer": [
+            {
+                "value": "Trường (field): bản chất là cột của bảng, thể hiện thuộc tính của chủ thể cần quản lý"
+            },
+            {
+                "value": "Bản ghi (record): bản chất là hàng của bảng, gồm dữ liệu về các thuộc tính của chủ thể được quản lý"
+            },
+            {
+                "value": "Kiểu dữ liệu (Data Type): là kiểu của dữ liệu lưu trong một trường"
+            },
+            {
+                "value": "Một trường có thể có nhiều kiểu dữ liệu"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Một trường có thể có nhiều kiểu dữ liệu"
+            }
+        ]
+    },
+    {
+        "question": "Câu 6: Chế độ nhận dữ liệu từ các nguồn khác vào trong Access gọi là",
+        "answer": [
+            {
+                "value": "Input"
+            },
+            {
+                "value": "Import"
+            },
+            {
+                "value": "InStream"
+            },
+            {
+                "value": "Cả A, B, C đều đúng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Import"
+            }
+        ]
+    },
+    {
+        "question": "Câu 7: Chế độ đưa dữ liệu Access ra ngoài gọi là",
+        "answer": [
+            {
+                "value": "External"
+            },
+            {
+                "value": "Export"
+            },
+            {
+                "value": "Excel"
+            },
+            {
+                "value": "Cả A, B, C đều đúng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Export"
+            }
+        ]
+    },
+    {
+        "question": "Câu 8: Để đưa dữ liệu được lưu dưới dạng Unicode từ Excel vào trong Access ta chọn",
+        "answer": [
+            {
+                "value": "Excel"
+            },
+            {
+                "value": "Unicode"
+            },
+            {
+                "value": "Text"
+            },
+            {
+                "value": "Cả A, B, C đều đúng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Text"
+            }
+        ]
+    },
+    {
+        "question": "Câu 8 bis: Chế độ thiết kế thủ công trong Access có tên là",
+        "answer": [
+            {
+                "value": "Create"
+            },
+            {
+                "value": "Manual"
+            },
+            {
+                "value": "Architecture"
+            },
+            {
+                "value": "Design"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Design"
+            }
+        ]
+    },
+    {
+        "question": "Câu 9: Chế độ nhập dữ liệu vào bảng gọi là",
+        "answer": [
+            {
+                "value": "Design View"
+            },
+            {
+                "value": "Datasheet View"
+            },
+            {
+                "value": "Cả A và B"
+            },
+            {
+                "value": "Cả A, B, C đều sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Datasheet View"
+            }
+        ]
+    },
+    {
+        "question": "Câu 10: Cột trong bảng của Access tương ứng với",
+        "answer": [
+            {
+                "value": "Dữ liệu của bảng"
+            },
+            {
+                "value": "Đối tượng lưu trữ"
+            },
+            {
+                "value": "Thuộc tính của đối tượng"
+            },
+            {
+                "value": "Giá trị của CSDL"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Thuộc tính của đối tượng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 11: Tùy chỉnh nào chỉ có ở kiểu dữ liệu Short Text mà không có ở Number",
+        "answer": [
+            {
+                "value": "Field Size"
+            },
+            {
+                "value": "Validation Rule"
+            },
+            {
+                "value": "Validation Text"
+            },
+            {
+                "value": "Allow Zero Length"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Allow Zero Length"
+            }
+        ]
+    },
+    {
+        "question": "Câu 12: Khi nhập giá trị 11 ở cột lưu trữ điểm toán của học sinh với kiểu là Number / Double thì bị chặn là do tùy chỉnh",
+        "answer": [
+            {
+                "value": "Field Size"
+            },
+            {
+                "value": "Required"
+            },
+            {
+                "value": "Input Mask"
+            },
+            {
+                "value": "Validation Rule"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Validation Rule"
+            }
+        ]
+    },
+    {
+        "question": "Câu 13: Dòng chữ Mark must be in range of 0 to 10 có thể để ở tùy chỉnh",
+        "answer": [
+            {
+                "value": "Field Size"
+            },
+            {
+                "value": "Required"
+            },
+            {
+                "value": "Check Rule"
+            },
+            {
+                "value": "Validation Text"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Validation Text"
+            }
+        ]
+    },
+    {
+        "question": "Câu 14: Để chỉnh giá trị mặc định cho một cột ta dùng tùy chỉnh",
+        "answer": [
+            {
+                "value": "Pre valued Column"
+            },
+            {
+                "value": "Input Text"
+            },
+            {
+                "value": "Initial Data"
+            },
+            {
+                "value": "Default Value"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Default Value"
+            }
+        ]
+    },
+    {
+        "question": "Câu 15: Với cột MiddleName để lưu trữ tên đệm của học sinh, tùy chỉnh nào nên chọn giá trị là no với thực tế tên ở Việt Nam",
+        "answer": [
+            {
+                "value": "Allow Zero Length"
+            },
+            {
+                "value": "Required"
+            },
+            {
+                "value": "Cả A và B"
+            },
+            {
+                "value": "Cả A, B, C đều sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cả A và B"
+            }
+        ]
+    },
+    {
+        "question": "Câu 16: Kiểu dữ liệu lưu văn bản trong Access là",
+        "answer": [
+            {
+                "value": "Data Text"
+            },
+            {
+                "value": "Short Text"
+            },
+            {
+                "value": "Textual"
+            },
+            {
+                "value": "TxT"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Short Text"
+            }
+        ]
+    },
+    {
+        "question": "Câu 17: Kiểu dữ liệu số nguyên trong Access là",
+        "answer": [
+            {
+                "value": "Number / Long Integer"
+            },
+            {
+                "value": "Number / Id"
+            },
+            {
+                "value": "Num / Long Integer"
+            },
+            {
+                "value": "Num / Id"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Number / Long Integer"
+            }
+        ]
+    },
+    {
+        "question": "Câu 18: Kiểu dữ liệu đúng sai trong Access là",
+        "answer": [
+            {
+                "value": "Boolean"
+            },
+            {
+                "value": "Choices"
+            },
+            {
+                "value": "True or False"
+            },
+            {
+                "value": "Yes / No"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Yes / No"
+            }
+        ]
+    },
+    {
+        "question": "Câu 19: Kiểu dữ liệu ngày tháng trong Access là",
+        "answer": [
+            {
+                "value": "Date and Time"
+            },
+            {
+                "value": "DT"
+            },
+            {
+                "value": "DateTime"
+            },
+            {
+                "value": "Date / Time"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Date / Time"
+            }
+        ]
+    },
+    {
+        "question": "Câu 20: Dữ liệu ngày tháng có bản chất là",
+        "answer": [
+            {
+                "value": "Số nguyên"
+            },
+            {
+                "value": "Số thực"
+            },
+            {
+                "value": "Văn bản"
+            },
+            {
+                "value": "Dữ liệu nhị phân"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Số nguyên"
+            }
+        ]
+    },
+    {
+        "question": "Câu 21: Dữ liệu Autonumber có bản chất là",
+        "answer": [
+            {
+                "value": "Số nguyên"
+            },
+            {
+                "value": "Số thực"
+            },
+            {
+                "value": "Văn bản"
+            },
+            {
+                "value": "Dữ liệu nhị phân"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Số nguyên"
+            }
+        ]
+    },
+    {
+        "question": "Câu 22: Dữ liệu tốt nhất để lưu trữ kinh độ và vỹ độ là",
+        "answer": [
+            {
+                "value": "Số nguyên"
+            },
+            {
+                "value": "Số thực"
+            },
+            {
+                "value": "Văn bản"
+            },
+            {
+                "value": "Dữ liệu nhị phân"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Số thực"
+            }
+        ]
+    },
+    {
+        "question": "Câu 23: Kiểu dữ liệu phù hợp trong Access để lưu giới tính của học sinh biết giá trị của cột được mặc định sẵn trong ô chọn (tick) \"Nam hay Nữ\" là?",
+        "answer": [
+            {
+                "value": "Yes / No"
+            },
+            {
+                "value": "Number / Longint"
+            },
+            {
+                "value": "Number / Double"
+            },
+            {
+                "value": "Short Text"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Yes / No"
+            }
+        ]
+    },
+    {
+        "question": "Câu 24: Khai báo cột điểm trung bình ta sử dụng kiểu dữ liệu?",
+        "answer": [
+            {
+                "value": "Yes / No"
+            },
+            {
+                "value": "Number / Longint"
+            },
+            {
+                "value": "Number / Double"
+            },
+            {
+                "value": "Short Text"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Number / Double"
+            }
+        ]
+    },
+    {
+        "question": "Câu 25: Kiểu dữ liệu nào phù hợp cho việc lưu trữ giá trị cho biết học sinh có phải là đoàn viên hay không?",
+        "answer": [
+            {
+                "value": "Yes / No"
+            },
+            {
+                "value": "Number / Longint"
+            },
+            {
+                "value": "Number / Double"
+            },
+            {
+                "value": "Short Text"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Yes / No"
+            }
+        ]
+    },
+    {
+        "question": "Câu 26: Kiểu dữ liệu phù hợp để lưu năm sinh của nhân viên là",
+        "answer": [
+            {
+                "value": "Yes / No"
+            },
+            {
+                "value": "Number / Longint"
+            },
+            {
+                "value": "Date / Time"
+            },
+            {
+                "value": "Short Text"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Number / Longint"
+            }
+        ]
+    },
+    {
+        "question": "Câu 27: Để lưu trữ giá trị bỏ phiếu cho chỉ bao gồm đảng Dân Chủ hoặc Cộng Hòa ở Mỹ thì nên chọn",
+        "answer": [
+            {
+                "value": "Yes / No"
+            },
+            {
+                "value": "Number / Longint"
+            },
+            {
+                "value": "Number / Double"
+            },
+            {
+                "value": "Short Text"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Yes / No"
+            }
+        ]
+    },
+    {
+        "question": "Câu 28: Để lưu trữ giá trị nguyện vọng chọn khối thi của học sinh cuối cấp thì nên dùng",
+        "answer": [
+            {
+                "value": "Yes / No"
+            },
+            {
+                "value": "Number / Longint"
+            },
+            {
+                "value": "Number / Double"
+            },
+            {
+                "value": "Short Text"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Number / Longint"
+            }
+        ]
+    },
+    {
+        "question": "Câu 29: Dữ liệu phù hợp cho giá trị Họ và tên của học sinh là",
+        "answer": [
+            {
+                "value": "Yes / No"
+            },
+            {
+                "value": "Number / Longint"
+            },
+            {
+                "value": "Number / Double"
+            },
+            {
+                "value": "Short Text"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Short Text"
+            }
+        ]
+    },
+    {
+        "question": "Câu 30: Với mã số học sinh có giá trị FH89234, kiểu dữ liệu phù hợp là",
+        "answer": [
+            {
+                "value": "Yes / No"
+            },
+            {
+                "value": "Number / Longint"
+            },
+            {
+                "value": "Number / Double"
+            },
+            {
+                "value": "Short Text"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Short Text"
+            }
+        ]
+    },
+    {
+        "question": "Câu 31: Kiểu dữ liệu Number / Integer phù hợp để lưu trữ",
+        "answer": [
+            {
+                "value": "Điểm thi cuối kỳ"
+            },
+            {
+                "value": "Kinh độ, vỹ độ"
+            },
+            {
+                "value": "Số năm công tác của người lao động"
+            },
+            {
+                "value": "Hệ số lương cơ bản"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Số năm công tác của người lao động"
+            }
+        ]
+    },
+    {
+        "question": "Câu 32: Kiểu dữ liệu Number / Integer không thể dùng để lưu trữ",
+        "answer": [
+            {
+                "value": "Mã định danh"
+            },
+            {
+                "value": "Họ tên"
+            },
+            {
+                "value": "Số thứ tự học sinh"
+            },
+            {
+                "value": "Số năm công tác của người lao động"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Họ tên"
+            }
+        ]
+    },
+    {
+        "question": "Câu 33: Kiểu dữ liệu Number / Double phù hợp để lưu trữ",
+        "answer": [
+            {
+                "value": "Số thự tự học sinh trong lớp"
+            },
+            {
+                "value": "Mã định danh giáo viên"
+            },
+            {
+                "value": "Số lượng huy chương học sinh đạt được"
+            },
+            {
+                "value": "Hệ số phụ cấp độc hại"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Hệ số phụ cấp độc hại"
+            }
+        ]
+    },
+    {
+        "question": "Câu 34: Kiểu dữ liệu Number / Double không thể dùng để lưu trữ",
+        "answer": [
+            {
+                "value": "Số điện thoại"
+            },
+            {
+                "value": "Họ tên"
+            },
+            {
+                "value": "Địa chỉ"
+            },
+            {
+                "value": "Cả ba phương án trên"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cả ba phương án trên"
+            }
+        ]
+    },
+    {
+        "question": "Câu 35: Kiểu dữ liệu Short Text không thể dùng để lưu trữ",
+        "answer": [
+            {
+                "value": "Số điện thoại"
+            },
+            {
+                "value": "Mã số nhân viên"
+            },
+            {
+                "value": "Đơn giá của sản phẩm"
+            },
+            {
+                "value": "Địa chỉ"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Đơn giá của sản phẩm"
+            }
+        ]
+    },
+    {
+        "question": "Câu 36: Số ký tự tối đa của kiểu dữ liệu Short Text trong Microsoft Access là",
+        "answer": [
+            {
+                "value": "522"
+            },
+            {
+                "value": "552"
+            },
+            {
+                "value": "225"
+            },
+            {
+                "value": "255"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "255"
+            }
+        ]
+    },
+    {
+        "question": "Câu 37: Số chữ số thập phân tối đa kiểu dữ liệu Double lưu trữ được trong Microsoft Access?",
+        "answer": [
+            {
+                "value": "82"
+            },
+            {
+                "value": "14"
+            },
+            {
+                "value": "41"
+            },
+            {
+                "value": "28"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "28"
+            }
+        ]
+    },
+    {
+        "question": "Câu 38: Kiểu dữ liệu để lưu trữ văn bản lớn là trong Microsoft Access là",
+        "answer": [
+            {
+                "value": "Short Text"
+            },
+            {
+                "value": "Memo"
+            },
+            {
+                "value": "Textual"
+            },
+            {
+                "value": "Long Text"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Memo"
+            }
+        ]
+    },
+    {
+        "question": "Câu 39: Dữ liệu hình ảnh có thể lưu trữ bằng kiểu dữ liệu trong Microsoft Access là",
+        "answer": [
+            {
+                "value": "Number"
+            },
+            {
+                "value": "OLE Object"
+            },
+            {
+                "value": "Short Text"
+            },
+            {
+                "value": "Date/Time"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "OLE Object"
+            }
+        ]
+    },
+    {
+        "question": "Câu 40: Kiểu dữ liệu dùng để lưu trữ giá trị phần trăm trong in Microsoft Access là",
+        "answer": [
+            {
+                "value": "Date/Time"
+            },
+            {
+                "value": "Number"
+            },
+            {
+                "value": "Short Text"
+            },
+            {
+                "value": "Currency"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Number"
+            }
+        ]
+    },
+    {
+        "question": "Câu 41: Dữ liệu được tự động sinh ra bởi Microsoft Access là",
+        "answer": [
+            {
+                "value": "AutoNumber"
+            },
+            {
+                "value": "Pregen Value"
+            },
+            {
+                "value": "Random"
+            },
+            {
+                "value": "No input"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "AutoNumber"
+            }
+        ]
+    },
+    {
+        "question": "Câu 42: Dữ liệu phù hợp với việc lưu trữ số tự động tăng trong Microsoft Access là",
+        "answer": [
+            {
+                "value": "Series"
+            },
+            {
+                "value": "AutoIncrease"
+            },
+            {
+                "value": "AutoNumber"
+            },
+            {
+                "value": "Uptrend"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "AutoNumber"
+            }
+        ]
+    },
+    {
+        "question": "Câu 43: Kiểu dữ liệu thiết kế riêng cho việc xử lý tiền tệ trong Microsoft Access là",
+        "answer": [
+            {
+                "value": "Date/Time"
+            },
+            {
+                "value": "Short Text"
+            },
+            {
+                "value": "Currency"
+            },
+            {
+                "value": "Number"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Currency"
+            }
+        ]
+    },
+    {
+        "question": "Câu 44: Kiểu dữ liệu có khả năng liên kết trong Microsoft Access là",
+        "answer": [
+            {
+                "value": "Date/Time"
+            },
+            {
+                "value": "Hyperlink"
+            },
+            {
+                "value": "Short Text"
+            },
+            {
+                "value": "Number"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Hyperlink"
+            }
+        ]
+    },
+    {
+        "question": "Câu 45: Bản chất nội dung của kiểu dữ liệu có khả năng liên kết trong Microsoft Access là",
+        "answer": [
+            {
+                "value": "Hyperlink"
+            },
+            {
+                "value": "Short Text"
+            },
+            {
+                "value": "Number"
+            },
+            {
+                "value": "Date/Time"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Short Text"
+            }
+        ]
+    },
+    {
+        "question": "Câu 46: Khóa trong cơ sở dữ liệu là gì?",
+        "answer": [
+            {
+                "value": "Một trường hoặc tổ hợp các trường xác định duy nhất một bản ghi cơ sở dữ liệu"
+            },
+            {
+                "value": "Kích thước của cơ sở dữ liệu"
+            },
+            {
+                "value": "Loại hệ thống cơ sở dữ liệu"
+            },
+            {
+                "value": "Tên bảng cơ sở dữ liệu"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Một trường hoặc tổ hợp các trường xác định duy nhất một bản ghi cơ sở dữ liệu"
+            }
+        ]
+    },
+    {
+        "question": "Câu 47: Vấn đề nào dẫn đến khái niệm khóa",
+        "answer": [
+            {
+                "value": "Dữ liệu lớn"
+            },
+            {
+                "value": "Trùng lắp dữ liệu"
+            },
+            {
+                "value": "Thiếu dữ liệu"
+            },
+            {
+                "value": "Cả A, B, C đều đúng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Trùng lắp dữ liệu"
+            }
+        ]
+    },
+    {
+        "question": "Câu 48: Khóa mạnh khác khóa yếu ở chỗ",
+        "answer": [
+            {
+                "value": "Bắt buộc phải sử dụng kiểu số nguyên"
+            },
+            {
+                "value": "Bắt buộc phải có trên một cột"
+            },
+            {
+                "value": "Bắt buộc có dữ liệu"
+            },
+            {
+                "value": "Cả A, B, C đều sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Bắt buộc có dữ liệu"
+            }
+        ]
+    },
+    {
+        "question": "Câu 49: Khóa chính phải là một trong",
+        "answer": [
+            {
+                "value": "Các khóa của bảng"
+            },
+            {
+                "value": "Các khóa lý tưởng của bảng"
+            },
+            {
+                "value": "Các khóa mạnh của bảng"
+            },
+            {
+                "value": "Cả A, B, C đều sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Các khóa mạnh của bảng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 50: Bảng có thể có mấy khóa chính",
+        "answer": [
+            {
+                "value": "1"
+            },
+            {
+                "value": "2"
+            },
+            {
+                "value": "3"
+            },
+            {
+                "value": "4"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "question": "Câu 51: Ràng buộc khóa chính trong cơ sở dữ liệu là gì?",
+        "answer": [
+            {
+                "value": "Quy tắc cho phép bảng tham chiếu đến bảng khác"
+            },
+            {
+                "value": "Quy tắc sắp xếp các bản ghi trong bảng"
+            },
+            {
+                "value": "Quy tắc cho phép các giá trị trùng lặp trong bảng cơ sở dữ liệu"
+            },
+            {
+                "value": "Quy tắc đảm bảo các giá trị khóa chính là duy nhất và không rỗng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Quy tắc đảm bảo các giá trị khóa chính là duy nhất và không rỗng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 52: Khóa chính trong Access gọi là",
+        "answer": [
+            {
+                "value": "Main Key"
+            },
+            {
+                "value": "Primary Key"
+            },
+            {
+                "value": "Central Key"
+            },
+            {
+                "value": "Master Key"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Primary Key"
+            }
+        ]
+    },
+    {
+        "question": "Câu 53: Khóa lý tưởng có kiểu là",
+        "answer": [
+            {
+                "value": "Long Integer"
+            },
+            {
+                "value": "Double"
+            },
+            {
+                "value": "Short text"
+            },
+            {
+                "value": "Date / time"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Long Integer"
+            }
+        ]
+    },
+    {
+        "question": "Câu 54: Nếu trong bảng không có sẵn khóa lý tưởng thì kiểu của khóa chính thông thường là",
+        "answer": [
+            {
+                "value": "Number / Long integer"
+            },
+            {
+                "value": "Autonumber"
+            },
+            {
+                "value": "Short text"
+            },
+            {
+                "value": "Cả A, B, C đều sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Autonumber"
+            }
+        ]
+    },
+    {
+        "question": "Câu 55: Để cài đặt các khóa còn lại trong bảng ta dùng",
+        "answer": [
+            {
+                "value": "Locks"
+            },
+            {
+                "value": "Constraints"
+            },
+            {
+                "value": "Keys"
+            },
+            {
+                "value": "Indexes"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Indexes"
+            }
+        ]
+    },
+    {
+        "question": "Câu 56: Trong bảng lưu trữ học sinh một lớp, cột lưu trữ giá trị nào sau đây là khóa?",
+        "answer": [
+            {
+                "value": "Mã học sinh"
+            },
+            {
+                "value": "Số thứ tự"
+            },
+            {
+                "value": "Cả A và B đều đúng"
+            },
+            {
+                "value": "Cả A và B đều sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cả A và B đều đúng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 57: Trong bảng lưu trữ học sinh toàn trường, cột nào không thể là khóa?",
+        "answer": [
+            {
+                "value": "Mã học sinh"
+            },
+            {
+                "value": "Số thứ tự"
+            },
+            {
+                "value": "Cả A và B đều đúng"
+            },
+            {
+                "value": "Cả A và B đều sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Số thứ tự"
+            }
+        ]
+    },
+    {
+        "question": "Câu 58: Dữ liệu nào sau đây không thể là khóa trong bảng lưu trữ thông tin nhân viên?",
+        "answer": [
+            {
+                "value": "Số điện thoại"
+            },
+            {
+                "value": "Tên đăng nhập"
+            },
+            {
+                "value": "Email"
+            },
+            {
+                "value": "Ngày sinh"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Ngày sinh"
+            }
+        ]
+    },
+    {
+        "question": "Câu 60: Dữ liệu nào sau đây không thể là khóa trong bảng lưu trữ thông tin học sinh bậc trung học cơ sở?",
+        "answer": [
+            {
+                "value": "Ngày sinh"
+            },
+            {
+                "value": "Email"
+            },
+            {
+                "value": "Số điện thoại"
+            },
+            {
+                "value": "Cả A, B, C đều đúng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cả A, B, C đều đúng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 61: Cột hay bộ cột nào là khóa trong bảng lưu thông tin sinh viên",
+        "answer": [
+            {
+                "value": "Mã sinh viên"
+            },
+            {
+                "value": "Mã sinh viên và ngày sinh"
+            },
+            {
+                "value": "Mã sinh viên và địa chỉ"
+            },
+            {
+                "value": "Cả A, B, C đều đúng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Mã sinh viên"
+            }
+        ]
+    },
+    {
+        "question": "Câu 62: Loại dữ liệu nào có thể được sử dụng cho khóa chính trong cơ sở dữ liệu?",
+        "answer": [
+            {
+                "value": "nguyên"
+            },
+            {
+                "value": "Văn bản"
+            },
+            {
+                "value": "Ngày/Giờ"
+            },
+            {
+                "value": "Cả ba phương án trên"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cả ba phương án trên"
+            }
+        ]
+    },
+    {
+        "question": "Câu 63: Kích thước được đề xuất cho trường khóa chính trong cơ sở dữ liệu là bao nhiêu?",
+        "answer": [
+            {
+                "value": "Bằng kích thước của trường dữ liệu lớn nhất trong bảng"
+            },
+            {
+                "value": "Đủ lớn để đáp ứng sự phát triển của bảng trong tương lai"
+            },
+            {
+                "value": "Tùy thuộc vào yêu cầu cụ thể của hệ thống cơ sở dữ liệu"
+            },
+            {
+                "value": "Càng nhỏ càng tốt để tiết kiệm không gian lưu trữ"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Càng nhỏ càng tốt để tiết kiệm không gian lưu trữ"
+            }
+        ]
+    },
+    {
+        "question": "Câu 64: Khóa chính đóng góp như thế nào vào hiệu suất hoạt động của cơ sở dữ liệu?",
+        "answer": [
+            {
+                "value": "Nó làm giảm không gian lưu trữ cần thiết cho cơ sở dữ liệu"
+            },
+            {
+                "value": "Nó cho phép tìm kiếm và lập chỉ mục các bản ghi nhanh hơn"
+            },
+            {
+                "value": "Nó cải thiện tính bảo mật của cơ sở dữ liệu"
+            },
+            {
+                "value": "Nó cho phép sao lưu và phục hồi dữ liệu tự động"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Nó cho phép tìm kiếm và lập chỉ mục các bản ghi nhanh hơn"
+            }
+        ]
+    },
+    {
+        "question": "Câu 65: Khóa chính có thể bao gồm nhiều cột trong cơ sở dữ liệu không?",
+        "answer": [
+            {
+                "value": "Chỉ khi hệ thống cơ sở dữ liệu hỗ trợ khóa chính tổng hợp"
+            },
+            {
+                "value": "Không, khóa chính chỉ có thể là một cột duy nhất"
+            },
+            {
+                "value": "Có, nó có thể bao gồm hai hoặc nhiều cột"
+            },
+            {
+                "value": "Tùy thuộc vào yêu cầu cụ thể của lược đồ cơ sở dữ liệu"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Có, nó có thể bao gồm hai hoặc nhiều cột"
+            }
+        ]
+    },
+    {
+        "question": "Câu 66: Mối liên hệ giữa khóa chính và khóa ngoại trong cơ sở dữ liệu là",
+        "answer": [
+            {
+                "value": "Khóa ngoại là bản sao của khóa chính trong bảng khác"
+            },
+            {
+                "value": "Khóa ngoại tham chiếu khóa chính trong bảng khác"
+            },
+            {
+                "value": "Khóa chính được tạo tự động từ khóa ngoại"
+            },
+            {
+                "value": "Khóa chính và khóa ngoại luôn có cùng giá trị"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Khóa ngoại tham chiếu khóa chính trong bảng khác"
+            }
+        ]
+    },
+    {
+        "question": "Câu 67: Khóa nào sau đây là khóa chính?",
+        "answer": [
+            {
+                "value": "Trường cho phép các giá trị trùng lặp trong bảng cơ sở dữ liệu"
+            },
+            {
+                "value": "Khóa ngoại từ bảng khác"
+            },
+            {
+                "value": "Mã định danh duy nhất cho một bản ghi cụ thể trong bảng cơ sở dữ liệu"
+            },
+            {
+                "value": "Trường chứa phép tính hoặc công thức"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Mã định danh duy nhất cho một bản ghi cụ thể trong bảng cơ sở dữ liệu"
+            }
+        ]
+    },
+    {
+        "question": "Câu 68: Ví dụ nào sau đây là ví dụ về khóa phức hợp?",
+        "answer": [
+            {
+                "value": "Trường chứa phép tính hoặc công thức"
+            },
+            {
+                "value": "Khóa ngoại từ bảng khác"
+            },
+            {
+                "value": "Một trường duy nhất cho phép các giá trị trùng lặp trong bảng cơ sở dữ liệu"
+            },
+            {
+                "value": "Sự kết hợp của hai hoặc nhiều trường xác định duy nhất một bản ghi cơ sở dữ liệu"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Sự kết hợp của hai hoặc nhiều trường xác định duy nhất một bản ghi cơ sở dữ liệu"
+            }
+        ]
+    },
+    {
+        "question": "Câu 69: Đâu không phải là kiểu dữ liệu hợp lệ cho trường khóa chính?",
+        "answer": [
+            {
+                "value": "Number / Longint"
+            },
+            {
+                "value": "Short Text"
+            },
+            {
+                "value": "Autonumber"
+            },
+            {
+                "value": "OLE Object"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "OLE Object"
+            }
+        ]
+    },
+    {
+        "question": "Câu 70: Khóa mạnh trong bảng trong một số trường hợp có thể không làm được",
+        "answer": [
+            {
+                "value": "Xác định duy nhất mỗi bản ghi trong bảng"
+            },
+            {
+                "value": "Ngăn chặn giá trị trùng lắp"
+            },
+            {
+                "value": "Thiết lập mối liên hệ giữa các bảng"
+            },
+            {
+                "value": "Cả ba phương án trên"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Thiết lập mối liên hệ giữa các bảng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 71: Mục đích của khóa mạnh trong cơ sở dữ liệu là",
+        "answer": [
+            {
+                "value": "Để tính giá trị dựa trên các trường khác"
+            },
+            {
+                "value": "Để xác định các lựa chọn tiềm năng cho khóa chính"
+            },
+            {
+                "value": "Sắp xếp các bản ghi trong bảng"
+            },
+            {
+                "value": "Thiết lập mối quan hệ giữa các bảng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Để xác định các lựa chọn tiềm năng cho khóa chính"
+            }
+        ]
+    },
+    {
+        "question": "Câu 72: Ví dụ nào sau đây là ví dụ về khóa tự nhiên?",
+        "answer": [
+            {
+                "value": "Tên bảng cơ sở dữ liệu"
+            },
+            {
+                "value": "Trường được tạo riêng để sử dụng làm khóa chính"
+            },
+            {
+                "value": "Trường chứa phép tính hoặc công thức"
+            },
+            {
+                "value": "Trường đã tồn tại trong dữ liệu và có thể được sử dụng làm khóa chính"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Trường đã tồn tại trong dữ liệu và có thể được sử dụng làm khóa chính"
+            }
+        ]
+    },
+    {
+        "question": "Câu 73: Khóa thay thế trong cơ sở dữ liệu là gì?",
+        "answer": [
+            {
+                "value": "Trường cho phép các giá trị trùng lặp trong bảng cơ sở dữ liệu"
+            },
+            {
+                "value": "Khóa ngoại từ bảng khác"
+            },
+            {
+                "value": "Trường chứa phép tính hoặc công thức"
+            },
+            {
+                "value": "Khóa do hệ thống tạo được sử dụng làm khóa chính"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Khóa do hệ thống tạo được sử dụng làm khóa chính"
+            }
+        ]
+    },
+    {
+        "question": "Câu 74: Ví dụ nào sau đây là ví dụ về khóa thay thế?",
+        "answer": [
+            {
+                "value": "Trường đã tồn tại trong dữ liệu và có thể được sử dụng làm khóa chính"
+            },
+            {
+                "value": "Tên bảng cơ sở dữ liệu"
+            },
+            {
+                "value": "Trường chứa phép tính hoặc công thức"
+            },
+            {
+                "value": "Trường Id được hệ thống cơ sở dữ liệu tự động tạo ra"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Trường Id được hệ thống cơ sở dữ liệu tự động tạo ra"
+            }
+        ]
+    },
+    {
+        "question": "Câu 75: Mục đích của chỉ mục trong cơ sở dữ liệu là gì?",
+        "answer": [
+            {
+                "value": "Thiết lập mối quan hệ giữa các bảng"
+            },
+            {
+                "value": "Sắp xếp các bản ghi trong bảng"
+            },
+            {
+                "value": "Để cải thiện hiệu suất truy vấn bằng cách cho phép truy xuất dữ liệu nhanh hơn"
+            },
+            {
+                "value": "Để tính giá trị dựa trên các trường khác"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Để cải thiện hiệu suất truy vấn bằng cách cho phép truy xuất dữ liệu nhanh hơn"
+            }
+        ]
+    },
+    {
+        "question": "Câu 76: Điều nào sau đây là ví dụ về chỉ mục trong cơ sở dữ liệu?",
+        "answer": [
+            {
+                "value": "Cấu trúc dữ liệu cho phép truy xuất dữ liệu nhanh hơn cho các cột cụ thể"
+            },
+            {
+                "value": "Trường cho phép các giá trị trùng lặp trong bảng cơ sở dữ liệu"
+            },
+            {
+                "value": "Trường chứa phép tính hoặc công thức"
+            },
+            {
+                "value": "Khóa ngoại từ bảng khác"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cấu trúc dữ liệu cho phép truy xuất dữ liệu nhanh hơn cho các cột cụ thể"
+            }
+        ]
+    },
+    {
+        "question": "Câu 77: Tác dụng của khóa chính trong liên kết bảng chính là",
+        "answer": [
+            {
+                "value": "Phân biệt các đối tượng"
+            },
+            {
+                "value": "Định danh các đối tượng"
+            },
+            {
+                "value": "Ngăn dữ liệu trùng lắp"
+            },
+            {
+                "value": "Cả A, B, C đều đúng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Định danh các đối tượng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 78: Khóa ngoại trong cơ sở dữ liệu là gì?",
+        "answer": [
+            {
+                "value": "Trường chứa phép tính hoặc công thức"
+            },
+            {
+                "value": "Tên bảng cơ sở dữ liệu"
+            },
+            {
+                "value": "Kích thước của cơ sở dữ liệu"
+            },
+            {
+                "value": "Trường tham chiếu khóa chính của bảng khác"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Trường tham chiếu khóa chính của bảng khác"
+            }
+        ]
+    },
+    {
+        "question": "Câu 79: Ví dụ nào sau đây là ví dụ về mối quan hệ khóa ngoại?",
+        "answer": [
+            {
+                "value": "Cả ba lựa chọn trên đều đúng"
+            },
+            {
+                "value": "Cột TeacherId trong bảng Classes tham chiếu cột FacebookId trong bảng Teacher"
+            },
+            {
+                "value": "Cột OrderId trong bảng OrderItems tham chiếu khóa chính Id trong bảng Order"
+            },
+            {
+                "value": "Cột ClassId trong bảng Students tham chiếu khóa mạnh Grade, NumberInGrade trong bảng Classes"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cột OrderId trong bảng OrderItems tham chiếu khóa chính Id trong bảng Order"
+            }
+        ]
+    },
+    {
+        "question": "Câu 80: Mục đích của khóa ngoại trong cơ sở dữ liệu là gì?",
+        "answer": [
+            {
+                "value": "Để xác định duy nhất mỗi bản ghi trong bảng"
+            },
+            {
+                "value": "Để tính giá trị dựa trên các trường khác"
+            },
+            {
+                "value": "Thiết lập mối quan hệ giữa các bảng"
+            },
+            {
+                "value": "Sắp xếp các bản ghi trong bảng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Thiết lập mối quan hệ giữa các bảng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 81: Sự khác biệt giữa khóa chính và khóa ngoại là gì?",
+        "answer": [
+            {
+                "value": "Khóa chính thiết lập mối quan hệ giữa các bảng, trong khi khóa ngoại sắp xếp các bản ghi trong bảng."
+            },
+            {
+                "value": "Khóa chính cho phép các giá trị trùng lặp, trong khi khóa ngoại thì không."
+            },
+            {
+                "value": "Khóa chính là khóa do hệ thống tạo, trong khi khóa ngoại do người dùng xác định."
+            },
+            {
+                "value": "Khóa chính xác định duy nhất các bản ghi trong một bảng, trong khi khóa ngoại tham chiếu khóa chính của bảng khác."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Khóa chính xác định duy nhất các bản ghi trong một bảng, trong khi khóa ngoại tham chiếu khóa chính của bảng khác."
+            }
+        ]
+    },
+    {
+        "question": "Câu 82: Nếu hai đối tượng / bảng B và A theo thứ tự có mối liên hệ 1 - n thì",
+        "answer": [
+            {
+                "value": "Một đối tượng / bảng B chỉ có thể liên hệ với một đối tượng / bảng A"
+            },
+            {
+                "value": "Một đối tượng / bảng A chỉ có thể liên hệ với một đối tượng / bảng B"
+            },
+            {
+                "value": "Không kết luận được về sự liên hệ giữa hai đối tượng A, B"
+            },
+            {
+                "value": "Cả A, B, C đều sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Một đối tượng / bảng A chỉ có thể liên hệ với một đối tượng / bảng B"
+            }
+        ]
+    },
+    {
+        "question": "Câu 83: Để thể hiện mối liên hệ 1 - n, ta phải thêm cột ở bảng",
+        "answer": [
+            {
+                "value": "Bảng 1"
+            },
+            {
+                "value": "Bảng n"
+            },
+            {
+                "value": "Cả bảng 1 và bảng n"
+            },
+            {
+                "value": "Bảng trung gian"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Bảng n"
+            }
+        ]
+    },
+    {
+        "question": "Câu 84: Tên của mối liên hệ 1 - n trong Access gọi là",
+        "answer": [
+            {
+                "value": "1 - n"
+            },
+            {
+                "value": "One to many"
+            },
+            {
+                "value": "One to infinity"
+            },
+            {
+                "value": "Cả A, B, C đều đúng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "One to many"
+            }
+        ]
+    },
+    {
+        "question": "Câu 85: Khi không thể liên kết bảng, nguyên nhân có thể do",
+        "answer": [
+            {
+                "value": "Chưa đóng các bảng"
+            },
+            {
+                "value": "Hai cột liên kết không cùng kiểu dữ liệu"
+            },
+            {
+                "value": "Không có khóa chính"
+            },
+            {
+                "value": "Cả A, B, C đều đúng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cả A, B, C đều đúng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 86: Điều kiện cần để tạo được liên kết là?",
+        "answer": [
+            {
+                "value": "Phải có ít nhất hai bảng"
+            },
+            {
+                "value": "Phải có ít nhất một bảng và một truy vấn"
+            },
+            {
+                "value": "Phải có một bảng có ít nhất hai cột"
+            },
+            {
+                "value": "Phải có ít nhất một bảng mà một biểu mẫu"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Phải có ít nhất hai bảng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 87: Điều nào sau đây là điều kiện cần thiết để thiết lập mối quan hệ khóa ngoại giữa hai bảng?",
+        "answer": [
+            {
+                "value": "Tất cả các cột tham gia không phải là khóa yếu"
+            },
+            {
+                "value": "Tất cả các cột tham gia là khóa mạnh"
+            },
+            {
+                "value": "Có một cột không phải là khóa"
+            },
+            {
+                "value": "Kiểu dữ liệu của các trường liên quan phải tương thích"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Kiểu dữ liệu của các trường liên quan phải tương thích"
+            }
+        ]
+    },
+    {
+        "question": "Câu 88: Giá trị khóa chính có thể được thay đổi sau khi được gán cho bản ghi không?",
+        "answer": [
+            {
+                "value": "Nó phụ thuộc vào hệ thống quản lý cơ sở dữ liệu đang được sử dụng"
+            },
+            {
+                "value": "Không, giá trị khóa chính thường không thay đổi và không được thay đổi"
+            },
+            {
+                "value": "Khóa chính không bắt buộc phải có trong bảng"
+            },
+            {
+                "value": "Có, giá trị khóa chính có thể được thay đổi miễn là nó vẫn duy nhất"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Có, giá trị khóa chính có thể được thay đổi miễn là nó vẫn duy nhất"
+            }
+        ]
+    },
+    {
+        "question": "Câu 89: Điều nào sau đây là đặc điểm của một khóa chính tốt đối với liên kết bảng?",
+        "answer": [
+            {
+                "value": "Nó nên cho phép các giá trị null"
+            },
+            {
+                "value": "Nó phải là sự kết hợp của nhiều lĩnh vực"
+            },
+            {
+                "value": "Người dùng phải dễ dàng đoán được"
+            },
+            {
+                "value": "Nó phải ổn định."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Nó phải ổn định."
+            }
+        ]
+    },
+    {
+        "question": "Câu 90: Một bảng có thể có nhiều khóa ngoại không?",
+        "answer": [
+            {
+                "value": "Không cần có khóa ngoại trong bảng."
+            },
+            {
+                "value": "Có, một bảng có thể có nhiều khóa ngoại để thiết lập mối quan hệ với các bảng khác nhau."
+            },
+            {
+                "value": "Nó phụ thuộc vào hệ thống quản lý cơ sở dữ liệu đang được sử dụng."
+            },
+            {
+                "value": "Không, một bảng chỉ có thể có một khóa ngoại."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Có, một bảng có thể có nhiều khóa ngoại để thiết lập mối quan hệ với các bảng khác nhau."
+            }
+        ]
+    },
+    {
+        "question": "Câu 91: Công cụ liên kết bảng trong Access gọi là",
+        "answer": [
+            {
+                "value": "Joining"
+            },
+            {
+                "value": "Linking"
+            },
+            {
+                "value": "Relationships"
+            },
+            {
+                "value": "Glue"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Relationships"
+            }
+        ]
+    },
+    {
+        "question": "Câu 92: Để tạo ràng buộc khóa ngoại, ta cần chọn",
+        "answer": [
+            {
+                "value": "Linking Field Key"
+            },
+            {
+                "value": "Forced Referencing Column"
+            },
+            {
+                "value": "Ensure Linking Destination"
+            },
+            {
+                "value": "Enforce Referential Integrity"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Enforce Referential Integrity"
+            }
+        ]
+    },
+    {
+        "question": "Câu 93: Muốn xóa liên kết giữa hai bảng, trong cửa sổ Relationships ta thực hiện?",
+        "answer": [
+            {
+                "value": "Chọn hai bảng và nhấn phím Delete"
+            },
+            {
+                "value": "Chọn đường liên kết giữa hai bảng đó và nhấn phím Delete"
+            },
+            {
+                "value": "Chọn tất cả các bảng và nhấn phím Delete"
+            },
+            {
+                "value": "Tất cả ý trên đều sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Chọn đường liên kết giữa hai bảng đó và nhấn phím Delete"
+            }
+        ]
+    },
+    {
+        "question": "Câu 94: Trong Access, để tạo liên kết giữa 2 bảng thì hai bảng đó phải có hai cột thỏa mãn điều kiện?",
+        "answer": [
+            {
+                "value": "Có tên giống nhau"
+            },
+            {
+                "value": "Có kiểu dữ liệu khác nhau"
+            },
+            {
+                "value": "Có ít nhất một cột là khóa chính"
+            },
+            {
+                "value": "Tất cả các ý đều đúng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Có ít nhất một cột là khóa chính"
+            }
+        ]
+    },
+    {
+        "question": "Câu 95: Chế độ tự động cập nhật giá trị khóa trong liên kết bảng là",
+        "answer": [
+            {
+                "value": "Cascade Update Related Fields"
+            },
+            {
+                "value": "Auto Edit Linked Value"
+            },
+            {
+                "value": "Cả A và B"
+            },
+            {
+                "value": "Cả A, B, C đều sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cascade Update Related Fields"
+            }
+        ]
+    },
+    {
+        "question": "Câu 96: Chế độ tự động xóa giá trị liên bảng là",
+        "answer": [
+            {
+                "value": "Cascade Delete Related Records"
+            },
+            {
+                "value": "Chaining Remove Rows"
+            },
+            {
+                "value": "Cả A và B"
+            },
+            {
+                "value": "Cả A, B, C đều sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cascade Delete Related Records"
+            }
+        ]
+    },
+    {
+        "question": "Câu 97: Lựa chọn nào an toàn khi liên kết hai bảng với chỉ 1 liên kết",
+        "answer": [
+            {
+                "value": "Cascade Update Related Fields"
+            },
+            {
+                "value": "Cascade Delete Related Records"
+            },
+            {
+                "value": "Cả A và B"
+            },
+            {
+                "value": "Cả A, B, C đều sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cascade Update Related Fields"
+            }
+        ]
+    },
+    {
+        "question": "Câu 98: Khi chúng ta không thể xóa được một dòng của bảng 1 trong mối liên hệ 1 - n thì nguyên nhân chính là",
+        "answer": [
+            {
+                "value": "Ràng buộc kiểu dữ liệu"
+            },
+            {
+                "value": "Ràng buộc khóa chính"
+            },
+            {
+                "value": "Ràng buộc khóa lý tưởng"
+            },
+            {
+                "value": "Ràng buộc khóa ngoại"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Ràng buộc khóa ngoại"
+            }
+        ]
+    },
+    {
+        "question": "Câu 99: Cho bảng Students và Classes để lưu trữ thông tin học sinh và lớp học. Dựa vào thực tế trường trung học phổ thông, mối liên hệ học sinh học một lớp là",
+        "answer": [
+            {
+                "value": "Students(1)-Classes(n)"
+            },
+            {
+                "value": "Students(n)-Classes(1)"
+            },
+            {
+                "value": "Students(n)-Classes(n)"
+            },
+            {
+                "value": "Students(1)-Classes(1)"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Students(n)-Classes(1)"
+            }
+        ]
+    },
+    {
+        "question": "Câu 100: Cho bảng Students và Subjects để lưu trữ thông tin học sinh và môn học. Dựa vào thực tế trường trung học phổ thông, mối liên hệ học sinh học các môn học là",
+        "answer": [
+            {
+                "value": "Students(1)-Subjects(n)"
+            },
+            {
+                "value": "Students(n)-Subjects(1)"
+            },
+            {
+                "value": "Students(n)-Subjects(n)"
+            },
+            {
+                "value": "Students(1)-Subjects(1)"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Students(n)-Subjects(n)"
+            }
+        ]
+    },
+    {
+        "question": "Câu 101: Cho bảng Teachers và Classes để lưu trữ thông tin giáo viên và lớp học. Dựa vào thực tế trường trung học phổ thông, mối liên hệ giáo viên được phân công dạy lớp học là",
+        "answer": [
+            {
+                "value": "Teachers(1)-Classes(n)"
+            },
+            {
+                "value": "Teachers(n)-Classes(1)"
+            },
+            {
+                "value": "Teachers(n)-Classes(n)"
+            },
+            {
+                "value": "Teachers(1)-Classes(1)"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Teachers(n)-Classes(n)"
+            }
+        ]
+    },
+    {
+        "question": "Câu 102: Cho bảng Students và Accounts để lưu trữ thông tin học sinh và thông tin tài khoản đăng nhập hệ thống học trực tuyến. Dựa vào thực tế trường trung học phổ thông, mối liên hệ học sinh học có tài khoản đăng nhập là",
+        "answer": [
+            {
+                "value": "Students(1)-Accounts (n)"
+            },
+            {
+                "value": "Students(n)-Accounts (1)"
+            },
+            {
+                "value": "Students(n)-Accounts (n)"
+            },
+            {
+                "value": "Students(1)-Accounts (1)"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Students(1)-Accounts (1)"
+            }
+        ]
+    },
+    {
+        "question": "Câu 103: Truy vấn trong Microsoft Access là gì?",
+        "answer": [
+            {
+                "value": "Giao diện người dùng đồ họa để thiết kế báo cáo"
+            },
+            {
+                "value": "Biểu mẫu nhập dữ liệu dùng để nhập hồ sơ"
+            },
+            {
+                "value": "Một công cụ để tạo các hàm và thủ tục tùy chỉnh"
+            },
+            {
+                "value": "Yêu cầu thông tin cụ thể từ cơ sở dữ liệu"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Yêu cầu thông tin cụ thể từ cơ sở dữ liệu"
+            }
+        ]
+    },
+    {
+        "question": "Câu 104: Công cụ truy vấn trong Access tên là",
+        "answer": [
+            {
+                "value": "Question"
+            },
+            {
+                "value": "Query"
+            },
+            {
+                "value": "Dialogue"
+            },
+            {
+                "value": "Conversation"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Query"
+            }
+        ]
+    },
+    {
+        "question": "Câu 105: Chế độ nào được dùng để thiết kế và tùy chỉnh các truy vấn Access?",
+        "answer": [
+            {
+                "value": "Design View"
+            },
+            {
+                "value": "Report View"
+            },
+            {
+                "value": "Result View"
+            },
+            {
+                "value": "SQL View"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Design View"
+            }
+        ]
+    },
+    {
+        "question": "Câu 106: Loại truy vấn nào trong Microsoft Access cho phép bạn truy xuất bản ghi từ nhiều bảng?",
+        "answer": [
+            {
+                "value": "Select"
+            },
+            {
+                "value": "Append"
+            },
+            {
+                "value": "Update"
+            },
+            {
+                "value": "Union"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Select"
+            }
+        ]
+    },
+    {
+        "question": "Câu 107: Trong khung cửa sổ truy vấn, các cột được chọn xuất hiện ở dòng",
+        "answer": [
+            {
+                "value": "Field"
+            },
+            {
+                "value": "Table"
+            },
+            {
+                "value": "Criteria"
+            },
+            {
+                "value": "Sort"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Field"
+            }
+        ]
+    },
+    {
+        "question": "Câu 108: Trong khung cửa sổ truy vấn, điều kiện lọc được viết ở dòng",
+        "answer": [
+            {
+                "value": "Field"
+            },
+            {
+                "value": "Table"
+            },
+            {
+                "value": "Criteria"
+            },
+            {
+                "value": "Sort"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Criteria"
+            }
+        ]
+    },
+    {
+        "question": "Câu 109: Trong khung cửa sổ truy vấn để sắp xếp các dữ liệu ta sử dụng dòng",
+        "answer": [
+            {
+                "value": "Field"
+            },
+            {
+                "value": "Table"
+            },
+            {
+                "value": "Criteria"
+            },
+            {
+                "value": "Sort"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Sort"
+            }
+        ]
+    },
+    {
+        "question": "Câu 110: Tùy chọn để quyết định cột có tham gia vào việc hiển thị kết quả truy vấn trong Access là",
+        "answer": [
+            {
+                "value": "Choose"
+            },
+            {
+                "value": "Select"
+            },
+            {
+                "value": "Display"
+            },
+            {
+                "value": "Show"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Show"
+            }
+        ]
+    },
+    {
+        "question": "Câu 111: Để tạo biểu thức trong truy vấn trong Microsoft Access ta thực hiện",
+        "answer": [
+            {
+                "value": "Sử dụng Expression Builder để tạo biểu thức"
+            },
+            {
+                "value": "Sử dụng Design View của tab Table để thêm biểu thức"
+            },
+            {
+                "value": "Kéo và thả điều khiển Calculated Field từ hộp công cụ"
+            },
+            {
+                "value": "Viết mã VBA tùy chỉnh để thêm biểu thức"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Sử dụng Expression Builder để tạo biểu thức"
+            }
+        ]
+    },
+    {
+        "question": "Câu 112: Mục đích của Truy vấn Tham số trong Microsoft Access là gì?",
+        "answer": [
+            {
+                "value": "Nhắc người dùng nhập dữ liệu trong khi chạy truy vấn."
+            },
+            {
+                "value": "Thực hiện các phép tính phức tạp trên kết quả truy vấn."
+            },
+            {
+                "value": "Để tạo các chức năng và thủ tục tùy chỉnh."
+            },
+            {
+                "value": "Để tạo biểu mẫu dựa trên kết quả truy vấn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Nhắc người dùng nhập dữ liệu trong khi chạy truy vấn."
+            }
+        ]
+    },
+    {
+        "question": "Câu 113: Để ghi biểu thức x2, ta sử dụng toán tử",
+        "answer": [
+            {
+                "value": "+"
+            },
+            {
+                "value": "-"
+            },
+            {
+                "value": "*"
+            },
+            {
+                "value": "\\"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "*"
+            }
+        ]
+    },
+    {
+        "question": "Câu 114: Toán tử có thể dùng đối với kiểu dữ liệu ngày tháng là",
+        "answer": [
+            {
+                "value": "->"
+            },
+            {
+                "value": "<-"
+            },
+            {
+                "value": "=>"
+            },
+            {
+                "value": "<="
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "<="
+            }
+        ]
+    },
+    {
+        "question": "Câu 115: Toán tử có thể dùng đối với kiểu dữ liệu số là",
+        "answer": [
+            {
+                "value": "->"
+            },
+            {
+                "value": "<-"
+            },
+            {
+                "value": "=>"
+            },
+            {
+                "value": "<="
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "<="
+            }
+        ]
+    },
+    {
+        "question": "Câu 116: Để truy vấn những mặt hàng có giá trên $10, điều kiện đặt ở cột UnitPrice là",
+        "answer": [
+            {
+                "value": ">10"
+            },
+            {
+                "value": ">=10"
+            },
+            {
+                "value": ">10$"
+            },
+            {
+                "value": ">=10$"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": ">10"
+            }
+        ]
+    },
+    {
+        "question": "Câu 117: Để truy vấn những mặt hàng có giá từ $50 trở xuống, điều kiện đặt ở cột UnitPrice là",
+        "answer": [
+            {
+                "value": "<50"
+            },
+            {
+                "value": "<=50"
+            },
+            {
+                "value": "<50$"
+            },
+            {
+                "value": "<=50$"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "<=50"
+            }
+        ]
+    },
+    {
+        "question": "Câu 118: Để truy vấn những mặt hàng đang có tồn kho, điều kiện đặt ở cột UnitsInStock là",
+        "answer": [
+            {
+                "value": ">0"
+            },
+            {
+                "value": "<0"
+            },
+            {
+                "value": ">=0"
+            },
+            {
+                "value": "<=0"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": ">0"
+            }
+        ]
+    },
+    {
+        "question": "Câu 119: Để truy vấn những mặt hàng không có tồn kho, điều kiện đặt ở cột UnitsInStock là",
+        "answer": [
+            {
+                "value": "<0"
+            },
+            {
+                "value": "0>"
+            },
+            {
+                "value": "0"
+            },
+            {
+                "value": "<0>"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "<0"
+            }
+        ]
+    },
+    {
+        "question": "Câu 120: Để truy vấn những mặt hàng không còn được tiếp tục, điều kiện đặt ở cột Discontinued là",
+        "answer": [
+            {
+                "value": "true"
+            },
+            {
+                "value": "false"
+            },
+            {
+                "value": "x"
+            },
+            {
+                "value": "o"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "true"
+            }
+        ]
+    }
+]

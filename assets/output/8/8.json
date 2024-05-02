@@ -1,0 +1,442 @@
+[
+    {
+        "question": "1. Phương pháp nghiên cứu Menđen là:",
+        "answer": [
+            {
+                "value": "A. phân tích di truyền giống lai."
+            },
+            {
+                "value": "B. lai phân tích."
+            },
+            {
+                "value": "C. tạp giao hay tự thụ phân."
+            },
+            {
+                "value": "D. lai thuận nghịch."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. phân tích di truyền giống lai."
+            }
+        ]
+    },
+    {
+        "question": "2. Điểm giống nhau của kết quả lai trong di truyền tính trội hoàn toàn và di truyền tính trội không hoàn toàn là:",
+        "answer": [
+            {
+                "value": "A. kiểu gen, kiểu hình F1."
+            },
+            {
+                "value": "B. kiệu gen F1 & F2."
+            },
+            {
+                "value": "C. kiểu gen, kiểu hình F2."
+            },
+            {
+                "value": "D. kiểu hình F1 & F2."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. kiệu gen F1 & F2."
+            }
+        ]
+    },
+    {
+        "question": "3. Trong nghiên cứu của mình, Men đen đã theo dõi………….(I: một cặp tính trạng, II: 2 cặp tính trạng, III: từ 1 đến nhiều cặp tính trạng) qua………………….(a: một thế hệ, b: nhiều thế hệ) để đánh giá sự di truyền của các tính trạng.",
+        "answer": [
+            {
+                "value": "A. I, a"
+            },
+            {
+                "value": "B. III, a"
+            },
+            {
+                "value": "C. III, b"
+            },
+            {
+                "value": "D. I, b"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. III, b"
+            }
+        ]
+    },
+    {
+        "question": "4. Cơ thể có 2 alen thuộc cùng một gen nhưng khác nhau gọi là:",
+        "answer": [
+            {
+                "value": "A. Thế đồng hợp"
+            },
+            {
+                "value": "B. Thể dị hợp"
+            },
+            {
+                "value": "C. Cơ thể thuần chủng"
+            },
+            {
+                "value": "D. Đồng hợp về alen này và dị hợp về alen kia"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Thể dị hợp"
+            }
+        ]
+    },
+    {
+        "question": "5. Phép lai giữa chuột lông đen với chuột lông nâu sinh ra 78 chuột lông đen và 77 chuột lông nâu. Sơ đồ lai phép lai trên là",
+        "answer": [
+            {
+                "value": "A. Aa x Aa"
+            },
+            {
+                "value": "B. aa x aa"
+            },
+            {
+                "value": "C. AA x aa"
+            },
+            {
+                "value": "D. Aa x aa"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Aa x aa"
+            }
+        ]
+    },
+    {
+        "question": "6. Cho giao phân giữa cây hoa đỏ thuân chủng với hoa trắng được F1 hoa đỏ, cho F1 tự thụ phấn thì kiểu hình ở F2 là 3 đỏ; 1 trắng. Cách nào sau đây không xác định được kiểu gen của cây hoa đỏ F2?",
+        "answer": [
+            {
+                "value": "A. lai phân tích các cây hoa đỏ F2"
+            },
+            {
+                "value": "B. cho cây hoa đỏ tự thụ phấn"
+            },
+            {
+                "value": "C. lai cây hoa đó F2 với cay F1"
+            },
+            {
+                "value": "D. lai cây hoa đỏ F2 với cây hoa đỏ P"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. lai cây hoa đỏ F2 với cây hoa đỏ P"
+            }
+        ]
+    },
+    {
+        "question": "7. Đem lai hoa đỏ với hoa trắng thu được F1 toàn cây màu hồng. Đem cây F1 lai với cây hoa trắng sẽ xuất hiện F2 tỉ lệ kiểu hình:",
+        "answer": [
+            {
+                "value": "A. 1 hoa màu hồng : 1 hoa màu trắng"
+            },
+            {
+                "value": "B. 1 hoa màu đỏ : 1 hoa màu trắng"
+            },
+            {
+                "value": "C. 1 hoa màu đỏ : 1 hoa màu hồng"
+            },
+            {
+                "value": "D. 1 hoa màu đỏ : 2 hoa màu hồng : 1 hoa màu trắng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. 1 hoa màu hồng : 1 hoa màu trắng"
+            }
+        ]
+    },
+    {
+        "question": "8. Cho biết một gen quy định một tính trạng và tính trạng trội là trội hoàn toàn. Theo lí thuyết, phép lai Aa x Aa cho ra đời con có",
+        "answer": [
+            {
+                "value": "A. 2 kiểu gen, 3 kiểu hình."
+            },
+            {
+                "value": "B. 2 kiểu gen, 2 kiểu hình."
+            },
+            {
+                "value": "C. 3 kiểu gen, 2 kiểu hình."
+            },
+            {
+                "value": "D. 3 kiểu gen, 3 kiểu hình."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. 3 kiểu gen, 2 kiểu hình."
+            }
+        ]
+    },
+    {
+        "question": "9. Để biết kiêu gen của một cá thê có kiêu hình trội, ta có thế căn cứ vào kết quả của",
+        "answer": [
+            {
+                "value": "A. lai thuận nghịch."
+            },
+            {
+                "value": "B. lai xa."
+            },
+            {
+                "value": "C. lai phân tích."
+            },
+            {
+                "value": "D. lai gần."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. lai phân tích."
+            }
+        ]
+    },
+    {
+        "question": "10. Ở đậu Hà Lan, quả không ngấn (B), quả có ngấn (b). Đem lai cây có quả không ngấn với quả cây có quả ngấn thu được 50% có quả không ngấn 50% có quả ngấn. Phép lai phù hợp:",
+        "answer": [
+            {
+                "value": "A. BB x bb."
+            },
+            {
+                "value": "B. Bb x Bb."
+            },
+            {
+                "value": "C. Bb x bb."
+            },
+            {
+                "value": "D. bb x bb."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Bb x bb."
+            }
+        ]
+    },
+    {
+        "question": "11. Gen A quy định tính trạng quả đỏ trội hoàn toàn so với alen a quy định quả vàng. Nếu F1 thu được đồng tính thì kiểu gen của bố, mẹ (1) AA x aa (2) AA x Aa (3)AA x AA (4)aa x aa",
+        "answer": [
+            {
+                "value": "A. (1), (3)."
+            },
+            {
+                "value": "B. (1), (2)."
+            },
+            {
+                "value": "C. (1), (2), (3)."
+            },
+            {
+                "value": "D. (1), (2), (3), (4)."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. (1), (2), (3), (4)."
+            }
+        ]
+    },
+    {
+        "question": "12. Phép lai Bb x bb trội hoàn toàn cho kết quả về kiểu gen F1:",
+        "answer": [
+            {
+                "value": "A. 100%Bb"
+            },
+            {
+                "value": "В. 1Bb : 1bb."
+            },
+            {
+                "value": "C. 1BB : 2Bb:1bb."
+            },
+            {
+                "value": "D. 100%BB."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "В. 1Bb : 1bb."
+            }
+        ]
+    },
+    {
+        "question": "13. Phép lai Bb x bb (tính trội hoàn toàn) cho kết quả về kiểu hình F1:",
+        "answer": [
+            {
+                "value": "A. 100% trội."
+            },
+            {
+                "value": "B. 3 trội : 1lặn."
+            },
+            {
+                "value": "C. 1 trội : 1lặn."
+            },
+            {
+                "value": "D. 100% lặn"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. 1 trội : 1lặn."
+            }
+        ]
+    },
+    {
+        "question": "14. Lai 1 tính, trội hoàn toàn, F1 có tỉ lệ kiểu hình 1 trội :1 lặn, kiểu gen của P là",
+        "answer": [
+            {
+                "value": "A. Aa x Aa."
+            },
+            {
+                "value": "B. AA x Aa."
+            },
+            {
+                "value": "C. Aa x aa."
+            },
+            {
+                "value": "D. B và C đúng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Aa x aa."
+            }
+        ]
+    },
+    {
+        "question": "15. Điều nào dưới đây nói về cặp nhiễm sắc thể (NST) tương đồng là không đúng?",
+        "answer": [
+            {
+                "value": "A. Cặp NST tương đồng thường gồm 2 NST giống nhau về hình dạng và kích thước."
+            },
+            {
+                "value": "B. Các gen trên cặp NST tương đồng tồn tại thành từng cặp alen ."
+            },
+            {
+                "value": "C. Các cặp NST tương đồng phân li đồng đều và tổ hợp tự do trong quá trình di truyền."
+            },
+            {
+                "value": "D. Mỗi NST trong cặp ở trạng thái kép sẽ phân li về mỗi cực trong phân bào nguyên nhiễm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Mỗi NST trong cặp ở trạng thái kép sẽ phân li về mỗi cực trong phân bào nguyên nhiễm."
+            }
+        ]
+    },
+    {
+        "question": "16. Menđen đã dựa trên lí thuyết nào sau đây để giải thích các thí nghiệm của ông?",
+        "answer": [
+            {
+                "value": "A. Thuyết về giao tử thuần khiết."
+            },
+            {
+                "value": "B. Thuyết phân li NST."
+            },
+            {
+                "value": "C. Thuyết về tổ hợp NST."
+            },
+            {
+                "value": "D. Thuyết tế bào."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Thuyết về giao tử thuần khiết."
+            }
+        ]
+    },
+    {
+        "question": "17. Tính trạng trung gian là:",
+        "answer": [
+            {
+                "value": "A. tính trạng được biểu hiện ở cá thể dị hợp do gen trội lấn át không hoàn toàn alen lặn cùng cặp."
+            },
+            {
+                "value": "B. tính trạng được biểu hiện trung bình cộng giữa tính trạng trội và tính trạng lặn."
+            },
+            {
+                "value": "C. tính trạng luôn luôn biểu hiện ở F1."
+            },
+            {
+                "value": "D. tính trạng xuất hiện F2 với tỉ lệ 1/2."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. tính trạng được biểu hiện ở cá thể dị hợp do gen trội lấn át không hoàn toàn alen lặn cùng cặp."
+            }
+        ]
+    },
+    {
+        "question": "18. Hiện tượng nào sau đây không được Menđen phát hiện trong quá trình nghiên cứu di truyền của mình?",
+        "answer": [
+            {
+                "value": "A. Gen trội át không hoàn toàn gen lặn."
+            },
+            {
+                "value": "B. Gen trội át hoàn toàn gen lặn."
+            },
+            {
+                "value": "C. Bố mẹ thuần chủng thì con lai đồng tính."
+            },
+            {
+                "value": "D. Bố mẹ không thuần chủng thì con lai phân tính."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Gen trội át không hoàn toàn gen lặn."
+            }
+        ]
+    },
+    {
+        "question": "19. Ở người, biết: Nhóm máu A có IAIO hoặc có IAIA, Nhóm máu AB có IAIB, Nhóm máu B có IBIO hoặc có IBIB, Nhóm máu O có IOIO. Bố mẹ có kiểu gen như thế nào để đời con chỉ làm xuất hiện nhóm máu A và B?.",
+        "answer": [
+            {
+                "value": "A. IAIO x IAIB."
+            },
+            {
+                "value": "B. IAIB × IOIO."
+            },
+            {
+                "value": "C. IAIO x IBIO."
+            },
+            {
+                "value": "D. IBIO x IAIB."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. IAIB × IOIO."
+            }
+        ]
+    },
+    {
+        "question": "20.  Ở người, biết: Nhóm máu A có IAIO hoặc có IAIA, Nhóm máu AB có IAIB, Nhóm máu B có IBIO hoặc có IBIB, Nhóm máu O có IOIO. Bố mẹ có kiểu gen như thế nào để đời con có khả năng xuất hiện cả bốn nhóm máu?",
+        "answer": [
+            {
+                "value": "A. IAIO x IAIB."
+            },
+            {
+                "value": "B. IAIB × IOIO."
+            },
+            {
+                "value": "C. IAIO x IBIO."
+            },
+            {
+                "value": "D. IBIO x IAIB."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. IAIO x IBIO."
+            }
+        ]
+    }
+]

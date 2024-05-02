@@ -1,0 +1,1166 @@
+[
+    {
+        "question": "Câu 1. Cơ cấu lao động nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. thay đổi trong quá trình phát triển kinh tế."
+            },
+            {
+                "value": "B. có tỉ trọng ở ngành dịch vụ giảm."
+            },
+            {
+                "value": "C. tăng nhanh tỉ trọng ở nông thôn và thành thị."
+            },
+            {
+                "value": "D. ổn định, tỉ trọng không thay đổi."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. thay đổi trong quá trình phát triển kinh tế."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Lao động nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. tập trung chủ yếu ở thành thị."
+            },
+            {
+                "value": "B. có tác phong công nghiệp cao."
+            },
+            {
+                "value": "C. làm nhiều nghề, số lượng nhỏ."
+            },
+            {
+                "value": "D. có số lượng đông, tăng nhanh. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. có số lượng đông, tăng nhanh. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Đô thị nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. có nhiều lao động kĩ thuật."
+            },
+            {
+                "value": "B. hầu hết tập trung ở đồi núi."
+            },
+            {
+                "value": "C. có mật độ dân cư thưa thớt. "
+            },
+            {
+                "value": "D. hoàn toàn thuộc quy mô lớn. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. có nhiều lao động kĩ thuật."
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Phát biểu nào không đúng về đô thị hóa ở nước ta?",
+        "answer": [
+            {
+                "value": "A. Tỉ lệ dân đô thị có xu hướng tăng."
+            },
+            {
+                "value": "B. Quá trình đô thị hóa diễn ra chậm."
+            },
+            {
+                "value": "C. Trình độ đô thị hóa chưa cao. "
+            },
+            {
+                "value": "D. Phân bố đô thị đồng đều cả nước."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Phân bố đô thị đồng đều cả nước."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Các đô thị nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. có khả năng tạo nhiều việc làm."
+            },
+            {
+                "value": "B. hầu hết là các đô thị lớn."
+            },
+            {
+                "value": "C. có tổng dân số lớn hơn ở nông thôn."
+            },
+            {
+                "value": "D. chỉ tập trung hoạt động công nghiệp."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. có khả năng tạo nhiều việc làm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Cơ cấu lao động theo ngành kinh tế nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. tăng tỉ trọng nhóm ngành dịch vụ."
+            },
+            {
+                "value": "B. giảm tỉ trọng nông nghiệp – công nghiệp."
+            },
+            {
+                "value": "C. không thay đổi tỉ trọng các ngành."
+            },
+            {
+                "value": "D. tăng tỉ trọng nông – lâm- ngư nghiệp. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. tăng tỉ trọng nhóm ngành dịch vụ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Cơ cấu lao động phân theo thành thị và nông thôn nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. có tỉ trọng nông thôn tăng, thành thị giảm."
+            },
+            {
+                "value": "B. có tỉ trọng thành thị tăng, nông thôn giảm."
+            },
+            {
+                "value": "C. thường xuyên ổn định, không có thay đổi."
+            },
+            {
+                "value": "D. đều tăng cao tỉ trọng thành thị và nông thôn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. có tỉ trọng thành thị tăng, nông thôn giảm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Phát biểu nào không đúng về đặc điểm dân số nước ta hiện nay?",
+        "answer": [
+            {
+                "value": "A. Có nhiều dân tộc ít người."
+            },
+            {
+                "value": "B. Gia tăng tự nhiên rất cao."
+            },
+            {
+                "value": "C. Dân tộc Kinh chiếm đa số. "
+            },
+            {
+                "value": "D. Có quy mô dân số lớn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Gia tăng tự nhiên rất cao."
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Phát biểu nào sau đây đúng với dân cư ở vùng đồng bằng nước ta?",
+        "answer": [
+            {
+                "value": "A. Tỉ suất sinh cao hơn miền núi."
+            },
+            {
+                "value": "B. Mật độ dân số nhỏ hơn miền núi."
+            },
+            {
+                "value": "C. Có rất nhiều dân tộc ít người. "
+            },
+            {
+                "value": "D. Chiếm phần lớn dân số cả nước. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Chiếm phần lớn dân số cả nước. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 10. Lao động nước ta không có thế mạnh nào sau đây?",
+        "answer": [
+            {
+                "value": "A. Có tính kỉ luật rất cao."
+            },
+            {
+                "value": "B. Lực lượng lao động dồi dào."
+            },
+            {
+                "value": "C. Cần cù và sáng tạo."
+            },
+            {
+                "value": "D. Số lượng đông, đang tăng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Có tính kỉ luật rất cao."
+            }
+        ]
+    },
+    {
+        "question": "Câu 11.  Biểu hiện của chuyển dịch cơ cấu lãnh thổ kinh tế ở nước ta là ",
+        "answer": [
+            {
+                "value": "A. các khu công nghiệp tập trung và vùng chuyên canh được hình thành."
+            },
+            {
+                "value": "B. nhiều hoạt động dịch vụ mới ra đời và hình thành các vùng động lực."
+            },
+            {
+                "value": "C. tỉ trọng của ngành công nghiệp chế biến tăng, công nghiệp khai thác giảm."
+            },
+            {
+                "value": "D. Nhà nước quản lí các ngành kinh và các lĩnh vực kinh tế then chốt. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. các khu công nghiệp tập trung và vùng chuyên canh được hình thành."
+            }
+        ]
+    },
+    {
+        "question": "Câu 12. Phát biểu nào sau đây đúng về chuyển dịch cơ cấu lãnh thổ kinh tế của nước ta hiện nay?",
+        "answer": [
+            {
+                "value": "A. Hình thành các vùng động lực phát triển kinh tế."
+            },
+            {
+                "value": "B. Nhiều loại hình dịch vụ mới ra đời và phát triển."
+            },
+            {
+                "value": "C. Lĩnh vực kinh tế then chốt do Nhà nước quản lí."
+            },
+            {
+                "value": "D. Tỉ trọng công nghiệp và dịch vụ tăng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Hình thành các vùng động lực phát triển kinh tế."
+            }
+        ]
+    },
+    {
+        "question": "Câu 13. Việc chuyển dịch cơ cấu ngành kinh tế nước ta hiện nay ",
+        "answer": [
+            {
+                "value": "A. theo hướng mở rộng khu kinh tế."
+            },
+            {
+                "value": "B. đã làm giảm tỉ trọng nông nghiệp."
+            },
+            {
+                "value": "C. đang diễn ra với tốc độ nhanh."
+            },
+            {
+                "value": "C. làm hạ thấp tỉ trọng công nghiệp."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. đã làm giảm tỉ trọng nông nghiệp."
+            }
+        ]
+    },
+    {
+        "question": "Câu 14. Việc chuyển dịch cơ cấu ngành kinh tế nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. đang diễn ra với tốc độ còn chậm."
+            },
+            {
+                "value": "B. đang theo hướng mở rộng đô thị."
+            },
+            {
+                "value": "C. hạ thấp tỉ trọng công nghiệp."
+            },
+            {
+                "value": "D. tăng cao tỉ trọng nông nghiệp."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. đang diễn ra với tốc độ còn chậm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 15. Việc đẩy mạnh đa dạng hóa nông nghiệp ở nước ta không nhằm mục đích chủ yếu nào sau đây?",
+        "answer": [
+            {
+                "value": "A. Khai thác hợp lí hơn sự phong phú đa dạng của tự nhiên."
+            },
+            {
+                "value": "B. Giảm thiểu rủi ro khi thị trường nông sản biến động bất lợi."
+            },
+            {
+                "value": "C. Tập trung phát triển nông sản ở những vùng chuyên canh."
+            },
+            {
+                "value": "D. Sử dụng tốt hơn nguồn lao động, tạo thêm việc làm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Tập trung phát triển nông sản ở những vùng chuyên canh."
+            }
+        ]
+    },
+    {
+        "question": "Câu 16. Sản xuất lúa gạo nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. chỉ phục vụ nhu cầu ở trong nước."
+            },
+            {
+                "value": "B. phát triển theo xu hướng hàng hóa."
+            },
+            {
+                "value": "C. chỉ tập trung ở khu vực đồng bằng."
+            },
+            {
+                "value": "D. hoàn toàn theo hình thức gia đình."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. chỉ tập trung ở khu vực đồng bằng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 17. Thuận lợi chủ yếu của nước ta về tự nhiên để phát triển nuôi trồng hải sản là",
+        "answer": [
+            {
+                "value": "A. có nhiều sông suối và các hồ rộng."
+            },
+            {
+                "value": "B. nhiều cửa sông rộng và ở gần nhau."
+            },
+            {
+                "value": "C. nhiều đầm phá ô trũng ở đồng bằng."
+            },
+            {
+                "value": "D. có vịnh, bãi triều và rừng ngập mặn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. có vịnh, bãi triều và rừng ngập mặn."
+            }
+        ]
+    },
+    {
+        "question": "Câu 18. Thuận lợi chủ yếu của nước ta về tự nhiên để phát triển nuôi trồng thủy sản nước ngọt là",
+        "answer": [
+            {
+                "value": "A. có các vịnh biển và đảo ven bờ."
+            },
+            {
+                "value": "B. nhiều bãi triều rộng và đầm phá."
+            },
+            {
+                "value": "C. mạng lưới sông dày và nhiều hồ."
+            },
+            {
+                "value": "D. các cửa sông rộng và ở gần nhau. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. mạng lưới sông dày và nhiều hồ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 19. Nguyên nhân nào sau đây là chủ yếu làm cho hoạt động nuôi trồng thủy sản ở nước ta hiện nay phát triển nhanh?",
+        "answer": [
+            {
+                "value": "A. ứng dụng nhiều tiến bộ của khoa học kĩ thuật."
+            },
+            {
+                "value": "B. Công nghiệp chế biến đáp ứng được nhu cầu."
+            },
+            {
+                "value": "C. Thị trường tiêu thụ ngày càng được mở rộng."
+            },
+            {
+                "value": "D. Diện tích mặt nước nuôi trồng thủy tăng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Thị trường tiêu thụ ngày càng được mở rộng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 20. Yếu tố nào sau đây tác động chủ yếu đến sự đa dạng của đối tượng thủy sản nuôi trồng ở nước ta hiện nay?",
+        "answer": [
+            {
+                "value": "A. Yêu cầu nâng cao chất lượng sản phẩm."
+            },
+            {
+                "value": "B. Diện tích mặt nước được mở rộng thêm"
+            },
+            {
+                "value": "C. Nhu cầu khác nhau của thị trường."
+            },
+            {
+                "value": "D. Điều kiện nuôi khác nhau ở các cơ sở. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Nhu cầu khác nhau của thị trường."
+            }
+        ]
+    },
+    {
+        "question": "Câu 21. Khai thác thủy sản của nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. sử dụng hầu hết các thiết bị hiện đại"
+            },
+            {
+                "value": "B. tập trung hầu hết quanh các đảo nhỏ."
+            },
+            {
+                "value": "C. được đẩy mạnh ở các tỉnh ven biển."
+            },
+            {
+                "value": "C. chỉ đánh bắt để phục vụ xuất khẩu."
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 22. Cây lương thực nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. tạo được các sản phẩm xuất khẩu."
+            },
+            {
+                "value": "B. chỉ phân bố ở khu vực đồng bằng."
+            },
+            {
+                "value": "C. chủ yếu là lúa gạo và lúa mì."
+            },
+            {
+                "value": "D. hầu hết phục vụ cho chăn nuôi."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. tạo được các sản phẩm xuất khẩu."
+            }
+        ]
+    },
+    {
+        "question": "Câu 23. Cây công nghiệp lâu năm nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. có cơ cấu cây trồng chưa đa dạng."
+            },
+            {
+                "value": "B. chỉ phân bố trên các cao nguyên."
+            },
+            {
+                "value": "C. chủ yếu có nguồn gốc cận nhiệt."
+            },
+            {
+                "value": "D. tạo được các sản phẩm xuất khẩu."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. tạo được các sản phẩm xuất khẩu."
+            }
+        ]
+    },
+    {
+        "question": "Câu 24. Khó khăn nào sau đây là chủ yếu trong phát triển chăn nuôi ở nước ta hiện nay?",
+        "answer": [
+            {
+                "value": "A. Nguồn đầu tư còn hạn chế, thiên tai thường xuyên tác động xấu."
+            },
+            {
+                "value": "B. Hình thức chăn nuôi nhỏ, phân tán vẫn còn phổ biến nhiều nơi."
+            },
+            {
+                "value": "C. Công nghiệp chế biến còn hạn chế, dịch bệnh đe dọa diện rộng."
+            },
+            {
+                "value": "D. Cơ sở chuồng trại có quy mô nhỏ, trình độ lao động chưa cao."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Công nghiệp chế biến còn hạn chế, dịch bệnh đe dọa diện rộng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 25. Ý nghĩa của việc tăng cường chuyên môn hóa sản xuất nông nghiệp ở nước ta là",
+        "answer": [
+            {
+                "value": "A. tạo ra khối lượng nông sản hàng hóa lớn, có chất lượng."
+            },
+            {
+                "value": "B. khai thác có hiệu quả sự đa dạng phong phú của tự nhiên."
+            },
+            {
+                "value": "C. tạo thêm nhiều việc làm cho lượng lớn người lao động."
+            },
+            {
+                "value": "D. đáp ứng tốt nhu cầu chuyển dịch cơ cấu ngành và lãnh thổ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. tạo ra khối lượng nông sản hàng hóa lớn, có chất lượng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 26. Cây ăn quả nước ta hiện nay.",
+        "answer": [
+            {
+                "value": "A. có cơ cấu cây trồng chưa đa dạng."
+            },
+            {
+                "value": "B. chủ yếu có nguồn gốc ôn đới."
+            },
+            {
+                "value": "C. tạo được các sản phẩm xuất khẩu."
+            },
+            {
+                "value": "D. phân bố tập trung ở miền núi."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. tạo được các sản phẩm xuất khẩu."
+            }
+        ]
+    },
+    {
+        "question": "Câu 27. Hoạt động đánh bắt xa bờ ở nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. có hầu hết sản phẩm dùng để xuất khẩu."
+            },
+            {
+                "value": "B. được khuyến khích phát triển."
+            },
+            {
+                "value": "C. sử dụng phương tiện thủ công."
+            },
+            {
+                "value": "D. tập trung chủ yếu quanh các đảo."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. được khuyến khích phát triển."
+            }
+        ]
+    },
+    {
+        "question": "Câu 28. Cây công nghiệp hàng năm nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. chỉ phân bố tập trung ở miền núi."
+            },
+            {
+                "value": "B. được trồng theo hướng tập trung."
+            },
+            {
+                "value": "B. phần lớn có nguồn gốc cận nhiệt."
+            },
+            {
+                "value": "D. có cơ cấu cây trồng chưa đa dạng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. được trồng theo hướng tập trung."
+            }
+        ]
+    },
+    {
+        "question": "Câu 29. Chăn nuôi lợn tập trung chủ yếu ở đồng bằng lớn nước ta chủ yếu do",
+        "answer": [
+            {
+                "value": "A. thị trường tiêu thụ lớn, lao động có kinh nghiệm."
+            },
+            {
+                "value": "B. lao động có kinh nghiệm, dịch vụ thú y tốt."
+            },
+            {
+                "value": "C. dịch vụ thú y đảm bảo, nguồn thức ăn phong phú."
+            },
+            {
+                "value": "D. nguồn thức ăn phong phú, thị trường tiêu thụ lớn"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. nguồn thức ăn phong phú, thị trường tiêu thụ lớn"
+            }
+        ]
+    },
+    {
+        "question": "Câu 30. Ý nghĩa lớn nhất của việc hình thành các vùng chuyên canh cây công nghiệp gắn với công nghiệp chế biến ở nước ta là (đề 304 năm 2018).",
+        "answer": [
+            {
+                "value": "A. khai thác tốt tiềm năng khí hậu, đất đai mỗi vùng."
+            },
+            {
+                "value": "B. giải quyết việc làm, nâng cao đời sống nhân dân."
+            },
+            {
+                "value": "C. tạo thêm nhiều sản phẩm hàng hóa có giá trị cao."
+            },
+            {
+                "value": "D. thúc đẩy chuyển dịch cơ cấu kinh tế theo ngành."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. tạo thêm nhiều sản phẩm hàng hóa có giá trị cao."
+            }
+        ]
+    },
+    {
+        "question": "Câu 31. Giải pháp chủ yếu để khai thác có hiệu quả nền nông nghiệp nhiệt đới nước ta là",
+        "answer": [
+            {
+                "value": "A. phân bố cây, con phù hợp; phát triển nông sản xuất khẩu."
+            },
+            {
+                "value": "B. áp dụng nhiều biện pháp canh tác, phòng chống thiên tai."
+            },
+            {
+                "value": "C. tăng cường thâm canh, áp dụng rộng rãi tiến bộ kĩ thuật."
+            },
+            {
+                "value": "D. mở rộng tao đổi sản phẩm, chú trọng công tác bảo quản. "
+            },
+            {
+                "value": "Phần 3. Địa lí công nghiệp, dịch vụ"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. phân bố cây, con phù hợp; phát triển nông sản xuất khẩu."
+            },
+            {
+                "value": "Phần 3. Địa lí công nghiệp, dịch vụ"
+            }
+        ]
+    },
+    {
+        "question": "Câu 31. Công nghiệp nước ta hiện nay chuyển dịch theo hướng",
+        "answer": [
+            {
+                "value": "A. phù hợp hơn với yêu cầu thị trường."
+            },
+            {
+                "value": "B. ưu tiên đầu tư cho các vùng núi cao."
+            },
+            {
+                "value": "C. tăng tỉ trọng các ngành khai khoáng."
+            },
+            {
+                "value": "D. chỉ tập trung tiêu dùng ở trong nước."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. phù hợp hơn với yêu cầu thị trường."
+            }
+        ]
+    },
+    {
+        "question": "Câu 32. Công nghiệp nước ta phân bố chủ yếu ở ",
+        "answer": [
+            {
+                "value": "A. đồng bằng."
+            },
+            {
+                "value": "B. hải đảo."
+            },
+            {
+                "value": "C. cao nguyên."
+            },
+            {
+                "value": "D. núi cao."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. đồng bằng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 33. Công nghiệp nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. có nhiều trung tâm."
+            },
+            {
+                "value": "B. ít sản phẩm. "
+            },
+            {
+                "value": "C. chỉ có khai khoáng."
+            },
+            {
+                "value": "D. rất hiện đại."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. có nhiều trung tâm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 34. Thủy điện nước ta thuộc ngành công nghiệp nào sau đây?",
+        "answer": [
+            {
+                "value": "A. Cơ khí. "
+            },
+            {
+                "value": "B. luyện kim."
+            },
+            {
+                "value": "C. vật liệu xây dựng. "
+            },
+            {
+                "value": "D. năng lượng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. năng lượng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 35. Nước ta cần phải xây dựng cơ cấu ngành công nghiệp tương đối linh hoạt nhằm",
+        "answer": [
+            {
+                "value": "A. khai thác lợi thế về tài nguyên."
+            },
+            {
+                "value": "B. khai thác thế mạnh về lao động."
+            },
+            {
+                "value": "C. nâng cao chất lượng sản phẩm."
+            },
+            {
+                "value": "D. thích nghi với cơ chế thị trường."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. thích nghi với cơ chế thị trường."
+            }
+        ]
+    },
+    {
+        "question": "Câu 36. Cơ cấu ngành của công nghiệp nước ta có sự chuyển dịch rõ rệt nhằm mục tiêu nào sau đây?",
+        "answer": [
+            {
+                "value": "A. Tạo điều kiện để hội nhập vào thị trường thế giới."
+            },
+            {
+                "value": "B. Thúc đẩy tăng trưởng kinh tế và bảo vệ môi trường."
+            },
+            {
+                "value": "C. Khai thác hợp lí các nguồn tài nguyên thiên nhiên. "
+            },
+            {
+                "value": "D. Tạo thuận lợi cho việc chuyển dịch cơ cấu lao động."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Tạo điều kiện để hội nhập vào thị trường thế giới."
+            }
+        ]
+    },
+    {
+        "question": "Câu 37. Biện pháp chủ yếu để phát triển bền vững công nghiệp của nước ta là",
+        "answer": [
+            {
+                "value": "A. đầu tư công nghệ, giảm thiểu ô nhiễm."
+            },
+            {
+                "value": "B. phát triển GTVT, công nghệ thông tin."
+            },
+            {
+                "value": "C. đào tạo nhân lực, đảm bảo nguyên liệu."
+            },
+            {
+                "value": "D. nâng cao chất lượng, hạ thấp giá thành."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. đầu tư công nghệ, giảm thiểu ô nhiễm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 38. Giải pháp nào sau đây có tác động chủ yếu đến việc phát triển khai thác dầu khí ở nước ta?",
+        "answer": [
+            {
+                "value": "A. Nâng cao trình độ của nguồn lao động."
+            },
+            {
+                "value": "B. Đẩy mạnh hoạt động xuất khẩu dầu thô."
+            },
+            {
+                "value": "C. Tăng cường liên doanh với nước ngoài."
+            },
+            {
+                "value": "D. Phát triển mạnh công nghiệp lọc hóa dầu."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Phát triển mạnh công nghiệp lọc hóa dầu."
+            }
+        ]
+    },
+    {
+        "question": "Câu 39. Hoạt động nội thương ở miền núi phát triển chậm chủ yếu do",
+        "answer": [
+            {
+                "value": "A. dịch vụ phân tán, dân cư đô thị còn ít."
+            },
+            {
+                "value": "B. dân cư ít, nhu cầu tiêu dùng còn thấp."
+            },
+            {
+                "value": "C. mức sống thấp, sản xuất còn hạn chế."
+            },
+            {
+                "value": "D. vận tải khó khăn, hàng hóa ít đa dạng."
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 40. Yếu tố nào sau đây tác động chủ yếu đến việc nâng cao chất lượng sản phẩm công nghiệp nước ta?",
+        "answer": [
+            {
+                "value": "A. Đầu tư theo chiều sâu, đổi mới trang thiết bị và công nghệ."
+            },
+            {
+                "value": "B. Tập trung vào phát triển nhiều ngành sản xuất khác nhau."
+            },
+            {
+                "value": "C. Gắn với nhu cầu thị trường tiêu thụ trong và ngoài nước."
+            },
+            {
+                "value": "D. Đào tạo và nâng cao trình độ và tay nghề cho người lao động."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Đầu tư theo chiều sâu, đổi mới trang thiết bị và công nghệ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 41. Kim ngạch xuất khẩu của nước ta tăng nhanh trong những năm gần đây chủ yếu do tác động của việc",
+        "answer": [
+            {
+                "value": "A. đẩy mạnh khai thác khoáng sản các loại."
+            },
+            {
+                "value": "B.  đẩy mạnh công nghiệp hóa và đô thị hóa."
+            },
+            {
+                "value": "C. tích cực mở rộng thêm nhiều thị trường."
+            },
+            {
+                "value": "D. tham gia của nhiều thành phần kinh tế.  "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. đẩy mạnh khai thác khoáng sản các loại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 42. Yếu tố nào sau đây có tác động chủ yếu đến sự gia tăng giá trị nhập khẩu của nước ta hiện nay?",
+        "answer": [
+            {
+                "value": "A. Nhu cầu của quá trình công nghiệp hóa."
+            },
+            {
+                "value": "B. Nhu cầu của chất lượng cuộc sống cao."
+            },
+            {
+                "value": "C. Việc phát triển của quá trình đô thị hóa."
+            },
+            {
+                "value": "D. Sự tham gia của nhiều thành phần kinh tế."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Nhu cầu của quá trình công nghiệp hóa."
+            }
+        ]
+    },
+    {
+        "question": "Câu 43. Mạng lưới đường sắt nước ta",
+        "answer": [
+            {
+                "value": "A. chạy qua nhiều trung tâm kinh tế."
+            },
+            {
+                "value": "B. hiện nay đã đạt trình độ hiện đại."
+            },
+            {
+                "value": "C. phân bố đồng đều giữa các vùng."
+            },
+            {
+                "value": "D. đã gắn kết các vùng núi với nhau."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. chạy qua nhiều trung tâm kinh tế."
+            }
+        ]
+    },
+    {
+        "question": "Câu 44. Khách du lịch quốc tế đến nước ta hiện nay nhiều chủ yếu do",
+        "answer": [
+            {
+                "value": "A. người dân hiếu khách, môi trường thân thiện."
+            },
+            {
+                "value": "B. hội nhập toàn cầu sâu rộng, kinh tế phát triển."
+            },
+            {
+                "value": "C. sản phẩm du lịch hấp dẫn, chính sách đổi mới."
+            },
+            {
+                "value": "D. dịch vụ thuận tiện, cơ sở vật chất kĩ thuật tốt. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. sản phẩm du lịch hấp dẫn, chính sách đổi mới."
+            }
+        ]
+    },
+    {
+        "question": "Câu 45. Mạng lưới đường ô tô nước ta hiện nay",
+        "answer": [
+            {
+                "value": "A. hầu hết đi theo hướng đông – tây."
+            },
+            {
+                "value": "B. đã hội nhập các tuyến xuyên Á."
+            },
+            {
+                "value": "C. đã nối liền các đảo lớn với nhau. "
+            },
+            {
+                "value": "C. phân bố đồng đều giữa các vùng. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. đã hội nhập các tuyến xuyên Á."
+            }
+        ]
+    },
+    {
+        "question": "Câu 46. Phát niểu nào sau đây không đúng với ngành hàng không của nước ta?",
+        "answer": [
+            {
+                "value": "A. Cơ sở vật chất hiện đại hóa nhanh chóng. "
+            },
+            {
+                "value": "B. Mở nhiều đường bay thẳng đến các nước."
+            },
+            {
+                "value": "C. Ngành non trẻ nhưng phát triển rất nhanh. "
+            },
+            {
+                "value": "D. Vận chuyển khối lượng hàng hóa lớn nhất."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Vận chuyển khối lượng hàng hóa lớn nhất."
+            }
+        ]
+    },
+    {
+        "question": "Câu 47. Yếu tố nào sau đây là chủ yếu thúc đẩy việc phát triển giao thông vận tải biển nước ta hiện nay?",
+        "answer": [
+            {
+                "value": "A. Hội nhập toàn cầu, sâu rộng."
+            },
+            {
+                "value": "B. Hoạt động du lịch phát triển."
+            },
+            {
+                "value": "C. Vùng biển rộng, bờ biển dài."
+            },
+            {
+                "value": "D. Nhiều vũng, vịnh sâu kín gió. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Hội nhập toàn cầu, sâu rộng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 48. Phát biểu nào sau đây không đúng về giao thông vận tải đường ô tô nước ta?",
+        "answer": [
+            {
+                "value": "A.  Chưa kết nối vào hệ thống đường bộ trong khu vực "
+            },
+            {
+                "value": "B. Huy động được các nguồn vốn và tập trung đâu tư."
+            },
+            {
+                "value": "C. Thúc đẩy sự phát triển kinh tế xã hội của đất nước."
+            },
+            {
+                "value": "D. Mạng lưới ngày càng mở rộng và hiện đại hóa."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A.  Chưa kết nối vào hệ thống đường bộ trong khu vực "
+            }
+        ]
+    },
+    {
+        "question": "Câu 49. Hướng phát triển của ngành bưu chính nước ta hiện nay là",
+        "answer": [
+            {
+                "value": "A. tăng các quy trình nghiệp vụ thủ công."
+            },
+            {
+                "value": "B. trở thành ngành kinh doanh hiệu quả."
+            },
+            {
+                "value": "C. chỉ đầu tư vào những vùng khó khăn."
+            },
+            {
+                "value": "D. sử dụng lao động chưa qua đào tạo."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. trở thành ngành kinh doanh hiệu quả."
+            }
+        ]
+    },
+    {
+        "question": "Câu 50. Hoạt động nội thương ở nước ta ngày càng phát triển do",
+        "answer": [
+            {
+                "value": "A. các đô thị mở rộng, hội nhập quốc tế sâu."
+            },
+            {
+                "value": "B. dân số nhiều, phân bố được mở rộng."
+            },
+            {
+                "value": "C. sản xuất phát triển, chất lượng cuộc sống tăng."
+            },
+            {
+                "value": "D. nông thôn đổi mới, đời sống nhiều tiến bộ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. sản xuất phát triển, chất lượng cuộc sống tăng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 51. Phát biểu nào không đúng về giao thông đường sông?",
+        "answer": [
+            {
+                "value": "A. Tập trung chủ yếu ở đồng bằng."
+            },
+            {
+                "value": "B. Tuyến đường sông dày đặc khắp cả nước."
+            },
+            {
+                "value": "C. Phương tiện vận tải ít được cải tiến."
+            },
+            {
+                "value": "D. Trang thiết bị cảng sông còn lạc hậu."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Tập trung chủ yếu ở đồng bằng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 52. Nhân tố nào sau đây tác động chủ yếu đến sự đa dạng loại hình du lịch ở nước ta hiện nay?",
+        "answer": [
+            {
+                "value": "A. Tài nguyên du lịch, nhu cầu du khách trong và ngoài nước."
+            },
+            {
+                "value": "B. Nhu cầu của du khách trong, ngoài nước và điều kiện phục vụ."
+            },
+            {
+                "value": "C. Định hướng ưu tiên phát triển du lịch và các nguồn vốn đầu tư."
+            },
+            {
+                "value": "D. Lao động làm du lịch và cơ sở vật chất kĩ thuật, cơ sở hạ tầng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Tài nguyên du lịch, nhu cầu du khách trong và ngoài nước."
+            }
+        ]
+    }
+]

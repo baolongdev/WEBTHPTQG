@@ -1,0 +1,9 @@
+[theme]
+base="light"
+[global]
+disableWatchdogWarning = true
+[runner]
+fastReruns = true
+[server]
+maxUploadSize = 500
+maxMessageSize = 500

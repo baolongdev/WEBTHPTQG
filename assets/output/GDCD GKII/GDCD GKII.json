@@ -1,0 +1,2535 @@
+[
+    {
+        "question": "Câu 1. Đi xe máy vượt đèn đỏ, gây thương tích cho người khác là vi phạm quyền gì?",
+        "answer": [
+            {
+                "value": "A. Bất khả xâm phạm về thân thể của công dân."
+            },
+            {
+                "value": "B. Được pháp luật bảo hộ về sức khoẻ, tính mạng của công dân."
+            },
+            {
+                "value": "C. Được pháp luật bảo hộ về danh dự, nhân phẩm của công dân."
+            },
+            {
+                "value": "D. Bất khả xâm phạm về chỗ ở của công dân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Được pháp luật bảo hộ về sức khoẻ, tính mạng của công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Giam giữ người quá thời hạn quy định là vi phạm quyền gì?",
+        "answer": [
+            {
+                "value": "A. Bất khả xâm phạm về thân thể của công dân. "
+            },
+            {
+                "value": "B. Được pháp luật bảo hộ về sức khoẻ, tính mạng của công dân."
+            },
+            {
+                "value": "C. Được pháp luật bảo hộ về danh dự, nhân phẩm của công dân."
+            },
+            {
+                "value": "D. Bất khả xâm phạm về chỗ ở của công dân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Bất khả xâm phạm về thân thể của công dân. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Xây dựng và ban hành hệ thống pháp luật bảo đảm cho công dân được hưởng đầy đủ các quyền tự do cơ bản là trách nhiệm của ai?",
+        "answer": [
+            {
+                "value": "A. Nhân dân."
+            },
+            {
+                "value": "B. Công dân."
+            },
+            {
+                "value": "C. Nhà nước."
+            },
+            {
+                "value": "D. Lãnh đạo Nhà nước. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Nhà nước."
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Phải học tập, tìm hiểu nội dung về các quyền tự do cơ bản để phân biệt hành vi đúng pháp luật và hành vi vi phạm pháp luật là trách nhiệm của ai?",
+        "answer": [
+            {
+                "value": "A. Nhân dân."
+            },
+            {
+                "value": "B. Công dân."
+            },
+            {
+                "value": "C. Nhà nước."
+            },
+            {
+                "value": "D. Lãnh đạo nhà nước."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Đâu là nhận định đúng về quyền bất khả xâm phạm về thân thể của công dân?",
+        "answer": [
+            {
+                "value": "A. Công an có thể bắt người vi phạm pháp luật."
+            },
+            {
+                "value": "B. Chỉ được bắt người trong trường hợp phạm tội quả tang."
+            },
+            {
+                "value": "C. Trong mọi trường hợp, không ai có thể bị bắt."
+            },
+            {
+                "value": "D. Chỉ được bắt người khi có lệnh bắt của cơ quan nhà nước có thẩm quyền trừ trường hợp phạm tội quả tang hoặc đang bị truy nã."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Chỉ được bắt người khi có lệnh bắt của cơ quan nhà nước có thẩm quyền trừ trường hợp phạm tội quả tang hoặc đang bị truy nã."
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Các quyền tự do cơ bản của công dân được ghi nhận trong Hiến pháp và Luật quy định mối quan hệ cơ bản giữa những thành phần nào?",
+        "answer": [
+            {
+                "value": "A. Công dân với pháp luật."
+            },
+            {
+                "value": "B. Nhà nước với pháp luật."
+            },
+            {
+                "value": "C. Nhà nước với công dân."
+            },
+            {
+                "value": "D. Công dân với nhà nước và pháp luật."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Nhà nước với công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Quyền bất khả xâm phạm về thân thể được ghi nhận tại Điều 20, Hiến pháp 2013 được cho là quyền gì sau đây?",
+        "answer": [
+            {
+                "value": "A. Quyền tự do nhất."
+            },
+            {
+                "value": "B. Quyền tự do cơ bản nhất."
+            },
+            {
+                "value": "C. Quyền tự do quan trọng nhất."
+            },
+            {
+                "value": "D. Quyền tự do cần thiết nhất."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quyền tự do quan trọng nhất."
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Đâu là nhận định sai?",
+        "answer": [
+            {
+                "value": "A. Tự tiện bắt và giam giữ người là hành vi trái pháp luật."
+            },
+            {
+                "value": "B. Bắt và giam giữ người trái pháp luật là xâm phạm quyền bất khả xâm phạm về thân thể của công dân."
+            },
+            {
+                "value": "C. Không ai được bắt và giam giữ người."
+            },
+            {
+                "value": "D. Bắt và giam giữ người trái phép sẽ bị xử lý nghiêm minh theo pháp luật."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Không ai được bắt và giam giữ người."
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Quyền tự do về thân thể, tinh thần thực chất là quyền nào sau đây?",
+        "answer": [
+            {
+                "value": "A. Quyền được pháp luật bảo hộ về sức khoẻ và tính mạng."
+            },
+            {
+                "value": "B. Quyền được pháp luật bảo hộ về nhân phẩm và danh dự."
+            },
+            {
+                "value": "C. Quyền bất khả xâm phạm về thân thể."
+            },
+            {
+                "value": "D. Quyền được sống và làm việc."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quyền bất khả xâm phạm về thân thể."
+            }
+        ]
+    },
+    {
+        "question": "Câu 10. Trong lúc A đang bận việc riêng thì điện thoại có tin nhắn, B đã tự ý mở điện thoại của A ra đọc. Hành vi của B đã xâm phạm quyền nào sau đây?",
+        "answer": [
+            {
+                "value": "A. Quyền được pháp luật bảo hộ về danh dự của công dân."
+            },
+            {
+                "value": "B. Quyền tự do dân chủ của công dân."
+            },
+            {
+                "value": "C. Quyền được bảo đảm an toàn và bí mật thư tín, điện thoại của công dân."
+            },
+            {
+                "value": "D. Quyền tự do ngôn luận của công dân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quyền được bảo đảm an toàn và bí mật thư tín, điện thoại của công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 11. H và K là bạn thân học cùng lớp với nhau. Khi giữa 2 người nảy sinh mâu thuẫn, K đã tung tin xấu và bịa đặt về H trên Facebook. Nếu là bạn học của H và K, em sẽ lựa chọn cách ứng xử nào sau đây?",
+        "answer": [
+            {
+                "value": "A. Coi như không biết vì đây là việc riêng của 2 bạn."
+            },
+            {
+                "value": "B. Khuyên K gỡ bỏ tin vì đã xâm phạm nhân phẩm, danh dự của người khác."
+            },
+            {
+                "value": "C. Khuyên H nói xấu lại K trên Facebook."
+            },
+            {
+                "value": "D. Chia sẻ thông tin đó trên Facebook."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Khuyên K gỡ bỏ tin vì đã xâm phạm nhân phẩm, danh dự của người khác."
+            }
+        ]
+    },
+    {
+        "question": "Câu 12. Trong thời gian gần đây, trên mạng xã hội xuất hiện nhiều clip nữ sinh đánh bạn, làm tổn hại nghiêm trọng đến tâm sinh lý của người bị hại là vi phạm quyền gì?",
+        "answer": [
+            {
+                "value": "A. Quyền bất khả xâm phạm về thân thể của công dân."
+            },
+            {
+                "value": "B. Quyền được pháp luật bảo hộ về sức khoẻ, tính mạng, danh dự và nhân phẩm của công dân."
+            },
+            {
+                "value": "C. Quyền bất khả xâm phạm về sức khoẻ, tính mạng, danh dự và nhân phẩm của công dân."
+            },
+            {
+                "value": "D. Quyền được pháp luật bảo đảm về sức khoẻ, tính mạng, danh dự và nhân phẩm của công dân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Quyền được pháp luật bảo hộ về sức khoẻ, tính mạng, danh dự và nhân phẩm của công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 13. Ông A mất xe máy và trình báo với công an xã. Ông A khẳng định anh X là người lấy cắp. Dựa vào khai báo của ông A, công an xã ngay lập tức bắt anh X. Việc làm của công an xã là vi phạm quyền gì sau đây?",
+        "answer": [
+            {
+                "value": "A. Quyền bất khả xâm phạm về thân thể của công dân."
+            },
+            {
+                "value": "B. Quyền được pháp luật bảo hộ về tính mạng, sức khoẻ, danh dự và nhân phẩm của công dân."
+            },
+            {
+                "value": "C. Quyền bất khả xâm phạm về chỗ ở của công dân."
+            },
+            {
+                "value": "D. Quyền tự do ngôn luận của công dân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Quyền bất khả xâm phạm về thân thể của công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 14. Ông A mất một chiếc điện thoại. Do nghi ngờ con ông B lấy trộm nên ông A yêu cầu ông B cho vào nhà khám xét. Ông B không đồng ý nhưng ông A cùng con trai cứ tự tiện xông vào nhà khám xét. Theo em, hành vi của bố con ông A vi phạm quyền gì sau đây?",
+        "answer": [
+            {
+                "value": "A. Quyền bất khả xâm phạm về thân thể của công dân."
+            },
+            {
+                "value": "B. Quyền được pháp luật bảo hộ về tính mạng, sức khoẻ, danh dự và nhân phẩm của công dân."
+            },
+            {
+                "value": "C. Quyền bất khả xâm phạm về chỗ ở của công dân."
+            },
+            {
+                "value": "D. Quyền tự do ngôn luận của công dân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quyền bất khả xâm phạm về chỗ ở của công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 15. Cơ quan nào sau đây không có thẩm quyền ra lệnh bắt bị can, bị cáo để tạm giam?",
+        "answer": [
+            {
+                "value": "A. Ủy ban Nhân dân các cấp."
+            },
+            {
+                "value": "B. Viện kiểm sát nhân dân các cấp."
+            },
+            {
+                "value": "C. Tòa án nhân dân các cấp."
+            },
+            {
+                "value": "D. Cơ quan điều tra các cấp. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Ủy ban Nhân dân các cấp."
+            }
+        ]
+    },
+    {
+        "question": "Câu 16. Trong Hiến pháp và Pháp luật nước ta, quyền có vị trí quan trọng nhất và không tách rời đối với mỗi công dân là",
+        "answer": [
+            {
+                "value": "A. quyền tự do cơ bản."
+            },
+            {
+                "value": "B. quyền bình đẳng."
+            },
+            {
+                "value": "C. quyền sống."
+            },
+            {
+                "value": "D. quyền dân chủ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. quyền tự do cơ bản."
+            }
+        ]
+    },
+    {
+        "question": "Câu 17. Trong các quyền tự do cơ bản của công dân, quyền đóng vai trò quan trọng nhất là",
+        "answer": [
+            {
+                "value": "A. quyền bất khả xâm phạm về thân thể."
+            },
+            {
+                "value": "B. quyền bất khả xâm phạm về chỗ ở."
+            },
+            {
+                "value": "C. quyền bảo đảm an toàn và bí mật thư tín, điện thoại, điện tín."
+            },
+            {
+                "value": "D. quyền tự do ngôn luận."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. quyền bất khả xâm phạm về thân thể."
+            }
+        ]
+    },
+    {
+        "question": "Câu 18. Việc xâm phạm đến quyền bất khả xâm phạm về thân thể của công dân chủ yếu thể hiện qua việc làm trái pháp luật nào sau đây?",
+        "answer": [
+            {
+                "value": "A. Bắt, giam, giữ người trái pháp luật."
+            },
+            {
+                "value": "B. Đánh người gây thương tích."
+            },
+            {
+                "value": "C. Khám xét nhà khi không có lệnh."
+            },
+            {
+                "value": "D. Tự tiện bóc, mở thư tín của người khác."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Bắt, giam, giữ người trái pháp luật."
+            }
+        ]
+    },
+    {
+        "question": "Câu 19. Trong trường hợp nào sau đây thì bất cứ ai cũng có thể bắt người?",
+        "answer": [
+            {
+                "value": "A. Người phạm tội lần đầu."
+            },
+            {
+                "value": "B. Người đang bị truy nã."
+            },
+            {
+                "value": "C. Người phạm tội rất nghiêm trọng."
+            },
+            {
+                "value": "D. Bị cáo có ý định bỏ trốn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Người đang bị truy nã."
+            }
+        ]
+    },
+    {
+        "question": "Câu 20. Để bắt người đúng pháp luật, ngoài thẩm quyền và trình tự, chúng ta cần tuân thủ quy định nào khác của pháp luật?",
+        "answer": [
+            {
+                "value": "A. Đúng công đoạn."
+            },
+            {
+                "value": "B. Đúng giai đoạn."
+            },
+            {
+                "value": "C. Đúng thủ tục."
+            },
+            {
+                "value": "D. Đúng thời điểm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Đúng thủ tục."
+            }
+        ]
+    },
+    {
+        "question": "Câu 21. Việc làm nào sau đây là xâm phạm đến tính mạng, sức khỏe của người khác?",
+        "answer": [
+            {
+                "value": "A. Bố mẹ phê bình khi con cái mắc lỗi."
+            },
+            {
+                "value": "B. Đánh người gây thương tích."
+            },
+            {
+                "value": "C. Khống chế và bắt giữ tên trộm khi hắn lẻn vào nhà."
+            },
+            {
+                "value": "D. Bắt người theo quyết định của Tòa án."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Đánh người gây thương tích."
+            }
+        ]
+    },
+    {
+        "question": "Câu 22. Trong các quyền tự do sau đây, đâu là quyền tự do về thân thể?",
+        "answer": [
+            {
+                "value": "A. Quyền được pháp luật bảo hộ về tính mạng, sức khỏe."
+            },
+            {
+                "value": "B. Quyền tự do tín ngưỡng tôn giáo."
+            },
+            {
+                "value": "C. Quyền bất khả xâm phạm về thân thể."
+            },
+            {
+                "value": "D. Quyền tự do ngôn luận."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quyền bất khả xâm phạm về thân thể."
+            }
+        ]
+    },
+    {
+        "question": "Câu 23. Hành vi nào sau đây là xâm phạm đến quyền được pháp luật bảo hộ về nhân phẩm và danh dự?",
+        "answer": [
+            {
+                "value": "A. Bóc mở thư của người khác."
+            },
+            {
+                "value": "B. Vào chỗ ở của người khác khi chưa được người đó đồng ý."
+            },
+            {
+                "value": "C. Bắt người không có lí do."
+            },
+            {
+                "value": "D. Vu khống người khác."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Vu khống người khác."
+            }
+        ]
+    },
+    {
+        "question": "Câu 24. Chỉ được khám xét nhà ở của công dân trong trường hợp nào sau đây?",
+        "answer": [
+            {
+                "value": "A. Lấy lại đồ đã cho mượn nhưng người đó đi vắng."
+            },
+            {
+                "value": "B. Bắt người không có lí do."
+            },
+            {
+                "value": "C. Cần bắt người bị truy nã đang lẩn trốn ở đó."
+            },
+            {
+                "value": "D. Nghi ngờ nhà đó lấy trộm đồ của mình."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Cần bắt người bị truy nã đang lẩn trốn ở đó."
+            }
+        ]
+    },
+    {
+        "question": "Câu 25. Trường hợp nào sau đây là vi phạm quyền bất khả xâm phạm của công dân?",
+        "answer": [
+            {
+                "value": "A. Tự tiện ra vào nhà mà mình đã cho thuê trọ."
+            },
+            {
+                "value": "B. Giúp chủ nhà phá khóa để vào nhà."
+            },
+            {
+                "value": "C. Con cái đi vào nhà mà không xin phép bố mẹ."
+            },
+            {
+                "value": "D. Xin phép nhà hàng xóm để lấy đồ bị rơi."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Tự tiện ra vào nhà mà mình đã cho thuê trọ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 26. Hình thức nào sau đây không phải là thư tín, điện tín?",
+        "answer": [
+            {
+                "value": "A. Bưu phẩm."
+            },
+            {
+                "value": "B. Tin nhắn điện thoại."
+            },
+            {
+                "value": "C. Sổ tay ghi chép."
+            },
+            {
+                "value": "D. Email."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Sổ tay ghi chép."
+            }
+        ]
+    },
+    {
+        "question": "Câu 27. Hành vi nào sau đây là xâm phạm an toàn và bí mật thư tín, điện thoại, điện tín?",
+        "answer": [
+            {
+                "value": "A. Kiểm tra số lượng thư trước khi gởi."
+            },
+            {
+                "value": "B. Nhận thư không đúng tên mình gởi, đem trả lại cho bưu điện."
+            },
+            {
+                "value": "C. Bóc xem các thư gởi nhầm địa chỉ."
+            },
+            {
+                "value": "D. Đọc dùm thư cho bạn khiếm thị."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Bóc xem các thư gởi nhầm địa chỉ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 28. Ý kiến nào dưới đây là đúng với quy định của pháp luật về quyền được bảo đảm an toàn và bí mật thư tín, điện thoại, điện tín?",
+        "answer": [
+            {
+                "value": "A. Người có thẩm quyền được phép kiểm tra thư để phục vụ công tác điều tra."
+            },
+            {
+                "value": "B. Thư của người thân thì được phép mở ra xem."
+            },
+            {
+                "value": "C. Đã là vợ chồng thì được tự ý xem thư của nhau."
+            },
+            {
+                "value": "D. Thư nhặt được thì được phép xem."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Người có thẩm quyền được phép kiểm tra thư để phục vụ công tác điều tra."
+            }
+        ]
+    },
+    {
+        "question": "Câu 29. Quyền nào sau đây giúp đảm bảo cho công dân có điều kiện để chủ động và tích cực tham gia vào công việc chung của nhà nước và xã hội?",
+        "answer": [
+            {
+                "value": "A. Quyền được pháp luật bảo hộ về tính mạng, sức khỏe danh dự và nhân phẩm."
+            },
+            {
+                "value": "B. Quyền bất khả xâm phạm về thân thể."
+            },
+            {
+                "value": "C. Quyền được bảo đảm an toàn bí mật thư tín, điện thoại, điện tín."
+            },
+            {
+                "value": "D. Quyền tự do ngôn luận."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Quyền tự do ngôn luận."
+            }
+        ]
+    },
+    {
+        "question": "Câu 30. Hoạt động nào sau đây vi phạm quyền tự do ngôn luận?",
+        "answer": [
+            {
+                "value": "A. Kiến nghị với đại biểu Quốc hội và đại biểu Hội đồng nhân dân trong các dịp đại biểu tiếp xúc cử tri."
+            },
+            {
+                "value": "B. Viết bài gởi đăng báo bày tỏ quan điểm của mình để ủng hộ cái đúng, phê phán cái sai."
+            },
+            {
+                "value": "C. Viết bài với nội dung xuyên tạc sự thật về chính sách của Đảng, Nhà nước và tung lên mạng internet."
+            },
+            {
+                "value": "D. Phát biểu ý kiến nhằm xây dựng cơ quan, trường học, địa phương mình."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Viết bài với nội dung xuyên tạc sự thật về chính sách của Đảng, Nhà nước và tung lên mạng internet."
+            }
+        ]
+    },
+    {
+        "question": "Câu 31. Để thực hiện các quyền tự do cơ bản, công dân cần tránh việc làm nào sau đây?",
+        "answer": [
+            {
+                "value": "A. Tìm hiểu các quyền tự do cơ bản của mình."
+            },
+            {
+                "value": "B. Không tố cáo những việc làm trái pháp luật của người khác."
+            },
+            {
+                "value": "C. Không ngừng nâng cao ý thức chấp hành pháp luật."
+            },
+            {
+                "value": "D. Tích cực giúp đỡ các cơ quan nhà nước thi hành pháp luật."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Không tố cáo những việc làm trái pháp luật của người khác."
+            }
+        ]
+    },
+    {
+        "question": "Câu 32. Đặt điều nói xấu người khác là vi phạm quyền ",
+        "answer": [
+            {
+                "value": "A. bất khả xâm phạm về thân thể của công dân."
+            },
+            {
+                "value": "B. được pháp luật bảo hộ về tính mạng, sức khoẻ của công dân."
+            },
+            {
+                "value": "C. được pháp luật bảo hộ về danh dự, nhân phẩm của công dân."
+            },
+            {
+                "value": "D. bất khả xâm phạm về chỗ ở của công dân. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. được pháp luật bảo hộ về danh dự, nhân phẩm của công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 33. Hành vi nào dưới đây không xâm phạm đến quyền được pháp luật bảo hộ về nhân phẩm và danh dự của công dân?",
+        "answer": [
+            {
+                "value": "A. Đặt điều, nói xấu người khác."
+            },
+            {
+                "value": "B. Phản bác ý kiến của người khác."
+            },
+            {
+                "value": "C. Xúc phạm người khác để hạ uy tín."
+            },
+            {
+                "value": "D. Tung tin xấu về người khác."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Phản bác ý kiến của người khác."
+            }
+        ]
+    },
+    {
+        "question": "Câu 34. Hành vi đặt điều, tung tin xấu làm ảnh hưởng đến uy tín của người khác là vi phạm quyền nào của công dân?",
+        "answer": [
+            {
+                "value": "A. Quyền bí mật của cá nhân."
+            },
+            {
+                "value": "B. Quyền được bảo hộ về danh dự và nhân phẩm."
+            },
+            {
+                "value": "C. Quyền bình đẳng."
+            },
+            {
+                "value": "D. Quyền dân chủ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Quyền được bảo hộ về danh dự và nhân phẩm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 35. Thư tín, điện thoại, điện tín của cá nhân được bảo đảm ",
+        "answer": [
+            {
+                "value": "A. an toàn và bí mật."
+            },
+            {
+                "value": "B. an toàn và bảo mật."
+            },
+            {
+                "value": "C. tuyệt đối an toàn."
+            },
+            {
+                "value": "D. tuyệt đối bảo mật."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. an toàn và bí mật."
+            }
+        ]
+    },
+    {
+        "question": "Câu 36. Quyền được bảo đảm an toàn và bí mật thư tín, điện thoại, điện tín thuộc quyền",
+        "answer": [
+            {
+                "value": "A. an toàn bí mật quốc gia."
+            },
+            {
+                "value": "B. bình đẳng của công dân."
+            },
+            {
+                "value": "C. sáng tạo của công dân. "
+            },
+            {
+                "value": "D. bí mật đời tư của cá nhân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. bí mật đời tư của cá nhân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 37. Quyền được bảo đảm an toàn và bí mật thư tín, điện thoại, điện tín có nghĩa là",
+        "answer": [
+            {
+                "value": "A. không ai có quyền kiểm soát thư tín, điện thoại, điện tín của cá nhân."
+            },
+            {
+                "value": "B. thư tín, điện thoại, điện tín của cá nhân được đảm bảo an toàn và bí mật."
+            },
+            {
+                "value": "C. không ai có quyền can thiệp vào thư tín, điện thoại, điện tín của cá nhân."
+            },
+            {
+                "value": "D. không có tổ chức nào có quyền kiểm soát thư tín, điện thoại, điện tín của cá nhân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. thư tín, điện thoại, điện tín của cá nhân được đảm bảo an toàn và bí mật."
+            }
+        ]
+    },
+    {
+        "question": "Câu 38. Việc làm nào dưới đây không vi phạm quyền bất khả xâm phạm về thân thể của công dân?",
+        "answer": [
+            {
+                "value": "A. Tự ý bắt và giam, giữ người vì lí do không chính đáng."
+            },
+            {
+                "value": "B. Tự tiện bắt và giam, giữ người trái pháp luật."
+            },
+            {
+                "value": "C. Bắt giữ người phạm tội quả tang."
+            },
+            {
+                "value": "D. Bắt giữ người do nghi ngờ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Bắt giữ người phạm tội quả tang."
+            }
+        ]
+    },
+    {
+        "question": "Câu 39. Người bị bắt trong trường hợp khẩn cấp phải được trả tự do ngay khi nào?",
+        "answer": [
+            {
+                "value": "A. Viện Kiểm sát ra quyết định phê chuẩn lệnh bắt. "
+            },
+            {
+                "value": "B. Viện Kiểm sát ra quyết định không phê chuẩn lệnh bắt."
+            },
+            {
+                "value": "C. Ủy ban Nhân dân ra quyết định phê chuẩn lệnh bắt."
+            },
+            {
+                "value": "D. Ủy ban Nhân dân ra quyết định không phê chuẩn lệnh bắt."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Viện Kiểm sát ra quyết định không phê chuẩn lệnh bắt."
+            }
+        ]
+    },
+    {
+        "question": "Câu 40. Việc làm nào dưới đây là xâm hại đến tính mạng, sức khỏe, danh dự và nhân phẩm của người khác?",
+        "answer": [
+            {
+                "value": "A. Bố mẹ phê bình con cái khi con cái mắc lỗi."
+            },
+            {
+                "value": "B. Khống chế và bắt giữ tên trộm khi hắn lẻn vào nhà."
+            },
+            {
+                "value": "C. Bắt người theo quy định của Tòa án."
+            },
+            {
+                "value": "D. Vì bất đồng quan điểm nên đánh người gây thương tích."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Vì bất đồng quan điểm nên đánh người gây thương tích."
+            }
+        ]
+    },
+    {
+        "question": "Câu 41. Lên mạng xã hội Facebook để đăng những tin không đúng sự thật về người khác là hành vi xâm phạm quyền nào dưới đây của công dân?",
+        "answer": [
+            {
+                "value": "A. Quyền tự do ngôn luận, tự do báo chí."
+            },
+            {
+                "value": "B. Quyền được pháp luật bảo hộ về danh dự và nhân phẩm."
+            },
+            {
+                "value": "C. Quyền được bảo đảm an toàn và bí mật thư tín, điện thoại, điện tín."
+            },
+            {
+                "value": "D. Quyền bất khả xâm phạm về thân thể."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Quyền được pháp luật bảo hộ về danh dự và nhân phẩm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 42. Hành vi nào dưới đây không xâm phạm quyền bất khả xâm phạm về chỗ ở của công dân?",
+        "answer": [
+            {
+                "value": "A. Hàng xóm sang chữa cháy khi chủ nhà đi vắng."
+            },
+            {
+                "value": "B. Khám nhà người khác vì nghi ngờ người đó trộm đồ của mình."
+            },
+            {
+                "value": "C. Sang nhà hàng xóm để kiểm tra đường dây điện khi không có ai ở nhà."
+            },
+            {
+                "value": "D. Tự ý vào phòng người khác khi họ đi vắng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Hàng xóm sang chữa cháy khi chủ nhà đi vắng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 43. Hành vi nào dưới đây vi phạm quyền được bảo đảm an toàn và bí mật thư tín, điện thoại, điện tín?",
+        "answer": [
+            {
+                "value": "A. Cho bạn đọc tin nhắn của mình."
+            },
+            {
+                "value": "B. Cho bạn bè số điện thoại của người thân."
+            },
+            {
+                "value": "C. Nhờ bạn viết hộ thư."
+            },
+            {
+                "value": "D. Đọc trộm tin nhắn của người khác."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Đọc trộm tin nhắn của người khác."
+            }
+        ]
+    },
+    {
+        "question": "Câu 44. Pháp luật quy định: Người nào tự tiện bóc, mở thư, tiêu hủy thư, điện tín của người khác thì tùy theo mức độ vi phạm sẽ có thể bị",
+        "answer": [
+            {
+                "value": "A. xử phạt hành chính hoặc truy cứu trách nhiệm hình sự."
+            },
+            {
+                "value": "B. cảnh cáo hoặc khiển trách."
+            },
+            {
+                "value": "C. khiển trách hoặc xử phạt dân sự."
+            },
+            {
+                "value": "D. kỉ luật hoặc xử phạt dân sự."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. xử phạt hành chính hoặc truy cứu trách nhiệm hình sự."
+            }
+        ]
+    },
+    {
+        "question": "Câu 45. Trường hợp nào sau đây không thể hiện quyền tự do ngôn luận?",
+        "answer": [
+            {
+                "value": "A. Phát biểu ý kiến về xây dựng cơ quan, trường học."
+            },
+            {
+                "value": "B. Không lắng nghe ý kiến phát biểu của cấp dưới trong cuộc họp."
+            },
+            {
+                "value": "C. Kiến nghị với đại biểu Quốc hội trong dịp đại biểu tiếp xúc cử tri."
+            },
+            {
+                "value": "D. Góp ý cho dự thảo Hiến pháp mới"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Không lắng nghe ý kiến phát biểu của cấp dưới trong cuộc họp."
+            }
+        ]
+    },
+    {
+        "question": "Câu 46. Việc làm nào dưới đây không thể hiện trách nhiệm của công dân khi thực hiện các quyền tự do cơ bản?",
+        "answer": [
+            {
+                "value": "A. Không ngừng nâng cao ý thức chấp hành pháp luật."
+            },
+            {
+                "value": "B. Tích cực giúp đỡ các cơ quan nhà nước thi hành pháp luật."
+            },
+            {
+                "value": "C. Không tố cáo những việc làm trái pháp luật của người khác."
+            },
+            {
+                "value": "D. Học tập, tìm hiểu để nắm vững các quyền tự do cơ bản của mình."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Không tố cáo những việc làm trái pháp luật của người khác."
+            }
+        ]
+    },
+    {
+        "question": "Câu 47. Anh T mất  một chiếc máy tính xách tay, nghi cho anh A hàng xóm lý trộm. Anh T đã xông vào nhà anh A để lục soát. Hành vi này đã xâm phạm đến quyền nào dưới đây?",
+        "answer": [
+            {
+                "value": "A. Bất khả xâm phạm về thân thể."
+            },
+            {
+                "value": "B. Bất khả xâm phạm về chỗ ở."
+            },
+            {
+                "value": "C. Đảm bảo an toàn về sức khỏe, tính mạng."
+            },
+            {
+                "value": "D. Bảo mật nơi cư trú hợp pháp."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Bất khả xâm phạm về chỗ ở."
+            }
+        ]
+    },
+    {
+        "question": "Câu 48. Hai nữ sinh chưa thanh toán tiền thuê nhà theo hợp đồng, bà A là chủ nhà đã khóa trái cửa nhà và giam hai bạn nữ sinh gần 3 giờ, sau đó họ mới được giải thoát nhờ sự can thiệp của công an phường. Hành vi của bà A đã xâm phạm đến quyền nào dưới đây?",
+        "answer": [
+            {
+                "value": "A. Quyền bất khả xâm phạm về chỗ ở của công dân."
+            },
+            {
+                "value": "B. Quyền được pháp luật bảo hộ về tính mạng của công dân."
+            },
+            {
+                "value": "C. Quyền bất khả xâm phạm về thân thể của công dân."
+            },
+            {
+                "value": "D. Quyền được pháp luật bảo hộ về danh dự, nhân phẩm của công dân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quyền bất khả xâm phạm về thân thể của công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 49. H và N là bạn học cùng lớp, do mâu thuẫn về mặt tình cảm nên H đã nhắn tin xúc phạm N. H đã xâm phạm đến quyền nào dưới đây?",
+        "answer": [
+            {
+                "value": "A. Quyền đảm bảo an toàn, bí mật về thư tín."
+            },
+            {
+                "value": "B. Quyền được pháp luật bảo hộ về tính mạng. "
+            },
+            {
+                "value": "C. Quyền bất khả xâm phạm về thân thể."
+            },
+            {
+                "value": "D. Quyền được pháp luật bảo hộ về danh dự, nhân phẩm."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Quyền được pháp luật bảo hộ về danh dự, nhân phẩm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 50. Chị H và N cùng làm ở một công ty, ở chung một phòng trọ. Khi về đến phòng trọ, chị H có việc đi ra ngoài và để quên chiếc điện thoại ở phòng, lúc đó có tin nhắn đến, N đã mở điện thoại của H và xem tin nhắn. Hành vi của N đã xâm phạm đến quyền nào dưới đây?",
+        "answer": [
+            {
+                "value": "A. Quyền bảo vệ tài sản riêng.                               "
+            },
+            {
+                "value": "B. Quyền tự do ngôn luận."
+            },
+            {
+                "value": "C. Quyền bảo vệ thông tin cá nhân."
+            },
+            {
+                "value": "D. Quyền bảo đảm an toàn, bí mật về thư tín, điện tín."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Quyền bảo đảm an toàn, bí mật về thư tín, điện tín."
+            }
+        ]
+    },
+    {
+        "question": "Câu 51. Bạ A học lớp 12, rất ham chơi game. Bố của A đã khuyên bảo nhiều lần mà không nghe nên ông rất bực. Khi phát hiện A bỏ học đi chơi game trong quán, ông đã xông vào xúc phạm chủ quán. Hành vi của bố bạn A đã xâm phạm đến ",
+        "answer": [
+            {
+                "value": "A. quyền được bảo hộ về danh dự, nhân phẩm của công dân."
+            },
+            {
+                "value": "B. quyền bất khả xâm phạm về chỗ ở."
+            },
+            {
+                "value": "C. quyền tự do kinh doanh."
+            },
+            {
+                "value": "D. quyền tự do ngôn luận."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. quyền được bảo hộ về danh dự, nhân phẩm của công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 52. Sau khi tiễn người hàng xóm ra về, bà N thấy mất chiếc điện thoại iPhone 7 mới mua, nghi người hàng xóm lấy trộm nên bà N cùng con trai sang lục soát nhà người hàng xóm. Hành vi này của mẹ con bà N đã xâm phạm tới quyền nào dưới đây? ",
+        "answer": [
+            {
+                "value": "A. Quyền bất khả xâm phạm về thân thể"
+            },
+            {
+                "value": "B. Quyền được đảm bảo bí mật đời tư của công dân."
+            },
+            {
+                "value": "C. Quyền được pháp luật bảo hộ về tài sản."
+            },
+            {
+                "value": "D. Quyền bất khả xâm phạm về chỗ ở."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Quyền bất khả xâm phạm về chỗ ở."
+            }
+        ]
+    },
+    {
+        "question": "Câu 53. Một lần đi du lịch ông T đến thăm một xã đang thí điểm xây dựng nông thôn mới. Ông T thấy chính quyền địa phương và người dân ở xã X  đều tích cực hưởng ứng và có rất nhiều thành tựu đã đạt được. Ông T quyết định viết bài gửi báo để ca ngợi hoạt động của xã X. Ông T đã thực hiện quyền",
+        "answer": [
+            {
+                "value": "A. tự do ngôn luận."
+            },
+            {
+                "value": "B. tự quyết."
+            },
+            {
+                "value": "C. tự chủ."
+            },
+            {
+                "value": "D. bày tỏ quan điểm cá nhân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. tự do ngôn luận."
+            }
+        ]
+    },
+    {
+        "question": "Câu 54. H và T cùng học một trường, một lần T có trêu đùa bạn gái của H nên dẫn đến hiểu nhầm. Hôm sau tan học, H và anh trai đã chặn đường đánh T trọng thương. Hành vi này đã xâm phạm tới quyền nào dưới đây?",
+        "answer": [
+            {
+                "value": "A. Quyền được pháp luật bảo hộ về danh dự và nhân phẩm. "
+            },
+            {
+                "value": "B. Quyền bất khả xâm phạm về thân thể của công dân."
+            },
+            {
+                "value": "C. Quyền bất khả xâm phạm về chỗ ở của công dân."
+            },
+            {
+                "value": "D. Quyền được bảo vệ về tính mạng và sức khỏe."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Quyền được bảo vệ về tính mạng và sức khỏe."
+            }
+        ]
+    },
+    {
+        "question": "Câu 55. M và T cùng làm ở một công ty, M hiền lành nên được nhiều người yêu quý và thường xuyên có điện thoại và tin nhắn đến hỏi thăm. Từ đó T sinh ra ghen tị với M, một lần M đi chơi với bạn và để quên điện thoại ở phòng. Khi đi làm về T thấy điện thoại của M có tin nhắn, T không ngần ngại đã mở ra đọc và xóa luôn. Hành vi của T đã vi phạm",
+        "answer": [
+            {
+                "value": "A. quyền tự do ngôn luận."
+            },
+            {
+                "value": "B. quyền đảm bảo thông tin cá nhân."
+            },
+            {
+                "value": "C. quyền đảm bảo an toàn, bí mật về thư tín, điện tín."
+            },
+            {
+                "value": "D. quyền đảm bảo thông tin nội bộ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. quyền đảm bảo an toàn, bí mật về thư tín, điện tín."
+            }
+        ]
+    },
+    {
+        "question": "Câu 1. Nhận định sau đây: “Hình thức dân chủ với những quy chế, thiết chế để nhân dân thảo luận, biểu quyết tham gia trực tiếp quyết định công việc của cộng đồng, của Nhà nước” thuộc hình thức dân chủ nào?",
+        "answer": [
+            {
+                "value": "A. Dân chủ trực tiếp."
+            },
+            {
+                "value": "B. Dân chủ gián tiếp."
+            },
+            {
+                "value": "C. Dân chủ tập trung."
+            },
+            {
+                "value": "D. Dân chủ xã hội chủ nghĩa."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Dân chủ trực tiếp."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2. Anh X đề nghị cơ quan xem xét lại quyết định buộc thôi việc của mình. Anh X đang thực hiện quyền gì của mình?",
+        "answer": [
+            {
+                "value": "A. Quyền tố cáo."
+            },
+            {
+                "value": "B. Quyền ứng cử."
+            },
+            {
+                "value": "C. Quyền bãi nại."
+            },
+            {
+                "value": "D. Quyền khiếu nại."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Quyền khiếu nại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 3. Điền vào chỗ trống sau: “… là quyền của công dân được báo cho cơ quan, tổ chức, cá nhân có thẩm quyền biết về hành vi vi phạm pháp luật của bất cứ cơ quan, tổ chức, cá nhân nào”.",
+        "answer": [
+            {
+                "value": "A. Quyền khiếu nại "
+            },
+            {
+                "value": "B. Quyền bầu cử"
+            },
+            {
+                "value": "C. Quyền tố cáo"
+            },
+            {
+                "value": "D. Quyền góp ý"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quyền tố cáo"
+            }
+        ]
+    },
+    {
+        "question": "Câu 4. Ngày 22/5/2016, nước ta tiến hành bầu cử Đại biểu Quốc hội và Hội đồng nhân dân các cấp. Công dân nào dưới đây đủ điều kiện ứng cử khi có ngày sinh như sau?",
+        "answer": [
+            {
+                "value": "A. 21/5/1995"
+            },
+            {
+                "value": "B. 21/4/1996"
+            },
+            {
+                "value": "C. 21/5/1999"
+            },
+            {
+                "value": "D. 21/5/1998"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. 21/5/1995"
+            }
+        ]
+    },
+    {
+        "question": "Câu 5. Hiến pháp 2013 quy định tuổi bầu cử và ứng cử của công dân là bao nhiêu?",
+        "answer": [
+            {
+                "value": "A. Đủ 18 tuổi trở lên có quyền bầu cử và ứng cử."
+            },
+            {
+                "value": "B. Đủ 21 tuổi trở lên có quyền bầu cử và ứng cử."
+            },
+            {
+                "value": "C. Từ 18 đến 21 tuổi có quyền bầu cử và ứng cử."
+            },
+            {
+                "value": "D. Đủ 18 tuổi có quyền bầu cử, đủ 21 tuổi có quyền ứng cử."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Đủ 18 tuổi có quyền bầu cử, đủ 21 tuổi có quyền ứng cử."
+            }
+        ]
+    },
+    {
+        "question": "Câu 6. Công dân A tham gia góp ý vào dự thảo luật khi nhà nước trưng cầu dân ý. Công dân A đã thực hiện quyền gì dưới đây?",
+        "answer": [
+            {
+                "value": "A. Quyền ứng cử."
+            },
+            {
+                "value": "B. Quyền đóng góp ý kiến."
+            },
+            {
+                "value": "C. Quyền kiểm tra, giám sát."
+            },
+            {
+                "value": "D. Quyền tham gia quản lý nhà nước và xã hội."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Quyền tham gia quản lý nhà nước và xã hội."
+            }
+        ]
+    },
+    {
+        "question": "Câu 7. Điền vào chỗ trống sau: “Mục đích của quyền khiếu nại là nhằm…….. quyền và lợi ích hợp pháp của người khiếu nại”",
+        "answer": [
+            {
+                "value": "A. phục hồi "
+            },
+            {
+                "value": "B. bù đắp"
+            },
+            {
+                "value": "C. chia sẻ"
+            },
+            {
+                "value": "D. khôi phục "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. khôi phục "
+            }
+        ]
+    },
+    {
+        "question": "Câu 8. Nhận định nào sau đây là sai khi xác định người không được thực hiện quyền bầu cử?",
+        "answer": [
+            {
+                "value": "A. Người đang chấp hành hình phạt tù."
+            },
+            {
+                "value": "B. Người bị nghi ngờ phạm tội."
+            },
+            {
+                "value": "C. Người bị tước quyền bầu cử theo bản án của Toà án."
+            },
+            {
+                "value": "D. Người mất năng lực hành vi dân sự."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Người bị nghi ngờ phạm tội."
+            }
+        ]
+    },
+    {
+        "question": "Câu 9. Bạn A có chị bị bệnh tâm thần nhưng lại thích đi bầu cử. A khẳng định chị mình được đi bầu cử, vì ai đủ 18 tuổi trở lên cũng có quyền bầu cử. Nếu là bạn của A em sẽ chọn cách ứng xử nào sau đây cho phù hợp?",
+        "answer": [
+            {
+                "value": "A. Đồng tình với ý kiến của A."
+            },
+            {
+                "value": "B. Nói để A biết chị của bạn mất năng lực hành vi dân sự nên không được bầu cử."
+            },
+            {
+                "value": "C. Khuyên A đi bầu cử hộ để bảo vệ quyền lợi cho chị."
+            },
+            {
+                "value": "D. Lựa lời khuyên chị của A ở nhà."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Nói để A biết chị của bạn mất năng lực hành vi dân sự nên không được bầu cử."
+            }
+        ]
+    },
+    {
+        "question": "Câu 10. Phát hiện một nhóm thanh niên bẻ khóa lấy trộm tài sản của một nhà vắng chủ, Q đã báo cho cơ quan công an biết. Hành vi này thể hiện Q đã thực hiện",
+        "answer": [
+            {
+                "value": "A. quyền khiếu nại."
+            },
+            {
+                "value": "B. quyền dân chủ."
+            },
+            {
+                "value": "C. quyền nhân thân."
+            },
+            {
+                "value": "D. quyền tố cáo."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. quyền tố cáo."
+            }
+        ]
+    },
+    {
+        "question": "Câu 11. Tham gia thảo luận, góp ý kiến xây dựng các văn bản pháp luật quan trọng, liên quan đến quyền và lợi ích cơ bản của công dân là việc thực hiện quyền tham gia quản lý nhà nước ở phạm vi nào?",
+        "answer": [
+            {
+                "value": "A. Cả nước."
+            },
+            {
+                "value": "B. Cơ sở."
+            },
+            {
+                "value": "C. Địa phương."
+            },
+            {
+                "value": "D. Cơ sở và địa phương."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Cả nước."
+            }
+        ]
+    },
+    {
+        "question": "Câu 12. Điều 58, 59 Luật bầu cử Đại biểu Quốc hội quy định mỗi cử tri có quyền bỏ mấy phiếu bầu?",
+        "answer": [
+            {
+                "value": "A. Một."
+            },
+            {
+                "value": "B. Hai."
+            },
+            {
+                "value": "C. Ba. "
+            },
+            {
+                "value": "          D. Bốn."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Một."
+            }
+        ]
+    },
+    {
+        "question": "Câu 13. Điền vào chỗ trống: “Mọi hành vi lạm dụng quyền dân chủ, vi phạm pháp luật, gây thiệt hại đến quyền và lợi ích hợp pháp của người khác, xâm phạm trật tự, an toàn xã hội, lợi ích của Nhà nước đều bị…”",
+        "answer": [
+            {
+                "value": "A. khiển trách trước pháp luật."
+            },
+            {
+                "value": "B. xử lý nghiêm minh theo pháp luật."
+            },
+            {
+                "value": "C. phê bình trước đơn vị công tác."
+            },
+            {
+                "value": "D. phê bình ở địa phương nơi cư trú."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. xử lý nghiêm minh theo pháp luật."
+            }
+        ]
+    },
+    {
+        "question": "Câu 14. Thực hiện quyền dân chủ của công dân nghĩa là gì?",
+        "answer": [
+            {
+                "value": "A. Thực thi quyền của người làm chủ nhà nước và xã hội."
+            },
+            {
+                "value": "B. Thực hiện quyền của người làm chủ nhà nước."
+            },
+            {
+                "value": "C. Thực thi quyền của người làm chủ xã hội."
+            },
+            {
+                "value": "D. Thực hiện quyền của người làm chủ cơ quan công tác."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Thực thi quyền của người làm chủ nhà nước và xã hội."
+            }
+        ]
+    },
+    {
+        "question": "Câu 15. Quyền khiếu nại, tố cáo của công dân là quyền dân chủ quan trọng trong đời sống của công dân. Nó thể hiện mối quan hệ gì?",
+        "answer": [
+            {
+                "value": "A. Nhà nước và pháp luật."
+            },
+            {
+                "value": "B. Nhà nước và công dân."
+            },
+            {
+                "value": "C. Công dân và pháp luật."
+            },
+            {
+                "value": "D. Nhà nước và chính quyền địa phương."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Nhà nước và công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 16. Quyền bầu cử của công dân được thực hiện theo nguyên tắc nào?",
+        "answer": [
+            {
+                "value": "A. Phổ thông, bình đẳng, trực tiếp, bỏ phiếu kín."
+            },
+            {
+                "value": "B. Phổ thông, gián tiếp, bình đẳng."
+            },
+            {
+                "value": "C. Trực tiếp, bỏ phiếu kín."
+            },
+            {
+                "value": "D. Trực tiếp, bình đẳng, phổ thông."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Phổ thông, bình đẳng, trực tiếp, bỏ phiếu kín."
+            }
+        ]
+    },
+    {
+        "question": "Câu 17. Đâu là nhận định đúng nhất về quyền ứng cử của công dân?",
+        "answer": [
+            {
+                "value": "A. Công dân từ đủ 18 tuổi trở lên, có đủ các điều kiện mà pháp luật quy định, có thể được nhiều nơi giới thiệu ứng cử đại biểu Quốc hội."
+            },
+            {
+                "value": "B. Công dân có quyền tự mình ra ứng cử đại biểu Quốc hội ở nhiều nơi."
+            },
+            {
+                "value": "C. Công dân có đủ các điều kiện pháp luật quy định có quyền ứng cử đại biểu Quốc hội ở nhiều nơi."
+            },
+            {
+                "value": "D. Công dân có đủ các điều kiện pháp luật quy định có quyền ứng cử đại biểu Quốc hội ở một nơi."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Công dân có đủ các điều kiện pháp luật quy định có quyền ứng cử đại biểu Quốc hội ở một nơi."
+            }
+        ]
+    },
+    {
+        "question": "Câu 18. Quyền tham gia quản lý nhà nước và xã hội là ",
+        "answer": [
+            {
+                "value": "A. quyền của tất cả mọi người dân sinh sống trên lãnh thổ Việt Nam."
+            },
+            {
+                "value": "B. quyền và trách nhiệm của mọi công dân. "
+            },
+            {
+                "value": "C. quyền của công dân từ đủ 18 tuổi trở lên."
+            },
+            {
+                "value": "D. quyền và trách nhiệm của những người đứng đầu các cơ quan trong bộ máy nhà nước."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. quyền và trách nhiệm của mọi công dân. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 19. Đâu là nhận định đúng về quyền khiếu nại của công dân?",
+        "answer": [
+            {
+                "value": "A. Cơ quan, tổ chức có quyền khiếu nại với cơ quan nhà nước về những hành vi vi phạm pháp luật của cơ quan, tổ chức và công dân, đe doạ, gây thiệt hại đến lợi ích hợp pháp của Nhà nước, quyền và lợi ích hợp pháp của công dân."
+            },
+            {
+                "value": "B. Công dân có quyền khiếu nại với cơ quan nhà nước về những quyết định trái pháp luật của cơ quan, tổ chức xâm phạm đến quyền, lợi ích hợp pháp của công dân."
+            },
+            {
+                "value": "C. Công dân có quyền đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền xem xét lại quyết định hành chính, hành vi hành chính khi có căn cứ cho rằng quyết định hoặc hành vi hành chính đó là trái pháp luật, xâm phạm đến quyền, lợi ích hợp pháp của mình."
+            },
+            {
+                "value": "D. Cơ quan, tổ chức có quyền khiếu nại với cơ quan nhà nước có thẩm quyền về những hành vi vi phạm pháp luật gây thiệt hại hoặc đe doạ gây thiệt hại đến quyền, lợi ích của cơ quan, tổ chức và công dân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Công dân có quyền đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền xem xét lại quyết định hành chính, hành vi hành chính khi có căn cứ cho rằng quyết định hoặc hành vi hành chính đó là trái pháp luật, xâm phạm đến quyền, lợi ích hợp pháp của mình."
+            }
+        ]
+    },
+    {
+        "question": "Câu 20. Đâu là nhận định đúng về quyền tố cáo của công dân?",
+        "answer": [
+            {
+                "value": "A. Công dân có quyền báo cho bất kỳ cơ quan nhà nước nào về hành vi vi phạm pháp luật của bất kỳ cơ quan, tổ chức, cá nhân nào."
+            },
+            {
+                "value": "B. Công dân có quyền báo cho cơ quan công an về hành vi vi phạm pháp luật mà mình được biết."
+            },
+            {
+                "value": "C. Công dân có quyền báo cho cơ quan, tổ chức, cá nhân có thẩm quyền về hành vi vi phạm pháp luật của bất cứ cơ quan, tổ chức, cá nhân nào gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích Nhà nước, đến quyền và lợi ích hợp pháp của công dân."
+            },
+            {
+                "value": "D. Công dân có quyền báo cho Ủy ban nhân dân nơi cư trú về hành vi vi phạm pháp luật mà mình được biết."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Công dân có quyền báo cho cơ quan, tổ chức, cá nhân có thẩm quyền về hành vi vi phạm pháp luật của bất cứ cơ quan, tổ chức, cá nhân nào gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích Nhà nước, đến quyền và lợi ích hợp pháp của công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 21. Ngoài việc tự ứng cử thì quyền ứng cử của công dân còn được thể hiện bằng cách",
+        "answer": [
+            {
+                "value": "A. được giới thiệu."
+            },
+            {
+                "value": "B. tự bầu cử."
+            },
+            {
+                "value": "C. tự giới thiệu."
+            },
+            {
+                "value": "D. tự đề cử."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. được giới thiệu."
+            }
+        ]
+    },
+    {
+        "question": "Câu 22. Trong quá trình bầu cử, việc mỗi lá phiếu đều có giá trị như nhau thể hiện nguyên tắc nào trong bầu cử?",
+        "answer": [
+            {
+                "value": "A. Bình đẳng."
+            },
+            {
+                "value": "B. Trực tiếp."
+            },
+            {
+                "value": "C. Bỏ phiếu kín."
+            },
+            {
+                "value": "D. Phổ thông."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Bình đẳng."
+            }
+        ]
+    },
+    {
+        "question": "Câu 23. Trong quy định của pháp luật về quyền tố cáo, đối tượng có hành vi vi phạm pháp luật mà công dân có thể tố cáo là",
+        "answer": [
+            {
+                "value": "A. bất cứ cơ quan, tổ chức, cá nhân nào"
+            },
+            {
+                "value": "B. cơ quan nhà nước có thẩm quyền"
+            },
+            {
+                "value": "C. cá nhân"
+            },
+            {
+                "value": "D. tổ chức"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. bất cứ cơ quan, tổ chức, cá nhân nào"
+            }
+        ]
+    },
+    {
+        "question": "Câu 24. Việc nhờ người thân đi bỏ phiếu hộ trong cuộc bỏ phiếu bầu đại biểu Quốc hội là vi phạm nguyên tắc gì theo Luật Bầu cử?",
+        "answer": [
+            {
+                "value": "A. Bình đẳng"
+            },
+            {
+                "value": "B. Trực tiếp"
+            },
+            {
+                "value": "C. Bỏ phiếu kín"
+            },
+            {
+                "value": "D. Phổ thông"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Trực tiếp"
+            }
+        ]
+    },
+    {
+        "question": "Câu 25. Theo quy định của Pháp luật nước ta, người có quyền tham gia quản lý Nhà nước và xã hội là",
+        "answer": [
+            {
+                "value": "A. những công dân đủ 21 tuổi trở lên"
+            },
+            {
+                "value": "B. những cán bộ, công chức Nhà nước"
+            },
+            {
+                "value": "C. những người đứng đầu các cơ quan trong bộ máy Nhà nước"
+            },
+            {
+                "value": "D. mọi công dân Việt Nam"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. mọi công dân Việt Nam"
+            }
+        ]
+    },
+    {
+        "question": "Câu 26. Trong quá trình bầu cử, việc cử tri không thể tự mình viết được phiếu bầu thì nhờ người khác viết hộ nhưng phải tự mình bỏ phiếu đã thể hiện nguyên tắc gì trong bầu cử?",
+        "answer": [
+            {
+                "value": "A. Bình đẳng"
+            },
+            {
+                "value": "B. Bỏ phiếu kín"
+            },
+            {
+                "value": "C. Trực tiếp"
+            },
+            {
+                "value": "D. Phổ thông"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Trực tiếp"
+            }
+        ]
+    },
+    {
+        "question": "Câu 27. Mục đích của khiếu nại là gì?",
+        "answer": [
+            {
+                "value": "A. Khôi phục quyền và lợi ích hợp pháp của công dân."
+            },
+            {
+                "value": "B. Khôi phục nhân phẩm và danh dự của công dân."
+            },
+            {
+                "value": "C. Phát hiện, ngăn chặn việc làm trái pháp luật."
+            },
+            {
+                "value": "D. Phát hiện, ngăn ngừa việc làm trái pháp luật"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Khôi phục quyền và lợi ích hợp pháp của công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 28. Trong quá trình bầu cử, việc tổ bầu cử mang hòm phiếu phụ và phiếu bầu đến chỗ ở của cử tri để cử tri nhận phiếu và bầu đã thể hiện nguyên tắc gì trong bầu cử?",
+        "answer": [
+            {
+                "value": "A. Bỏ phiếu kín"
+            },
+            {
+                "value": "B. Trực tiếp"
+            },
+            {
+                "value": "C. Phổ thông"
+            },
+            {
+                "value": "D. Bình đẳng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Trực tiếp"
+            }
+        ]
+    },
+    {
+        "question": "Câu 29. Để nhân dân thực thi dân chủ trực tiếp và dân chủ gián tiếp, trước tiên Nhà nước phải ghi nhận các quyền dân chủ của công dân bằng",
+        "answer": [
+            {
+                "value": "A. Hiến pháp."
+            },
+            {
+                "value": "B. pháp luật."
+            },
+            {
+                "value": "C. quy định."
+            },
+            {
+                "value": "D. quy tắc."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Hiến pháp."
+            }
+        ]
+    },
+    {
+        "question": "Câu 30. Mục đích của tố cáo là",
+        "answer": [
+            {
+                "value": "A. khôi phục quyền và lợi ích của công dân."
+            },
+            {
+                "value": "B. xâm hại đến quyền tự do của công dân."
+            },
+            {
+                "value": "C. khôi phục danh dự."
+            },
+            {
+                "value": "D. phát hiện, ngăn chặn việc làm trái pháp luật."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. phát hiện, ngăn chặn việc làm trái pháp luật."
+            }
+        ]
+    },
+    {
+        "question": "Câu 31. Công dân được bày tỏ quan điểm của mình về các vấn đề chính trị, kinh tế, văn hóa, xã hội của đất nước thông qua quyền nào dưới đây?",
+        "answer": [
+            {
+                "value": "A. Quyền tự do ngôn luận."
+            },
+            {
+                "value": "B. Quyền bầu cử, ứng cử."
+            },
+            {
+                "value": "C. Quyền khiếu nại."
+            },
+            {
+                "value": "D. Quyền tố cáo."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Quyền tự do ngôn luận."
+            }
+        ]
+    },
+    {
+        "question": "Câu 32. Người thuộc trường hợp nào dưới đây không được thực hiện quyền bầu cử?",
+        "answer": [
+            {
+                "value": "A. Đang điều trị ở bệnh viện."
+            },
+            {
+                "value": "B. Đang đi công tác ở biên giới, hải đảo."
+            },
+            {
+                "value": "C. Đang thi hành án phạt tù."
+            },
+            {
+                "value": "D. Đang bị nghi ngờ vi phạm pháp luật."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Đang thi hành án phạt tù."
+            }
+        ]
+    },
+    {
+        "question": "Câu 33. Nhân viên tổ bầu cử gợi ý bỏ phiếu cho ứng cử viên là vi phạm quyền nào dưới đây của công dân?",
+        "answer": [
+            {
+                "value": "A. Quyền ứng cử."
+            },
+            {
+                "value": "B. Quyền bầu cử."
+            },
+            {
+                "value": "C. Quyền tham gia quản lý Nhà nước và xã hội."
+            },
+            {
+                "value": "D. Quyền tự do ngôn luận."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Quyền bầu cử."
+            }
+        ]
+    },
+    {
+        "question": "Câu 34. Chị M bị buộc thôi việc trong thời gian đang nuôi con 8 tháng tuổi. Chị M cần căn cứ vào quyền nào để bảo vệ mình?",
+        "answer": [
+            {
+                "value": "A. Quyền tố cáo."
+            },
+            {
+                "value": "B. Quyền bình đẳng."
+            },
+            {
+                "value": "C. Quyền khiếu nại."
+            },
+            {
+                "value": "D. Quyền dân chủ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quyền khiếu nại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 35. Khi thấy kẻ gian đột nhập vào nhà hàng xóm, T đã báo ngay cho cơ quan công an. T đã thực hiện quyền nào của công dân?",
+        "answer": [
+            {
+                "value": "A. Quyền tố cáo."
+            },
+            {
+                "value": "B. Quyền khiếu nại."
+            },
+            {
+                "value": "C. Quyền tự do ngôn luận."
+            },
+            {
+                "value": "D. Quyền nhân thân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Quyền tố cáo."
+            }
+        ]
+    },
+    {
+        "question": "Câu 36. Điều kiện nào dưới đây là đúng về tự ứng cử đại biểu Quốc hội và Hội đồng nhân dân các cấp?",
+        "answer": [
+            {
+                "value": "A. Mọi công dân đủ 18 tuổi, không vi phạm pháp luật."
+            },
+            {
+                "value": "B. Mọi công dân đủ 20 tuổi trở lên."
+            },
+            {
+                "value": "C. Mọi công dân đủ 21 tuổi trở lên, có năng lực và tín nhiệm với cử tri."
+            },
+            {
+                "value": "D. Mọi công dân Việt Nam."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Mọi công dân đủ 21 tuổi trở lên, có năng lực và tín nhiệm với cử tri."
+            }
+        ]
+    },
+    {
+        "question": "Câu 37. Học sinh lớp 12A đang thảo luận kế hoạch tổ chức liên hoan chia tay sau khi tốt nghiệp phổ thông. Bạn nào cũng hăng hái phát biểu ý kiến. Đây là việc các bạn đang thực hiện",
+        "answer": [
+            {
+                "value": "quyền tự do của học sinh trong lớp học."
+            },
+            {
+                "value": "quyền dân chủ trực tiếp."
+            },
+            {
+                "value": "C. quyền bình đẳng trong hội họp."
+            },
+            {
+                "value": "D. quyền dân chủ gián tiếp."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "quyền dân chủ trực tiếp."
+            }
+        ]
+    },
+    {
+        "question": "Câu 38. Trong các quyền sau, quyền nào không thuộc hình thức dân chủ trực tiếp ở nước ta?",
+        "answer": [
+            {
+                "value": "A. Quyền tham gia quản lí nhà nước và xã hội."
+            },
+            {
+                "value": "B. Quyền khiếu nại."
+            },
+            {
+                "value": "C. Quyền tố cáo."
+            },
+            {
+                "value": "D. Quyền bầu cử, ứng cử. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "D. Quyền bầu cử, ứng cử. "
+            }
+        ]
+    },
+    {
+        "question": "Câu 39. Ở phạm vi cơ sở, dân chủ trực tiếp của công dân được thực hiện theo cơ chế nào?",
+        "answer": [
+            {
+                "value": "A. “Dân biết, dân bàn, dân làm, dân kiểm tra”."
+            },
+            {
+                "value": "B. “Dân biết, dân cần, dân làm, dân kiểm tra”."
+            },
+            {
+                "value": "C. “Phổ thông, bình đẳng, dân chủ, trực tiếp”."
+            },
+            {
+                "value": "D. “Phổ thông, bình đẳng, trực tiếp và gián tiếp”."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. “Dân biết, dân bàn, dân làm, dân kiểm tra”."
+            }
+        ]
+    },
+    {
+        "question": "Câu 40.  Công dân được báo cho cơ quan, tổ chức, cá nhân có thẩm quyền biết về hành vi vi phạm pháp luật của bất cứ cơ quan, tổ chức, cá nhân nào. Đây là nội dung thuộc quyền gì dưới đây?",
+        "answer": [
+            {
+                "value": "A. Quyền bầu cử."
+            },
+            {
+                "value": "B. Quyền khiếu nại."
+            },
+            {
+                "value": "C. Quyền tố cáo."
+            },
+            {
+                "value": "D. Quyền góp ý."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quyền tố cáo."
+            }
+        ]
+    },
+    {
+        "question": "Câu 41. Theo nguyên tắc nào thì mọi công dân từ đủ 18 tuổi trở lên đều được tham gia bầu cử, trừ trường hợp đặc biệt bị pháp luật cấm?",
+        "answer": [
+            {
+                "value": "A. Bình đẳng."
+            },
+            {
+                "value": "B. Trực tiếp."
+            },
+            {
+                "value": "C. Phổ thông."
+            },
+            {
+                "value": "D. Bỏ phiếu kín."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Phổ thông."
+            }
+        ]
+    },
+    {
+        "question": "Câu 42. Nếu hành vi bị tố cáo có dấu hiệu tội phạm hình sự thì người giải quyết tố cáo là ai? ",
+        "answer": [
+            {
+                "value": "A. Cơ quan tố tụng (điều tra, kiểm sát, tòa án)."
+            },
+            {
+                "value": "B. Người đứng đầu cơ quan, tổ chức, có thẩm quyền quản lý người bị tố cáo."
+            },
+            {
+                "value": "C. Người đứng đầu cơ quan, tổ chức cấp trên của cơ quan, tổ chức có người bị tố cáo."
+            },
+            {
+                "value": "D. Chánh Thanh tra các cấp, Tổng thanh tra Chính phủ. "
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Cơ quan tố tụng (điều tra, kiểm sát, tòa án)."
+            }
+        ]
+    },
+    {
+        "question": "Câu 43. Nếu người khiếu nại không đồng ý với quyết định giải quyết khiếu nại lần hai, thì trong thời hạn do luật định người đó có quyền",
+        "answer": [
+            {
+                "value": "A. không kiện nữa."
+            },
+            {
+                "value": "B. khởi kiện ra Tòa án Nhân dân."
+            },
+            {
+                "value": "C. khởi kiện lên cấp cao hơn."
+            },
+            {
+                "value": "D. khởi kiện ra Trung ương"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. khởi kiện ra Tòa án Nhân dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 44. Quyền khiếu nại, tố cáo là công cụ để nhân dân",
+        "answer": [
+            {
+                "value": "A. giám sát các cơ quan chức năng."
+            },
+            {
+                "value": "B. tham gia quản lí nhà nước và xã hội."
+            },
+            {
+                "value": "C. bảo vệ quyền và lợi ích hợp pháp của mình."
+            },
+            {
+                "value": "D. thực hiện quyền dân chủ."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. bảo vệ quyền và lợi ích hợp pháp của mình."
+            }
+        ]
+    },
+    {
+        "question": "Câu 45. Trong giấy phép kinh doanh, chị T chỉ đăng ký kinh doanh mặt hàng quần áo, để tăng thêm thu nhập chị T kinh doanh thêm mặt hàng giày dép. Anh B kinh doanh giày dép đối diện đã báo ngay cho công an. Anh B đã thực hiện quyền nào của công dân?",
+        "answer": [
+            {
+                "value": "A. Quyền tự do kinh doanh."
+            },
+            {
+                "value": "B. Quyền khiếu nại."
+            },
+            {
+                "value": "C. Quyền tố cáo."
+            },
+            {
+                "value": "D. Quyền bảo vệ và phát triển kinh tế."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quyền tố cáo."
+            }
+        ]
+    },
+    {
+        "question": "Câu 46. Quyền ứng cử của công dân được thực hiện bằng hai con đường",
+        "answer": [
+            {
+                "value": "A. tự ứng cử và được giới thiệu ứng cử."
+            },
+            {
+                "value": "B. được đề cử và được giới thiệu ứng cử."
+            },
+            {
+                "value": "C. tự đề cử và được đề cử tham gia."
+            },
+            {
+                "value": "D. tự giới thiệu và được giới thiệu ứng cử."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. tự ứng cử và được giới thiệu ứng cử."
+            }
+        ]
+    },
+    {
+        "question": "Câu 47. Gia đình ông A nhận được quyết định của xã về việc thu hồi một phần đất ở của gia đình để làm đường giao thông. Gia đình ông A không đồng ý nhưng không biết phải làm gì. Em hãy giúp ông A lựa chọn cách làm phù hợp với pháp luật để bảo vệ quyền và lợi ích hợp pháp của mình.",
+        "answer": [
+            {
+                "value": "A. Thuê luật sư để giải quyết."
+            },
+            {
+                "value": "B. Phải chấp nhận vì đó là quyết định của xã, không thể thay đổi."
+            },
+            {
+                "value": "C. Viết đơn khiếu nại tới Chủ tịch Uỷ ban Nhân dân xã."
+            },
+            {
+                "value": "D. Viết đơn khiếu nại gởi tới chủ tịch Uỷ ban nhân dân huyện."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Viết đơn khiếu nại tới Chủ tịch Uỷ ban Nhân dân xã."
+            }
+        ]
+    },
+    {
+        "question": "Câu 48. Bạn A học lớp 12 ở trung tâm giáo dục thường xuyên vào ban đêm . Bạn A đã sử dụng quyền học tập nào?",
+        "answer": [
+            {
+                "value": "A. Quyền được học bất cứ ngành nghề nào.                "
+            },
+            {
+                "value": "B. Quyền học không hạn chế."
+            },
+            {
+                "value": "C. Học thường xuyên, học suốt đời.                              "
+            },
+            {
+                "value": "D.Quyền bình đẳng về cơ hội học tập."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Học thường xuyên, học suốt đời.                              "
+            }
+        ]
+    },
+    {
+        "question": "Câu 49. Anh T thành công trong việc tự chế biến máy cắt cỏ thành máy cắt lúa. Anh T đã thực hiện tốt quyền nào dưới đây?",
+        "answer": [
+            {
+                "value": "A. Quyền sáng tạo."
+            },
+            {
+                "value": "B. Quyền phát triển."
+            },
+            {
+                "value": "C. Quyền sở hữu.      "
+            },
+            {
+                "value": "D. Quyền tác giả."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Quyền sáng tạo."
+            }
+        ]
+    },
+    {
+        "question": "Câu 50. Anh A nhìn thấy một người phụ nữ lạ bắt cóc trẻ con trong khu phố. Anh A gọi điện báo cho Công an Phường. Trường hợp này A đã thực hiện quyền nào của công dân?",
+        "answer": [
+            {
+                "value": "A. Quyền tự do ngôn luận."
+            },
+            {
+                "value": "B. Quyền khiếu nại."
+            },
+            {
+                "value": "C. Quyền tố cáo."
+            },
+            {
+                "value": "D. Quyền bình đẳng."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Quyền tố cáo."
+            }
+        ]
+    },
+    {
+        "question": "Câu 51. Nguyên tắc nào dưới đây không phải là nguyên tắc bầu cử?",
+        "answer": [
+            {
+                "value": "A. Trực tiếp."
+            },
+            {
+                "value": "B. Công khai."
+            },
+            {
+                "value": "C. Phổ thông."
+            },
+            {
+                "value": "D. Bình đẳng."
+            },
+            {
+                "value": "."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Công khai."
+            }
+        ]
+    },
+    {
+        "question": "Câu 52. Cơ quan đại biểu của dân là cơ quan nào?",
+        "answer": [
+            {
+                "value": "A. Quốc hội và hội và hội đồng Nhân dân các cấp."
+            },
+            {
+                "value": "B. Quốc hội và Ủy ban Nhân dân các cấp."
+            },
+            {
+                "value": "C. Hội đồng Nhân dân các cấp và Ủy ban Nhân dân các cấp."
+            },
+            {
+                "value": "D. Ủy ban Nhân dân các cấp."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Quốc hội và hội và hội đồng Nhân dân các cấp."
+            }
+        ]
+    },
+    {
+        "question": "Câu 53. Quyền khiếu nại, tố cáo là công cụ thực hiện",
+        "answer": [
+            {
+                "value": "A. dân chủ gián tiếp để bảo vệ quyền, lợi ích hợp pháp của công dân."
+            },
+            {
+                "value": "B. dân chủ trực tiếp để bảo vệ mọi lợi ích của công dân."
+            },
+            {
+                "value": "C. dân chủ trực tiếp để bảo vệ quyền, lợi ích hợp pháp của công dân."
+            },
+            {
+                "value": "D. công bằng xã hội cho mọi công dân."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. dân chủ trực tiếp để bảo vệ quyền, lợi ích hợp pháp của công dân."
+            }
+        ]
+    },
+    {
+        "question": "Câu 54. Người giải quyết khiếu nại lần đầu là",
+        "answer": [
+            {
+                "value": "A. người trực tiếp gửi quyết định hành chính bị khiếu nại."
+            },
+            {
+                "value": "B. người đứng đầu cơ quan hành chính có quyết định hành chính, hành vi hành chính bị khiếu nại."
+            },
+            {
+                "value": "C. người tiếp nhận đơn khiếu nại."
+            },
+            {
+                "value": "D. tất cả những người trong cơ quan có quyết định hành chính bị khiếu nại."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. người đứng đầu cơ quan hành chính có quyết định hành chính, hành vi hành chính bị khiếu nại."
+            }
+        ]
+    },
+    {
+        "question": "Câu 55. Người giải quyết tố cáo lần đầu là",
+        "answer": [
+            {
+                "value": "A. người tiếp nhận đơn tố cáo."
+            },
+            {
+                "value": "B. người đứng đầu các cơ quan có trách nhiệm giải quyết tố cáo ở các cấp."
+            },
+            {
+                "value": "C. người đứng đầu cơ quan, tổ chức, có thẩm quyền quản lí người bị tố cáo."
+            },
+            {
+                "value": "D. tất cả những người có trách nhiệm giải quyết tố cáo."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. người đứng đầu cơ quan, tổ chức, có thẩm quyền quản lí người bị tố cáo."
+            }
+        ]
+    },
+    {
+        "question": "Câu 56. Khẳng định nào dưới đây là đúng với quyền bầu cử của công dân?",
+        "answer": [
+            {
+                "value": "A. Những người đủ 18 tuổi trở lên, trừ trường hợp pháp luật quy định không được bầu cử."
+            },
+            {
+                "value": "B. Những người đủ 19 tuổi trở lên đều có quyền bầu cử."
+            },
+            {
+                "value": "C. Những người đủ 20 tuổi trở lên đều có quyền bầu cử."
+            },
+            {
+                "value": "D. Những người đủ 21 tuổi trở lên đều có quyền bầu cử."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Những người đủ 18 tuổi trở lên, trừ trường hợp pháp luật quy định không được bầu cử."
+            }
+        ]
+    },
+    {
+        "question": "Câu 57. Trường hợp thực hiện bầu cử nào sau đây đúng với quy định của pháp luật.",
+        "answer": [
+            {
+                "value": "A. Cha Mẹ nhờ con đã thành niên đi bỏ phiếu bầu cử hộ."
+            },
+            {
+                "value": "B. Không tự viết được, nhờ người viết phiếu bầu và tự bỏ vào hòm phiếu kín."
+            },
+            {
+                "value": "C. Vận động bạn bè, người thân bỏ phiếu cho một người."
+            },
+            {
+                "value": "D. Mang phiếu về nhà, suy nghĩ rồi quay lại điểm bầu cử để bỏ phiếu."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Không tự viết được, nhờ người viết phiếu bầu và tự bỏ vào hòm phiếu kín."
+            }
+        ]
+    },
+    {
+        "question": "Câu 58. Nhận định nào dưới đây không đúng: Công dân không được thực hiện quyền bầu cử khi",
+        "answer": [
+            {
+                "value": "A. đang chấp hành hình phạt tù."
+            },
+            {
+                "value": "B. đang bị tạm giam."
+            },
+            {
+                "value": "C. đang điều trị ở bệnh viện."
+            },
+            {
+                "value": "D. mất năng lực hành vi dân sự."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. đang điều trị ở bệnh viện."
+            }
+        ]
+    },
+    {
+        "question": "Câu 59. Trường hợp nào sau đây được sử dụng quyền khiếu nại?",
+        "answer": [
+            {
+                "value": "A. Ông B tình cờ chứng kiến một vụ đưa tiền hối lộ."
+            },
+            {
+                "value": "B. Chị Y nhận được giấy báo đền bù đất đai thấp hơn các nhà hàng xóm."
+            },
+            {
+                "value": "C. Anh H phát hiện một nhóm người đang mua bán ma túy trái phép."
+            },
+            {
+                "value": "D. Chị M phát hiện một chủ cơ sở kinh doanh đánh đập một lao động."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. Chị Y nhận được giấy báo đền bù đất đai thấp hơn các nhà hàng xóm."
+            }
+        ]
+    },
+    {
+        "question": "Câu 60.  Sau khi tham gia bầu cử Quốc hội, Hội đồng nhân dân các cấp, N hãnh diện khoe với bạn việc mình không chỉ được đi bầu cử mà còn được bố mẹ nhờ đi bầu cử thay. Theo em, N đã vi phạm nguyên tắc bầu cử nào sau đây?",
+        "answer": [
+            {
+                "value": "A. phổ thông."
+            },
+            {
+                "value": "B. bình đẳng."
+            },
+            {
+                "value": "C. trực tiếp."
+            },
+            {
+                "value": "D. bỏ phiếu kín."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. trực tiếp."
+            }
+        ]
+    }
+]

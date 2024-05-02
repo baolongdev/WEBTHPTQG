@@ -1,0 +1,617 @@
+[
+    {
+        "question": "Câu 1: Một hệ thống thông tin và viễn thông gồm ?",
+        "answer": [
+            {
+                "value": "phần phát và phần thu thông tin."
+            },
+            {
+                "value": "phát và truyền thông tin."
+            },
+            {
+                "value": "phần thu thông tin."
+            },
+            {
+                "value": "phát thông tin."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "phần phát và phần thu thông tin."
+            }
+        ]
+    },
+    {
+        "question": "Câu 2: Sơ đồ khối của hệ thống thông tin và viễn thông phần thu thông tin gồm?",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "3 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "5 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 3: Vô tuyến truyền hình và truyền hình cáp khác nhau ở chỗ nào?",
+        "answer": [
+            {
+                "value": "Môi trường truyền tin"
+            },
+            {
+                "value": "Mã hoá tin"
+            },
+            {
+                "value": "Xử lý tin"
+            },
+            {
+                "value": "Nhận thông tin"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Môi trường truyền tin"
+            }
+        ]
+    },
+    {
+        "question": "Câu 4: Tín hiệu vào và ra ở mạch khuếch đại công suất trong máy tăng âm là tín hiệu nà",
+        "answer": [
+            {
+                "value": "Tín hiệu cao tần"
+            },
+            {
+                "value": "Tín hiệu trung tần"
+            },
+            {
+                "value": "Tín hiệu âm tần"
+            },
+            {
+                "value": "Tín hiệu ngoại sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tín hiệu âm tần"
+            }
+        ]
+    },
+    {
+        "question": "Câu 5: Các khối cơ bản của máy tăng âm gồm?",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "5 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "7 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 6: Máy tăng âm thường được dùng để làm gì?",
+        "answer": [
+            {
+                "value": "Khuếch đại tín hiệu âm thanh"
+            },
+            {
+                "value": "Biến đổi tần số"
+            },
+            {
+                "value": "Biến đổi điện áp"
+            },
+            {
+                "value": "Biến đổi dòng điện"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Khuếch đại tín hiệu âm thanh"
+            }
+        ]
+    },
+    {
+        "question": "Câu 7: Các khối cơ bản của máy thu thanh AM gồm?",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "8 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "5 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "4 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 8: Căn cứ vào đâu để phân biệt máy thu thanh AM và máy thu thanh FM?",
+        "answer": [
+            {
+                "value": "Xử lý tín hiệu"
+            },
+            {
+                "value": "Mã hóa tín hiệu"
+            },
+            {
+                "value": "Truyền tín hiệu"
+            },
+            {
+                "value": "Điều chế tín hiệu"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Điều chế tín hiệu"
+            }
+        ]
+    },
+    {
+        "question": "Câu 9: Trong máy thu hình, việc xử lí âm thanh, hình ảnh?",
+        "answer": [
+            {
+                "value": "Được xử lí độc lập"
+            },
+            {
+                "value": "Được xử lí chung"
+            },
+            {
+                "value": "Tuỳ thuộc vào máy thu"
+            },
+            {
+                "value": "Tuỳ thuộc vào máy phát"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Được xử lí độc lập"
+            }
+        ]
+    },
+    {
+        "question": "Câu 10: Các khối cơ bản của máy thu hình gồm?",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "8 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "6 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "5 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "7 khối",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 11: Lưới điện quốc gia có chức năng?",
+        "answer": [
+            {
+                "value": "Truyền tải và phân phối điện năng từ các nhà máy phát điện đến nơi tiêu thụ."
+            },
+            {
+                "value": "Gồm: các đường dây dẫn, các trạm điện liên kết lại."
+            },
+            {
+                "value": "Làm tăng áp"
+            },
+            {
+                "value": "Hạ áp"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Truyền tải và phân phối điện năng từ các nhà máy phát điện đến nơi tiêu thụ."
+            }
+        ]
+    },
+    {
+        "question": "Câu 12: Hệ thống điện quốc gia gồm?",
+        "answer": [
+            {
+                "value": "Nguồn điện, lưới điện và các hộ tiêu thụ"
+            },
+            {
+                "value": "Nguồn điện, đường dây và các hộ tiêu thụ"
+            },
+            {
+                "value": "Nguồn điện, các trạm biến áp và các hộ tiêu thụ"
+            },
+            {
+                "value": "Nguồn điện, các trạm đóng cắt và các hộ tiêu thụ"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Nguồn điện, lưới điện và các hộ tiêu thụ"
+            }
+        ]
+    },
+    {
+        "question": "Câu 13: Lưới điện truyền tải có cấp điện áp?",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "66KV",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "35KV",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "60KV",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "22KV",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 14: Lưới điện phân phối có cấp điện áp?",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "35KV",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "66KV",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "110KV",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "220KV",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 15: Máy phát điện xoay chiều là máy điện biến đổi?",
+        "answer": [
+            {
+                "value": "Cơ năng thành điện năng"
+            },
+            {
+                "value": "Điện năng thành cơ năng"
+            },
+            {
+                "value": "Nhiệt năng thành cơ năng"
+            },
+            {
+                "value": "Quang năm thành cơ năng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Cơ năng thành điện năng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 16: Đặc điểm của tín hiệu vào và ra ở mạch khuếch đại công suất?",
+        "answer": [
+            {
+                "value": " Cùng tần số"
+            },
+            {
+                "value": "Cùng biên độ"
+            },
+            {
+                "value": "Cùng pha"
+            },
+            {
+                "value": "Cùng tần số, biên độ"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": " Cùng tần số"
+            }
+        ]
+    },
+    {
+        "question": "Câu 17: Ở máy thu thanh tín hiệu ra của khối tách sóng là?",
+        "answer": [
+            {
+                "value": "Tín hiệu một chiều"
+            },
+            {
+                "value": "Tín hiệu xoay chiều"
+            },
+            {
+                "value": "Tín hiệu cao tần"
+            },
+            {
+                "value": "Tín hiệu trung tần"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tín hiệu một chiều"
+            }
+        ]
+    },
+    {
+        "question": "Câu 18: Tín hiệu ra của khối tách sóng ở máy thu thanh là?",
+        "answer": [
+            {
+                "value": "Tín hiệu âm tần"
+            },
+            {
+                "value": "Tín hiệu xoay chiều"
+            },
+            {
+                "value": "Tín hiệu cao tần"
+            },
+            {
+                "value": "Tín hiệu trung tần"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tín hiệu âm tần"
+            }
+        ]
+    },
+    {
+        "question": "Câu 19: Các màu cơ bản trong máy thu hình màu là?",
+        "answer": [
+            {
+                "value": "Đỏ, lục, lam"
+            },
+            {
+                "value": "Xanh, đỏ, tím"
+            },
+            {
+                "value": "Đỏ, tím, vàng"
+            },
+            {
+                "value": "Đỏ, lục, vàng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Đỏ, lục, lam"
+            }
+        ]
+    },
+    {
+        "question": "Câu 20: Ở nước ta, cấp điện áp cao nhất bằng bao nhiêu?",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "500 kV.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "220 kV.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "800 kV.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "110 kV.",
+        "answer": [],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 21: Mạch điện xoay chiều ba pha là mạch điện gồm những thành phần nào?",
+        "answer": [
+            {
+                "value": "nguồn điện ba pha, dây dẫn ba pha và tải ba pha."
+            },
+            {
+                "value": "nguồn điện, dây dẫn và tải."
+            },
+            {
+                "value": "nguồn và tải ba pha."
+            },
+            {
+                "value": "nguồn và dây dẫn ba pha"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "nguồn điện ba pha, dây dẫn ba pha và tải ba pha."
+            }
+        ]
+    },
+    {
+        "question": "Câu 22.Dòng điện xoay chiều là dòng điện ?",
+        "answer": [
+            {
+                "value": " Có chiều và trị số liên tục thay đổi theo thời gian."
+            },
+            {
+                "value": "Có chiều luôn thay đổi."
+            },
+            {
+                "value": "Có trị số luôn thay đổi."
+            },
+            {
+                "value": "Có chiều và trị số không đổi."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": " Có chiều và trị số liên tục thay đổi theo thời gian."
+            }
+        ]
+    },
+    {
+        "question": "Câu 23.Máy biến áp là gì ?",
+        "answer": [
+            {
+                "value": " Máy điện dùng biến đổi điện áp xoay chiều nhưng giữ nguyên tần số dòng điện."
+            },
+            {
+                "value": "Máy điện dùng biến đổi điện áp và tần số dòng điện."
+            },
+            {
+                "value": "Máy biến đổi tần số nhưng giữ nguyên điện áp"
+            },
+            {
+                "value": "Máy biến đổi dòng điện."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": " Máy điện dùng biến đổi điện áp xoay chiều nhưng giữ nguyên tần số dòng điện."
+            }
+        ]
+    },
+    {
+        "question": "Câu 24: Thiết bị nào không thể dùng truyền thông tin qua không gian?",
+        "answer": [
+            {
+                "value": "Điện thoại bàn"
+            },
+            {
+                "value": "Điện thoại di động"
+            },
+            {
+                "value": "Radio"
+            },
+            {
+                "value": "Truyền hình"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Điện thoại bàn"
+            }
+        ]
+    },
+    {
+        "question": "Câu 25.Lõi thép của máy biến áp gồm nhiều lá thép kỹ thuật điện mỏng, sơn cách điện, ghép chặt lại nhằm mục đích nào ?",
+        "answer": [
+            {
+                "value": "Giảm tác dụng nhiệt của dòng điện phu cô trong lõi thép."
+            },
+            {
+                "value": "Chống rò điện từ lõi ra vỏ máy."
+            },
+            {
+                "value": "Đảm bảo độ bền cho các lá thép."
+            },
+            {
+                "value": "Chống rò điện từ lõi ra vỏ máy. Đảm bảo độ bền cho các lá thép."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Giảm tác dụng nhiệt của dòng điện phu cô trong lõi thép."
+            }
+        ]
+    },
+    {
+        "question": "Câu 26.Động cơ không đồng bộ ba pha khi hoạt động có ?",
+        "answer": [
+            {
+                "value": " Tốc độ quay của rôto nhỏ hơn tốc độ quay của từ trường."
+            },
+            {
+                "value": "Tốc độ quay của Rôto lớn hơn tốc độ quay của từ trường"
+            },
+            {
+                "value": "Tốc độ quay của rôto bằng tốc độ quay của từ trường"
+            },
+            {
+                "value": "Tốc độ quay của rôto không phụ thuộc vào tốc độ quay của từ trường."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": " Tốc độ quay của rôto nhỏ hơn tốc độ quay của từ trường."
+            }
+        ]
+    },
+    {
+        "question": "Câu 27.Trong động cơ không đồng bộ ba pha, tốc độ quay của rôto luôn nhỏ hơn tốc độ quay của từ trường quay là vì ?",
+        "answer": [
+            {
+                "value": " Để tạo sự biến thiên của từ trường quay trên dây quấn rôto."
+            },
+            {
+                "value": "Để tạo sự biến thiên của từ trường quay trên dây quân stato."
+            },
+            {
+                "value": "Có sự tổn hao điện năng trong dây stato."
+            },
+            {
+                "value": "Có sự tổn hao điện năng trong dây rôto."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": " Để tạo sự biến thiên của từ trường quay trên dây quấn rôto."
+            }
+        ]
+    }
+]

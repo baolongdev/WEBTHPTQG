@@ -1,0 +1,678 @@
+[
+    {
+        "question": "Câu 1: Thiết bị nào không thể dùng truyền thông tin qua không gian?",
+        "answer": [
+            {
+                "value": "Điện thoại bàn"
+            },
+            {
+                "value": "Điện thoại di động"
+            },
+            {
+                "value": "Radio"
+            },
+            {
+                "value": "Truyền hình"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Điện thoại bàn"
+            }
+        ]
+    },
+    {
+        "question": "Câu 2: Có mấy phương pháp truyền thông tin?",
+        "answer": [
+            {
+                "value": "2"
+            },
+            {
+                "value": "1"
+            },
+            {
+                "value": "3"
+            },
+            {
+                "value": "4"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "question": "Câu 3: Đâu là khâu cuối cùng của hệ thống thông tin?",
+        "answer": [
+            {
+                "value": "Màn hình tivi"
+            },
+            {
+                "value": "Modem"
+            },
+            {
+                "value": "Anten"
+            },
+            {
+                "value": "Micro"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Màn hình tivi"
+            }
+        ]
+    },
+    {
+        "question": "Câu 4: Máy tăng âm có công dụng nào?",
+        "answer": [
+            {
+                "value": "Là thiết bị khuếch đại tín hiệu âm thanh."
+            },
+            {
+                "value": "Là thiết bị khuếch đại tín hiệu hình ảnh."
+            },
+            {
+                "value": "Là thiết bị khuếch đại tín hiệu âm thanh và hình ảnh."
+            },
+            {
+                "value": "Là thiết bị khuếch đại công suất."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Là thiết bị khuếch đại tín hiệu âm thanh."
+            }
+        ]
+    },
+    {
+        "question": "Câu 5: Dựa vào đâu để phân loại máy tăng âm?",
+        "answer": [
+            {
+                "value": "Dựa vào chất lượng máy, công suất, linh kiện máy tăng âm."
+            },
+            {
+                "value": "Chỉ dựa vào công suất"
+            },
+            {
+                "value": "Chỉ dựa vào linh kiện máy tăng âm"
+            },
+            {
+                "value": "Chỉ dựa vào khả năng thu sóng."
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 6: Sơ đồ khối máy tăng âm gồm:",
+        "answer": [
+            {
+                "value": "lbl7 khối"
+            },
+            {
+                "value": "lbl 5 khối"
+            },
+            {
+                "value": "lbl 6 khối"
+            },
+            {
+                "value": "lbl 8 khối"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "lbl 6 khối"
+            }
+        ]
+    },
+    {
+        "question": "Câu 7: Khối nào cung cấp điện cho toàn bộ máy tăng âm",
+        "answer": [
+            {
+                "value": "Nguồn nuôi"
+            },
+            {
+                "value": "Mạch khuếch đại công suất"
+            },
+            {
+                "value": "Mạch vào"
+            },
+            {
+                "value": "Loa"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Nguồn nuôi"
+            }
+        ]
+    },
+    {
+        "question": "Câu 8: Cường độ âm thanh do khối nào quyết đinh",
+        "answer": [
+            {
+                "value": "Mạch âm sắc"
+            },
+            {
+                "value": "Mạch tiền khuếch đại"
+            },
+            {
+                "value": "Mạch khuếch đại trung gian"
+            },
+            {
+                "value": "Mạch khuếch đại công suất"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Mạch khuếch đại công suất"
+            }
+        ]
+    },
+    {
+        "question": "Câu 9: Trong các khối sau, khối nào không thuộc sơ đồ khối máy tăng âm?",
+        "answer": [
+            {
+                "value": "Mạch ra"
+            },
+            {
+                "value": "Mạch vào"
+            },
+            {
+                "value": "Mạch tiền khuếch đại"
+            },
+            {
+                "value": "Mạch khuếch đại công suất"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Mạch ra"
+            }
+        ]
+    },
+    {
+        "question": "Câu 10: Hoạt động của máy thu song cần đáp ứng yêu cầu nào?",
+        "answer": [
+            {
+                "value": "Máy thu sóng phải tương thích với máy phát sóng về tần số thu phát và phương thức điều chế."
+            },
+            {
+                "value": "Máy thu sóng phải tương thích với máy phát sóng về tần số phát"
+            },
+            {
+                "value": "Máy thu sóng phải tương thích với máy phát sóng về phương thức điều chế"
+            },
+            {
+                "value": "Máy thu sóng phải tương thích với máy phát sóng về tần số thu"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Máy thu sóng phải tương thích với máy phát sóng về tần số thu phát và phương thức điều chế."
+            }
+        ]
+    },
+    {
+        "question": "Câu 11: Nhiệm vụ của khối dao động ngoại sai:",
+        "answer": [
+            {
+                "value": "Tạo ra sóng cao tần cho máy"
+            },
+            {
+                "value": "Thu sóng cao tần trong không gian"
+            },
+            {
+                "value": "Vừa tạo sóng cao tần cho máy, vừa thu sóng cao tần trong không gian"
+            },
+            {
+                "value": "Tất cả đều sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tạo ra sóng cao tần cho máy"
+            }
+        ]
+    },
+    {
+        "question": "Câu 12: Ở máy thu thanh tín hiệu vào khối chọn sóng thường là?",
+        "answer": [
+            {
+                "value": "Tín hiệu cao tần"
+            },
+            {
+                "value": "Tín hiệu âm tần"
+            },
+            {
+                "value": "Tín hiệu trung tần"
+            },
+            {
+                "value": "Tín hiệu âm tần, trung tần"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tín hiệu cao tần"
+            }
+        ]
+    },
+    {
+        "question": "Câu 13: Sóng trung tần ở máy thu thanh có trị số khoảng?",
+        "answer": [
+            {
+                "value": "lbl 465 kHz"
+            },
+            {
+                "value": "lbl 565 kHz"
+            },
+            {
+                "value": "lbl 565 Hz"
+            },
+            {
+                "value": "lbl 465 Hz"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "lbl 465 kHz"
+            }
+        ]
+    },
+    {
+        "question": "Câu 14: Các khối cơ bản của máy thu thanh AM gồm?",
+        "answer": [
+            {
+                "value": "lbl 8 khối"
+            },
+            {
+                "value": "lbl 6 khối"
+            },
+            {
+                "value": "lbl 5 khối"
+            },
+            {
+                "value": "lbl 4 khối"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "lbl 8 khối"
+            }
+        ]
+    },
+    {
+        "question": "Câu 15: Căn cứ vào đâu để phân biệt máy thu thanh AM và máy thu thanh FM?",
+        "answer": [
+            {
+                "value": "Điều chế tín hiệu."
+            },
+            {
+                "value": "Mã hóa tín hiệu."
+            },
+            {
+                "value": "Truyền tín hiệu."
+            },
+            {
+                "value": "Xử lý tín hiệu."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Điều chế tín hiệu."
+            }
+        ]
+    },
+    {
+        "question": "Câu 16: Tín hiệu ra của khối tách sóng ở máy thu thanh là?",
+        "answer": [
+            {
+                "value": "Tín hiệu âm tần"
+            },
+            {
+                "value": "Tín hiệu xoay chiều"
+            },
+            {
+                "value": "Tín hiệu cao tần"
+            },
+            {
+                "value": "Tín hiệu trung tần"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Tín hiệu âm tần"
+            }
+        ]
+    },
+    {
+        "question": "Câu 17: Trong máy thu hình, việc xử lí âm thanh, hình ảnh?",
+        "answer": [
+            {
+                "value": "Được xử lí độc lập"
+            },
+            {
+                "value": "Được xử lí chung"
+            },
+            {
+                "value": "Tuỳ thuộc vào máy thu"
+            },
+            {
+                "value": "Tuỳ thuộc vào máy phát"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Được xử lí độc lập"
+            }
+        ]
+    },
+    {
+        "question": "Câu 18: Máy thu hình là gì?",
+        "answer": [
+            {
+                "value": "Là thiết bị nhận và tái tạo lại tín hiệu âm thanh và hình ảnh của đài truyền hình."
+            },
+            {
+                "value": "Thiết bị nhận tín hiệu âm thanh."
+            },
+            {
+                "value": "Là thiết bị nhận tín hiệu hình ảnh."
+            },
+            {
+                "value": "Là thiết bị nhận tín hiệu âm thanh và hình ảnh."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "Là thiết bị nhận và tái tạo lại tín hiệu âm thanh và hình ảnh của đài truyền hình."
+            }
+        ]
+    },
+    {
+        "question": "Câu 19: Các khối cơ bản của máy thu hình gồm?",
+        "answer": [
+            {
+                "value": "lbl 7 khối"
+            },
+            {
+                "value": "lbl 8 khối"
+            },
+            {
+                "value": "lbl 6 khối"
+            },
+            {
+                "value": "lbl 5 khối"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "lbl 7 khối"
+            }
+        ]
+    },
+    {
+        "question": "Câu 20: Các khối cơ bản của phần xử lí tín hiệu màu trong máy thu hình màu gồm?",
+        "answer": [
+            {
+                "value": "lbl 6 khối"
+            },
+            {
+                "value": "lbl 7 khối"
+            },
+            {
+                "value": "lbl 5 khối"
+            },
+            {
+                "value": "lbl 4 khối"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "lbl 6 khối"
+            }
+        ]
+    },
+    {
+        "question": "Câu 21: Khối xử lí tín hiệu hình sẽ khuếch đại tín hiệu màu nào sau đây? A.Màu đỏ, lục, lam",
+        "answer": [
+            {
+                "value": "B.Màu lục C.Màu lam D.Màu cam"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 22: Một máy thu hình chỉ có âm thanh thì khối nào bị hỏng? A.Khối xử lí tín hiệu hình",
+        "answer": [
+            {
+                "value": "B. Khối phục hồi hình ảnh"
+            },
+            {
+                "value": "C.Khối đồng bộ và tạo xung quét"
+            },
+            {
+                "value": "D. Khối nguồn"
+            }
+        ],
+        "right_answer": []
+    },
+    {
+        "question": "Câu 23: Nhiệm vụ của khối vi xử lí và điều khiển:",
+        "answer": [
+            {
+                "value": "A. Nhận lệnh điều khiển từ xa hay từ phím bấm để điều khiển các hoạt động của máy thu hình."
+            },
+            {
+                "value": "B. Nhận lệnh điều khiển từ các mạch trong máy"
+            },
+            {
+                "value": "C. Nhận lệnh điều khiển từ phím bấm"
+            },
+            {
+                "value": "D. Nhận lệnh điều khiển từ xa"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Nhận lệnh điều khiển từ xa hay từ phím bấm để điều khiển các hoạt động của máy thu hình."
+            }
+        ]
+    },
+    {
+        "question": "Câu 24: Khối cao tần, trung tần, tách sóng nhận tín hiệu cao tần từ đâu?",
+        "answer": [
+            {
+                "value": "A. Anten"
+            },
+            {
+                "value": "B. Khối nguồn."
+            },
+            {
+                "value": "C. Khối vi xử lí và điều khiển."
+            },
+            {
+                "value": "D. Do máy phát ra."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Anten"
+            }
+        ]
+    },
+    {
+        "question": "Câu 25: Khối cao tần, trung tần, tách sóng sau khi điều chỉnh tần số ngoại sai và hệ số khuếch đại, sẽ đưa tín hiệu đến khối:",
+        "answer": [
+            {
+                "value": "A. lbl 2, 3, 4"
+            },
+            {
+                "value": "B. lbl 1, 2, 3"
+            },
+            {
+                "value": "C. lbl 2, 3, 5"
+            },
+            {
+                "value": "D. lbl 1, 4, 5"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. lbl 2, 3, 4"
+            }
+        ]
+    },
+    {
+        "question": "Câu 26: Một hệ thống thông tin và viễn thông gồm ?",
+        "answer": [
+            {
+                "value": "A. phần phát và phần thu thông tin."
+            },
+            {
+                "value": "B. phát và truyền thông tin."
+            },
+            {
+                "value": "C. phần thu thông tin."
+            },
+            {
+                "value": "D. phát thông tin."
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. phần phát và phần thu thông tin."
+            }
+        ]
+    },
+    {
+        "question": "Câu 27: Sơ đồ khối của hệ thống thông tin và viễn thông phần thu thông tin gồm?",
+        "answer": [
+            {
+                "value": "A. lbl 3 khối"
+            },
+            {
+                "value": "B. lbl 4 khối"
+            },
+            {
+                "value": "C. lbl 5 khối"
+            },
+            {
+                "value": "D. lbl 6 khối"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "B. lbl 4 khối"
+            }
+        ]
+    },
+    {
+        "question": "Câu 28: Vô tuyến truyền hình và truyền hình cáp khác nhau ở chỗ nào?",
+        "answer": [
+            {
+                "value": "A. Môi trường truyền tin"
+            },
+            {
+                "value": "B. Mã hoá tin"
+            },
+            {
+                "value": "C. Xử lý tin"
+            },
+            {
+                "value": "D. Nhận thông tin"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Môi trường truyền tin"
+            }
+        ]
+    },
+    {
+        "question": "Câu 29: Tín hiệu vào và ra ở mạch khuếch đại công suất trong máy tăng âm là tín hiệu nào?",
+        "answer": [
+            {
+                "value": "A. Tín hiệu cao tần"
+            },
+            {
+                "value": "B. Tín hiệu trung tần"
+            },
+            {
+                "value": "C. Tín hiệu âm tần"
+            },
+            {
+                "value": "D. Tín hiệu ngoại sai"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "C. Tín hiệu âm tần"
+            }
+        ]
+    },
+    {
+        "question": "Câu 30: Các màu cơ bản trong máy thu hình màu là?",
+        "answer": [
+            {
+                "value": "A. Đỏ, lục, lam"
+            },
+            {
+                "value": "B. Xanh, đỏ, tím"
+            },
+            {
+                "value": "C. Đỏ, tím, vàng"
+            },
+            {
+                "value": "D. Đỏ, lục, vàng"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Đỏ, lục, lam"
+            },
+            {
+                "value": "B. Xanh, đỏ, tím"
+            },
+            {
+                "value": "C. Đỏ, tím, vàng"
+            },
+            {
+                "value": "D. Đỏ, lục, vàng"
+            }
+        ]
+    },
+    {
+        "question": "Câu 31: Ở máy thu thanh tín hiệu ra của khối tách sóng là?",
+        "answer": [
+            {
+                "value": "A. Tín hiệu một chiều"
+            },
+            {
+                "value": "B. Tín hiệu xoay chiều"
+            },
+            {
+                "value": "C. Tín hiệu cao tần"
+            },
+            {
+                "value": "D. Tín hiệu trung tần"
+            }
+        ],
+        "right_answer": [
+            {
+                "value": "A. Tín hiệu một chiều"
+            },
+            {
+                "value": "B. Tín hiệu xoay chiều"
+            },
+            {
+                "value": "C. Tín hiệu cao tần"
+            },
+            {
+                "value": "D. Tín hiệu trung tần"
+            }
+        ]
+    }
+]
